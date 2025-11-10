@@ -1,0 +1,410 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-11-10 16:09+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_16.cpp:3
+msgid "UCI limit strength"
+msgstr "UCI সীমা শক্তি"
+
+#: main_16.cpp:5 main_16.cpp:38
+msgid "Chess engine UCI limit strength help"
+msgstr "দাবা ইঞ্জিন UCI সীমা শক্তি সহায়তা"
+
+#: main_16.cpp:7
+msgid "Select Cyclone Xtreme engine personality"
+msgstr "সাইক্লোন এক্সট্রিম ইঞ্জিন ব্যক্তিত্ব নির্বাচন করুন"
+
+#: main_16.cpp:9
+msgid "Reset engine file"
+msgstr "ইঞ্জিন ফাইল রিসেট করুন"
+
+#: main_16.cpp:11
+msgid "Create random personality file"
+msgstr "এলোমেলো ব্যক্তিত্ব ফাইল তৈরি করুন"
+
+#: main_16.cpp:13
+msgid "Create Cyclone Xtreme .cfg personality file"
+msgstr "সাইক্লোন এক্সট্রিম .cfg পার্সোনালিটি ফাইল তৈরি করুন"
+
+#: main_16.cpp:15
+msgid "Cyclone Xtreme engine options"
+msgstr "সাইক্লোন এক্সট্রিম ইঞ্জিনের বিকল্পগুলি"
+
+#: main_16.cpp:18
+msgid "Reset the Cyclone Xtreme engine configuration file to the default values"
+msgstr "সাইক্লোন এক্সট্রিম ইঞ্জিন কনফিগারেশন ফাইলটি ডিফল্ট মানগুলিতে রিসেট করুন"
+
+#: main_16.cpp:20
+msgid "Create a random personality file for the Cyclone Xtreme engine"
+msgstr "সাইক্লোন এক্সট্রিম ইঞ্জিনের জন্য একটি এলোমেলো ব্যক্তিত্ব ফাইল তৈরি করুন"
+
+#: main_16.cpp:22
+msgid "Select the default < cyclone.cfg > personality file"
+msgstr "ডিফল্ট cyclone.cfg > ব্যক্তিত্ব ফাইলটি নির্বাচন করুন।"
+
+#: main_16.cpp:23
+msgid "Hold down the shift key to clear the input box"
+msgstr "ইনপুট বাক্সটি সাফ করার জন্য শিফট কীটি ধরে রাখুন।"
+
+#: main_16.cpp:25
+msgid "was reset to the default values"
+msgstr "ডিফল্ট মানগুলিতে রিসেট করা হয়েছে"
+
+#: main_16.cpp:27
+msgid "Error resetting"
+msgstr "রিসেট করার সময় ত্রুটি"
+
+#: main_16.cpp:29
+msgid "Random engine configuration file"
+msgstr "র‍্যান্ডম ইঞ্জিন কনফিগারেশন ফাইল"
+
+#: main_16.cpp:30
+msgid "created"
+msgstr "তৈরি"
+
+#: main_16.cpp:32
+msgid "Error creating random engine configuration file"
+msgstr "র‍্যান্ডম ইঞ্জিন কনফিগারেশন ফাইল তৈরিতে ত্রুটি"
+
+#: main_16.cpp:34
+msgid "Help for Cyclone Xtreme engine"
+msgstr "সাইক্লোন এক্সট্রিম ইঞ্জিনের জন্য সাহায্য"
+
+#: main_16.cpp:36
+msgid "UCI Limit strength"
+msgstr "UCI সীমা শক্তি"
+
+#: main_16.cpp:41
+msgid "The Cyclone Xtreme engine which was written by Norman Schmidt"
+msgstr "সাইক্লোন এক্সট্রিম ইঞ্জিন যা নরম্যান শ্মিট লিখেছিলেন"
+
+#: main_16.cpp:43
+msgid "is a Fruit derivative."
+msgstr "একটি ফলের ডেরিভেটিভ।"
+
+#: main_16.cpp:45
+msgid "It has a huge number of parameters that can be used to tune the engine."
+msgstr "এতে প্রচুর সংখ্যক প্যারামিটার রয়েছে যা ইঞ্জিন টিউন করার জন্য ব্যবহার করা যেতে পারে।"
+
+#: main_16.cpp:47
+msgid "There is also a feature for creating random parameter files for the engine."
+msgstr "ইঞ্জিনের জন্য এলোমেলো প্যারামিটার ফাইল তৈরি করার জন্য একটি বৈশিষ্ট্যও রয়েছে।"
+
+#: main_16.cpp:50
+msgid "I have made ten random parameter files, which I have called < Personalities >"
+msgstr "আমি দশটি র‍্যান্ডম প্যারামিটার ফাইল তৈরি করেছি, যেগুলোকে আমি <Personalities> বলেছি।"
+
+#: main_16.cpp:52
+msgid "They are named < Person_1.cfg > up to < Person_10.cfg > and should be stored"
+msgstr "এগুলোর নাম <Person_1.cfg > থেকে <Person_10.cfg > এবং সংরক্ষণ করা উচিত"
+
+#: main_16.cpp:54
+msgid "in a < Personalities > directory located in the same directory as the engine."
+msgstr "ইঞ্জিনের মতো একই ডিরেক্টরিতে অবস্থিত একটি <Personalities> ডিরেক্টরিতে।"
+
+#: main_16.cpp:57
+msgid "These personalities can be made if you run the engine from the command prompt"
+msgstr "কমান্ড প্রম্পট থেকে ইঞ্জিন চালালে এই ব্যক্তিত্বগুলি তৈরি করা যেতে পারে"
+
+#: main_16.cpp:59
+msgid "but it is much simpler to make them using the options in Nimzo_3d."
+msgstr "কিন্তু Nimzo_3d এর বিকল্পগুলি ব্যবহার করে এগুলি তৈরি করা অনেক সহজ।"
+
+#: main_16.cpp:62
+msgid "Options available in the dialog box -"
+msgstr "ডায়ালগ বক্সে উপলব্ধ বিকল্পগুলি -"
+
+#: main_16.cpp:65
+msgid "Select Cyclone Xtreme personality file  -  opens a Windows Explorer window"
+msgstr "সাইক্লোন এক্সট্রিম পার্সোনালিটি ফাইল নির্বাচন করুন - একটি উইন্ডোজ এক্সপ্লোরার উইন্ডো খুলবে"
+
+#: main_16.cpp:67
+msgid "which you can use to select the personality file for the engine."
+msgstr "যা আপনি ইঞ্জিনের জন্য ব্যক্তিত্ব ফাইল নির্বাচন করতে ব্যবহার করতে পারেন।"
+
+#: main_16.cpp:70
+msgid "Reset Engine  -  Reset the Cyclone Xtreme engine personality file"
+msgstr "ইঞ্জিন রিসেট করুন - সাইক্লোন এক্সট্রিম ইঞ্জিন পার্সোনালিটি ফাইল রিসেট করুন"
+
+#: main_16.cpp:72
+msgid "to the default values."
+msgstr "ডিফল্ট মানগুলিতে।"
+
+#: main_16.cpp:75
+msgid "Create random personality file  -  opens a Windows Explorer window"
+msgstr "র‍্যান্ডম পার্সোনালিটি ফাইল তৈরি করুন - একটি উইন্ডোজ এক্সপ্লোরার উইন্ডো খোলে"
+
+#: main_16.cpp:77
+msgid "which you can use to select the random personality file for the engine."
+msgstr "যা আপনি ইঞ্জিনের জন্য র‍্যান্ডম পার্সোনালিটি ফাইল নির্বাচন করতে ব্যবহার করতে পারেন।"
+
+#: main_16.cpp:79
+msgid "When you click on < Open > the file will be created."
+msgstr "যখন আপনি <Open > এ ক্লিক করবেন তখন ফাইলটি তৈরি হবে।"
+
+#: main_16.cpp:82
+msgid "When a personality is selected, the default personality file < cyclone.cfg >"
+msgstr "যখন একটি ব্যক্তিত্ব নির্বাচন করা হয়, তখন ডিফল্ট ব্যক্তিত্ব ফাইলটি cyclone.cfg >"
+
+#: main_16.cpp:84
+msgid "which is in the same directory as the engine, has its values over-written"
+msgstr "যা ইঞ্জিনের মতো একই ডিরেক্টরিতে থাকে, তার মানগুলি ওভার-রাইট করা থাকে"
+
+#: main_16.cpp:86
+msgid "with the ones contained in the file that you select."
+msgstr "আপনার নির্বাচিত ফাইলটিতে থাকা ফাইলগুলি সহ।"
+
+#: main_16.cpp:89
+msgid "There is a copy of the original version of < cyclone.cfg >"
+msgstr "cyclone.cfg > এর মূল সংস্করণের একটি কপি আছে।"
+
+#: main_16.cpp:91
+msgid "in the < Personalities > directory and when you choose < Reset engine >"
+msgstr "<ব্যক্তিগত> ডিরেক্টরিতে এবং যখন আপনি <রিসেট ইঞ্জিন> নির্বাচন করেন"
+
+#: main_16.cpp:93
+msgid "it is copied over the < cyclone.cfg > in the engine directory."
+msgstr "এটি ইঞ্জিন ডিরেক্টরিতে cyclone.cfg > এর মাধ্যমে অনুলিপি করা হয়েছে।"
+
+#: main_16.cpp:95
+msgid "The engine has a repository on GitHub at -"
+msgstr "ইঞ্জিনটির GitHub-এ একটি সংগ্রহস্থল রয়েছে -"
+
+#: main_16.cpp:97
+msgid "When < UCI_LimitStrength > is enabled, the engine uses the < UCI_Elo > value"
+msgstr "যখন UCI_LimitStrength > সক্রিয় থাকে, তখন ইঞ্জিনটি UCI_Elo > মান ব্যবহার করে"
+
+#: main_16.cpp:99
+msgid "to adjust its playing strength. Engines use different algorithms to achieve this,"
+msgstr "এর বাজানোর শক্তি সামঞ্জস্য করতে। ইঞ্জিনগুলি এটি অর্জনের জন্য বিভিন্ন অ্যালগরিদম ব্যবহার করে,"
+
+#: main_16.cpp:101
+msgid "such as reducing the search depth, limiting the number of positions examined,"
+msgstr "যেমন অনুসন্ধানের গভীরতা হ্রাস করা, পরীক্ষিত পদের সংখ্যা সীমিত করা,"
+
+#: main_16.cpp:103
+msgid "or adding some randomness to the evaluation function."
+msgstr "অথবা মূল্যায়ন ফাংশনে কিছু এলোমেলোতা যোগ করা।"
+
+#: main_16.cpp:105
+msgid "The actual Elo rating achieved by the engine is often an estimate,"
+msgstr "ইঞ্জিন দ্বারা অর্জিত প্রকৃত Elo রেটিং প্রায়শই একটি অনুমান,"
+
+#: main_16.cpp:107
+msgid "as it's difficult to calibrate precisely."
+msgstr "কারণ সঠিকভাবে ক্যালিব্রেট করা কঠিন।"
+
+#: main_16.cpp:109
+msgid "You can use this feature to play an engine at a level comparable to your own"
+msgstr "আপনি এই বৈশিষ্ট্যটি ব্যবহার করে আপনার নিজের মতো একটি স্তরে একটি ইঞ্জিন চালাতে পারেন"
+
+#: main_16.cpp:111
+msgid "or to test different engine strengths, even if the exact Elo isn't perfect."
+msgstr "অথবা বিভিন্ন ইঞ্জিনের শক্তি পরীক্ষা করার জন্য, এমনকি যদি সঠিক Elo নিখুঁত নাও হয়।"
+
+#: main_16.cpp:113
+msgid "I have added the < UCI_LimitStrength > option to four engines -"
+msgstr "আমি চারটি ইঞ্জিনে UCI_LimitStrength > বিকল্পটি যুক্ত করেছি -"
+
+#: main_16.cpp:115
+msgid "Gambit Fruit, Toga II, Cyclone Xtreme and Firenzina."
+msgstr "গ্যাম্বিট ফ্রুট, টোগা II, সাইক্লোন এক্সট্রিম এবং ফায়ারঞ্জিনা।"
+
+#: main_16.cpp:117
+msgid "Apart from setting the Elo rating, the playing strength"
+msgstr "Elo রেটিং নির্ধারণ ছাড়াও, খেলার শক্তি"
+
+#: main_16.cpp:119
+msgid "of all of these engines can be further adjusted with other options."
+msgstr "এই সমস্ত ইঞ্জিনগুলিকে অন্যান্য বিকল্পের সাথে আরও সামঞ্জস্য করা যেতে পারে।"
+
+#: main_16.cpp:121
+msgid "The method that I have used is based on the code of Ryan Benitez"
+msgstr "আমি যে পদ্ধতিটি ব্যবহার করেছি তা রায়ান বেনিতেজের কোডের উপর ভিত্তি করে তৈরি।"
+
+#: main_16.cpp:123
+msgid "in the Gambit Fruit engine.  He wrote a delay loop governed by the"
+msgstr "গ্যাম্বিট ফ্রুট ইঞ্জিনে। তিনি একটি বিলম্ব লুপ লিখেছিলেন যা দ্বারা পরিচালিত হয়"
+
+#: main_16.cpp:125
+msgid "number of nodes (positions) per second that the engine analyses."
+msgstr "ইঞ্জিন বিশ্লেষণ করে প্রতি সেকেন্ডে নোডের (অবস্থান) সংখ্যা।"
+
+#: main_16.cpp:127
+msgid "I mapped an Elo rating to a nodes per second value using the following"
+msgstr "আমি নিম্নলিখিতটি ব্যবহার করে প্রতি সেকেন্ডে নোডের মানের সাথে একটি Elo রেটিং ম্যাপ করেছি"
+
+#: main_16.cpp:129
+msgid "algorithm devised by Ferdinand Mosca"
+msgstr "ফার্ডিনান্ড মোসকা কর্তৃক উদ্ভাবিত অ্যালগরিদম"
+
+#: main_16.cpp:131
+msgid "nodes_per_second ="
+msgstr "নোড_প্রতি_সেকেন্ড ="
+
+#: main_16.cpp:133
+msgid "I made the addition adjustment in the original formula into a variable"
+msgstr "আমি মূল সূত্রে যোগ সমন্বয় করে একটি চলকে পরিণত করেছি"
+
+#: main_16.cpp:135
+msgid "< nps_elo_adjustment > in order to fine tune the conversion formula."
+msgstr "<nps_elo_adjustment > রূপান্তর সূত্রটি সূক্ষ্মভাবে সুরক্ষিত করার জন্য।"
+
+#: main_16.cpp:137
+msgid "This can be set by the user in engine parameters."
+msgstr "এটি ব্যবহারকারী ইঞ্জিন প্যারামিটারে সেট করতে পারেন।"
+
+#: main_16.cpp:139
+msgid "Increase this value to make the engine stronger,"
+msgstr "ইঞ্জিনকে শক্তিশালী করতে এই মানটি বাড়ান,"
+
+#: main_16.cpp:141
+msgid "decrease it to make the engine weaker."
+msgstr "ইঞ্জিন দুর্বল করার জন্য এটি কমিয়ে দিন।"
+
+#: main_16.cpp:143
+msgid "There is also a < Variety > parameter that can be adjusted."
+msgstr "এছাড়াও একটি <Variety> প্যারামিটার রয়েছে যা সামঞ্জস্য করা যেতে পারে।"
+
+#: main_16.cpp:145
+msgid "My intention for this option was that the engine would play a more varied game."
+msgstr "এই বিকল্পটির জন্য আমার উদ্দেশ্য ছিল ইঞ্জিনটি আরও বৈচিত্র্যময় খেলা খেলবে।"
+
+#: main_16.cpp:147
+msgid "Then I realised that it could be combined with an < Allowed deficit > option"
+msgstr "তারপর আমি বুঝতে পারলাম যে এটি একটি <অনুমোদিত ঘাটতি > বিকল্পের সাথে একত্রিত করা যেতে পারে"
+
+#: main_16.cpp:149
+msgid "to adjust the engine playing strength further."
+msgstr "ইঞ্জিনের বাজানোর শক্তি আরও সামঞ্জস্য করতে।"
+
+#: main_16.cpp:151
+msgid "Lines that are weaker than the < Allowed deficit(centi-pawns) >"
+msgstr "<অনুমোদিত ঘাটতি (সেন্টি-প্যান) > এর চেয়ে দুর্বল রেখাগুলি"
+
+#: main_16.cpp:153
+msgid "when compared to the best move found, are excluded when a move is selected."
+msgstr "সেরা পদক্ষেপের সাথে তুলনা করলে, কোনও পদক্ষেপ নির্বাচন করা হলে বাদ দেওয়া হয়।"
+
+#: main_16.cpp:155
+msgid "The move that will be played is chosen at random from the remaining moves."
+msgstr "বাকি চালগুলি থেকে এলোমেলোভাবে যে চালটি চালানো হবে তা বেছে নেওয়া হবে।"
+
+#: main_16.cpp:157
+msgid "So raising the value of < Variety > and < Allowed deficit > weakens the engine."
+msgstr "তাই <Variety > এবং <Allowed deficit > এর মান বৃদ্ধি ইঞ্জিনকে দুর্বল করে দেয়।"
+
+#: main_16.cpp:159
+msgid "Therefore, if you want the engine to sometimes blunder a rook,"
+msgstr "অতএব, যদি আপনি চান যে ইঞ্জিনটি মাঝে মাঝে ভুল করে,"
+
+#: main_16.cpp:161
+msgid "the upper limit of < Allowed deficit > should be set to 600"
+msgstr "<অনুমোদিত ঘাটতি > এর ঊর্ধ্বসীমা 600 এ সেট করা উচিত"
+
+#: main_16.cpp:163
+msgid "To occasionally blunder a knight or bishop, it should be set to 350"
+msgstr "মাঝে মাঝে একজন নাইট বা বিশপের ভুল করার জন্য, এটি 350 এ সেট করা উচিত"
+
+#: main_16.cpp:165
+msgid "for a pawn it should be about 125."
+msgstr "একটি প্যানের জন্য এটি প্রায় ১২৫ হওয়া উচিত।"
+
+#: main_16.cpp:167
+msgid "You can use the < Variety > option just to vary the play if you set"
+msgstr "আপনি যদি সেট করেন তবে খেলার পরিবর্তনের জন্য <Variety > বিকল্পটি ব্যবহার করতে পারেন"
+
+#: main_16.cpp:169
+msgid "the < Allowed deficit > to a low value, say 25 centi-pawns."
+msgstr "<অনুমোদিত ঘাটতি > একটি কম মান, ধরুন ২৫ সেন্টি-প্যান।"
+
+#: main_16.cpp:171
+msgid "However, even this will still weaken the engine somewhat because the engine"
+msgstr "তবে, এটিও ইঞ্জিনকে কিছুটা দুর্বল করে দেবে কারণ ইঞ্জিন"
+
+#: main_16.cpp:173
+msgid "will use the < MultiPV > method of searching, which is slower than normal."
+msgstr "অনুসন্ধানের জন্য MultiPV > পদ্ধতি ব্যবহার করবে, যা স্বাভাবিকের চেয়ে ধীর।"
+
+#: main_16.cpp:175
+msgid "< Moves to go > is the number of moves that the engine is required to play"
+msgstr "<Moves to go > হলো ইঞ্জিনটি চালানোর জন্য প্রয়োজনীয় চালের সংখ্যা"
+
+#: main_16.cpp:177
+msgid "in whatever time it has remaining.  So if it has 2 minutes, 40 seconds left"
+msgstr "যতক্ষণ বাকি থাকে। তাহলে যদি ২ মিনিট ৪০ সেকেন্ড বাকি থাকে"
+
+#: main_16.cpp:179
+msgid "(160 seconds) and moves to go is set to 40 for that time period,"
+msgstr "(১৬০ সেকেন্ড) এবং সেই সময়ের জন্য মুভ টু গো ৪০ এ সেট করা হয়েছে,"
+
+#: main_16.cpp:181
+msgid "it will calculate the time available for its next move as \t160 / 40 = 4 seconds"
+msgstr "এটি তার পরবর্তী পদক্ষেপের জন্য উপলব্ধ সময় গণনা করবে \t160 / 40 = 4 সেকেন্ড"
+
+#: main_16.cpp:183
+msgid "and spend roughly that amount of time \ton its next move."
+msgstr "এবং পরবর্তী পদক্ষেপে প্রায় সেই পরিমাণ সময় ব্যয় করে।"
+
+#: main_16.cpp:185
+msgid "So the engine will play progressively faster as its time ticks away."
+msgstr "তাই সময় যত গড়িয়ে যাবে, ইঞ্জিনটি তত দ্রুত গতিতে চলবে।"
+
+#: main_16.cpp:187
+msgid "I have set different numbers for various time periods to even out the time usage."
+msgstr "সময়ের ব্যবহার সমান করার জন্য আমি বিভিন্ন সময়কালের জন্য বিভিন্ন সংখ্যা নির্ধারণ করেছি।"
+
+#: main_16.cpp:189
+msgid "Although I find it best to set a higher number for the last minute,"
+msgstr "যদিও শেষ মুহূর্তের জন্য আরও বেশি সংখ্যা নির্ধারণ করা আমার কাছে ভালো মনে হয়,"
+
+#: main_16.cpp:191
+msgid "so that the engine does not lose on time."
+msgstr "যাতে ইঞ্জিন সময়মতো নষ্ট না হয়।"
+
+#: main_16.cpp:193
+msgid "Speeding up the engine, either by raising these < Moves to go > values,"
+msgstr "ইঞ্জিনের গতি বাড়ানো, হয় এই <মুভস টু গো > মানগুলি বাড়িয়ে,"
+
+#: main_16.cpp:195
+msgid "or by reducing the overall time it has for the game, is another way"
+msgstr "অথবা খেলার জন্য সামগ্রিক সময় কমিয়ে আনা, আরেকটি উপায় হল"
+
+#: main_16.cpp:197
+msgid "of weakening the engine."
+msgstr "ইঞ্জিন দুর্বল করার জন্য।"
+
+#: main_16.cpp:199
+msgid "With the Cyclone Xtreme engine, loading a random personality will also"
+msgstr "সাইক্লোন এক্সট্রিম ইঞ্জিনের সাহায্যে, একটি এলোমেলো ব্যক্তিত্ব লোড করাও"
+
+#: main_16.cpp:201
+msgid "usually weaken the engine."
+msgstr "সাধারণত ইঞ্জিনকে দুর্বল করে।"
+
+#: main_16.cpp:203
+msgid "Armed with all of these options, you should be able to adjust"
+msgstr "এই সমস্ত বিকল্পের সাথে সজ্জিত, আপনি সামঞ্জস্য করতে সক্ষম হবেন"
+
+#: main_16.cpp:205
+msgid "all of these engines to a playing strength that suits you,"
+msgstr "এই সমস্ত ইঞ্জিনগুলিকে এমন একটি বাজানো শক্তিতে তৈরি করুন যা আপনার জন্য উপযুক্ত,"
+
+#: main_16.cpp:207
+msgid "although it may take a fair amount of experimentation to achieve this."
+msgstr "যদিও এটি অর্জনের জন্য যথেষ্ট পরিমাণে পরীক্ষা-নিরীক্ষার প্রয়োজন হতে পারে।"
