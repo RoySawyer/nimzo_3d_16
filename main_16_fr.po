@@ -1,0 +1,410 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-11-10 16:09+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_16.cpp:3
+msgid "UCI limit strength"
+msgstr "force limite UCI"
+
+#: main_16.cpp:5 main_16.cpp:38
+msgid "Chess engine UCI limit strength help"
+msgstr "Aide à la limite de force UCI pour les moteurs d'échecs"
+
+#: main_16.cpp:7
+msgid "Select Cyclone Xtreme engine personality"
+msgstr "Sélectionnez le profil du moteur Cyclone Xtreme"
+
+#: main_16.cpp:9
+msgid "Reset engine file"
+msgstr "Réinitialiser le fichier moteur"
+
+#: main_16.cpp:11
+msgid "Create random personality file"
+msgstr "Créer un fichier de personnalité aléatoire"
+
+#: main_16.cpp:13
+msgid "Create Cyclone Xtreme .cfg personality file"
+msgstr "Créer un fichier de personnalisation .cfg pour Cyclone Xtreme"
+
+#: main_16.cpp:15
+msgid "Cyclone Xtreme engine options"
+msgstr "options de moteur Cyclone Xtreme"
+
+#: main_16.cpp:18
+msgid "Reset the Cyclone Xtreme engine configuration file to the default values"
+msgstr "Réinitialisez le fichier de configuration du moteur Cyclone Xtreme aux valeurs par défaut"
+
+#: main_16.cpp:20
+msgid "Create a random personality file for the Cyclone Xtreme engine"
+msgstr "Créez un fichier de personnalité aléatoire pour le moteur Cyclone Xtreme."
+
+#: main_16.cpp:22
+msgid "Select the default < cyclone.cfg > personality file"
+msgstr "Sélectionnez le fichier de personnalité par défaut < cyclone.cfg >"
+
+#: main_16.cpp:23
+msgid "Hold down the shift key to clear the input box"
+msgstr "Maintenez la touche Maj enfoncée pour effacer la zone de saisie."
+
+#: main_16.cpp:25
+msgid "was reset to the default values"
+msgstr "a été réinitialisé aux valeurs par défaut"
+
+#: main_16.cpp:27
+msgid "Error resetting"
+msgstr "Réinitialisation de l'erreur"
+
+#: main_16.cpp:29
+msgid "Random engine configuration file"
+msgstr "Fichier de configuration du moteur aléatoire"
+
+#: main_16.cpp:30
+msgid "created"
+msgstr "créé"
+
+#: main_16.cpp:32
+msgid "Error creating random engine configuration file"
+msgstr "Erreur lors de la création du fichier de configuration du moteur aléatoire"
+
+#: main_16.cpp:34
+msgid "Help for Cyclone Xtreme engine"
+msgstr "Aide pour le moteur Cyclone Xtreme"
+
+#: main_16.cpp:36
+msgid "UCI Limit strength"
+msgstr "Force limite UCI"
+
+#: main_16.cpp:41
+msgid "The Cyclone Xtreme engine which was written by Norman Schmidt"
+msgstr "Le moteur Cyclone Xtreme a été écrit par Norman Schmidt"
+
+#: main_16.cpp:43
+msgid "is a Fruit derivative."
+msgstr "est un dérivé de fruit."
+
+#: main_16.cpp:45
+msgid "It has a huge number of parameters that can be used to tune the engine."
+msgstr "Il comporte un grand nombre de paramètres qui peuvent être utilisés pour régler le moteur."
+
+#: main_16.cpp:47
+msgid "There is also a feature for creating random parameter files for the engine."
+msgstr "Il existe également une fonctionnalité permettant de créer des fichiers de paramètres aléatoires pour le moteur."
+
+#: main_16.cpp:50
+msgid "I have made ten random parameter files, which I have called < Personalities >"
+msgstr "J'ai créé dix fichiers de paramètres aléatoires, que j'ai appelés < Personnalités >"
+
+#: main_16.cpp:52
+msgid "They are named < Person_1.cfg > up to < Person_10.cfg > and should be stored"
+msgstr "Ils sont nommés < Person_1.cfg > jusqu'à < Person_10.cfg > et doivent être stockés"
+
+#: main_16.cpp:54
+msgid "in a < Personalities > directory located in the same directory as the engine."
+msgstr "dans un répertoire <Personnalités> situé dans le même répertoire que le moteur."
+
+#: main_16.cpp:57
+msgid "These personalities can be made if you run the engine from the command prompt"
+msgstr "Ces personnalités peuvent être créées en exécutant le moteur depuis l'invite de commandes."
+
+#: main_16.cpp:59
+msgid "but it is much simpler to make them using the options in Nimzo_3d."
+msgstr "mais il est beaucoup plus simple de les réaliser en utilisant les options de Nimzo_3d."
+
+#: main_16.cpp:62
+msgid "Options available in the dialog box -"
+msgstr "Options disponibles dans la boîte de dialogue -"
+
+#: main_16.cpp:65
+msgid "Select Cyclone Xtreme personality file  -  opens a Windows Explorer window"
+msgstr "Sélectionnez le fichier de personnalisation Cyclone Xtreme - ouvre une fenêtre de l'Explorateur Windows"
+
+#: main_16.cpp:67
+msgid "which you can use to select the personality file for the engine."
+msgstr "que vous pouvez utiliser pour sélectionner le fichier de personnalité du moteur."
+
+#: main_16.cpp:70
+msgid "Reset Engine  -  Reset the Cyclone Xtreme engine personality file"
+msgstr "Réinitialiser le moteur - Réinitialiser le fichier de configuration du moteur Cyclone Xtreme"
+
+#: main_16.cpp:72
+msgid "to the default values."
+msgstr "aux valeurs par défaut."
+
+#: main_16.cpp:75
+msgid "Create random personality file  -  opens a Windows Explorer window"
+msgstr "Créer un fichier de personnalité aléatoire - ouvre une fenêtre de l'Explorateur Windows"
+
+#: main_16.cpp:77
+msgid "which you can use to select the random personality file for the engine."
+msgstr "que vous pouvez utiliser pour sélectionner le fichier de personnalité aléatoire pour le moteur."
+
+#: main_16.cpp:79
+msgid "When you click on < Open > the file will be created."
+msgstr "Lorsque vous cliquerez sur < Ouvrir >, le fichier sera créé."
+
+#: main_16.cpp:82
+msgid "When a personality is selected, the default personality file < cyclone.cfg >"
+msgstr "Lorsqu'une personnalité est sélectionnée, le fichier de personnalité par défaut < cyclone.cfg >"
+
+#: main_16.cpp:84
+msgid "which is in the same directory as the engine, has its values over-written"
+msgstr "Les valeurs de ce fichier, situé dans le même répertoire que le moteur, ont été écrasées."
+
+#: main_16.cpp:86
+msgid "with the ones contained in the file that you select."
+msgstr "avec ceux contenus dans le fichier que vous sélectionnez."
+
+#: main_16.cpp:89
+msgid "There is a copy of the original version of < cyclone.cfg >"
+msgstr "Il existe une copie de la version originale de < cyclone.cfg >"
+
+#: main_16.cpp:91
+msgid "in the < Personalities > directory and when you choose < Reset engine >"
+msgstr "dans le répertoire < Personnalités > et lorsque vous choisissez < Réinitialiser le moteur >"
+
+#: main_16.cpp:93
+msgid "it is copied over the < cyclone.cfg > in the engine directory."
+msgstr "Il est copié par-dessus le fichier < cyclone.cfg > dans le répertoire du moteur."
+
+#: main_16.cpp:95
+msgid "The engine has a repository on GitHub at -"
+msgstr "Le moteur possède un dépôt sur GitHub à l'adresse suivante :"
+
+#: main_16.cpp:97
+msgid "When < UCI_LimitStrength > is enabled, the engine uses the < UCI_Elo > value"
+msgstr "Lorsque < UCI_LimitStrength > est activé, le moteur utilise la valeur < UCI_Elo >"
+
+#: main_16.cpp:99
+msgid "to adjust its playing strength. Engines use different algorithms to achieve this,"
+msgstr "pour ajuster sa force de jeu. Les moteurs utilisent différents algorithmes pour y parvenir."
+
+#: main_16.cpp:101
+msgid "such as reducing the search depth, limiting the number of positions examined,"
+msgstr "par exemple, réduire la profondeur de recherche, limiter le nombre de positions examinées,"
+
+#: main_16.cpp:103
+msgid "or adding some randomness to the evaluation function."
+msgstr "ou en ajoutant une part d'aléatoire à la fonction d'évaluation."
+
+#: main_16.cpp:105
+msgid "The actual Elo rating achieved by the engine is often an estimate,"
+msgstr "Le classement Elo réellement atteint par le moteur est souvent une estimation."
+
+#: main_16.cpp:107
+msgid "as it's difficult to calibrate precisely."
+msgstr "car il est difficile de le calibrer précisément."
+
+#: main_16.cpp:109
+msgid "You can use this feature to play an engine at a level comparable to your own"
+msgstr "Vous pouvez utiliser cette fonctionnalité pour jouer contre un moteur d'un niveau comparable au vôtre."
+
+#: main_16.cpp:111
+msgid "or to test different engine strengths, even if the exact Elo isn't perfect."
+msgstr "ou pour tester différentes performances moteur, même si le classement Elo exact n'est pas parfait."
+
+#: main_16.cpp:113
+msgid "I have added the < UCI_LimitStrength > option to four engines -"
+msgstr "J'ai ajouté l'option < UCI_LimitStrength > à quatre moteurs -"
+
+#: main_16.cpp:115
+msgid "Gambit Fruit, Toga II, Cyclone Xtreme and Firenzina."
+msgstr "Gambit Fruit, Toga II, Cyclone Xtreme et Firenzina."
+
+#: main_16.cpp:117
+msgid "Apart from setting the Elo rating, the playing strength"
+msgstr "Outre l'établissement du classement Elo, la force de jeu"
+
+#: main_16.cpp:119
+msgid "of all of these engines can be further adjusted with other options."
+msgstr "Tous ces moteurs peuvent être optimisés grâce à d'autres options."
+
+#: main_16.cpp:121
+msgid "The method that I have used is based on the code of Ryan Benitez"
+msgstr "La méthode que j'ai utilisée est basée sur le code de Ryan Benitez."
+
+#: main_16.cpp:123
+msgid "in the Gambit Fruit engine.  He wrote a delay loop governed by the"
+msgstr "dans le moteur Gambit Fruit. Il a écrit une boucle de temporisation régie par le"
+
+#: main_16.cpp:125
+msgid "number of nodes (positions) per second that the engine analyses."
+msgstr "nombre de nœuds (positions) par seconde que le moteur analyse."
+
+#: main_16.cpp:127
+msgid "I mapped an Elo rating to a nodes per second value using the following"
+msgstr "J'ai associé un classement Elo à une valeur de nœuds par seconde en utilisant la méthode suivante :"
+
+#: main_16.cpp:129
+msgid "algorithm devised by Ferdinand Mosca"
+msgstr "algorithme conçu par Ferdinand Mosca"
+
+#: main_16.cpp:131
+msgid "nodes_per_second ="
+msgstr "nœuds_par_seconde ="
+
+#: main_16.cpp:133
+msgid "I made the addition adjustment in the original formula into a variable"
+msgstr "J'ai transformé l'ajustement supplémentaire de la formule originale en une variable"
+
+#: main_16.cpp:135
+msgid "< nps_elo_adjustment > in order to fine tune the conversion formula."
+msgstr "< nps_elo_adjustment > afin d'affiner la formule de conversion."
+
+#: main_16.cpp:137
+msgid "This can be set by the user in engine parameters."
+msgstr "Ceci peut être configuré par l'utilisateur dans les paramètres du moteur."
+
+#: main_16.cpp:139
+msgid "Increase this value to make the engine stronger,"
+msgstr "Augmentez cette valeur pour rendre le moteur plus puissant."
+
+#: main_16.cpp:141
+msgid "decrease it to make the engine weaker."
+msgstr "Diminuez-le pour affaiblir le moteur."
+
+#: main_16.cpp:143
+msgid "There is also a < Variety > parameter that can be adjusted."
+msgstr "Il existe également un paramètre < Variété > qui peut être ajusté."
+
+#: main_16.cpp:145
+msgid "My intention for this option was that the engine would play a more varied game."
+msgstr "Mon intention avec cette option était que le moteur propose un jeu plus varié."
+
+#: main_16.cpp:147
+msgid "Then I realised that it could be combined with an < Allowed deficit > option"
+msgstr "Je me suis alors rendu compte que cela pouvait être combiné avec une option < Déficit autorisé >"
+
+#: main_16.cpp:149
+msgid "to adjust the engine playing strength further."
+msgstr "pour ajuster davantage la puissance du moteur."
+
+#: main_16.cpp:151
+msgid "Lines that are weaker than the < Allowed deficit(centi-pawns) >"
+msgstr "Lignes plus faibles que le < Déficit autorisé (centi-pions) >"
+
+#: main_16.cpp:153
+msgid "when compared to the best move found, are excluded when a move is selected."
+msgstr "par rapport au meilleur coup trouvé, ils sont exclus lors de la sélection d'un coup."
+
+#: main_16.cpp:155
+msgid "The move that will be played is chosen at random from the remaining moves."
+msgstr "Le coup qui sera joué est choisi au hasard parmi les coups restants."
+
+#: main_16.cpp:157
+msgid "So raising the value of < Variety > and < Allowed deficit > weakens the engine."
+msgstr "Augmenter la valeur de < Variété > et de < Déficit autorisé > affaiblit donc le moteur."
+
+#: main_16.cpp:159
+msgid "Therefore, if you want the engine to sometimes blunder a rook,"
+msgstr "Par conséquent, si vous voulez que le moteur commette parfois une erreur grossière,"
+
+#: main_16.cpp:161
+msgid "the upper limit of < Allowed deficit > should be set to 600"
+msgstr "La limite supérieure du < Déficit autorisé > devrait être fixée à 600."
+
+#: main_16.cpp:163
+msgid "To occasionally blunder a knight or bishop, it should be set to 350"
+msgstr "Pour permettre de faire occasionnellement une erreur avec un cavalier ou un fou, il faudrait le régler sur 350."
+
+#: main_16.cpp:165
+msgid "for a pawn it should be about 125."
+msgstr "Pour un pion, cela devrait être environ 125."
+
+#: main_16.cpp:167
+msgid "You can use the < Variety > option just to vary the play if you set"
+msgstr "Vous pouvez utiliser l'option < Variété > simplement pour varier le jeu si vous définissez"
+
+#: main_16.cpp:169
+msgid "the < Allowed deficit > to a low value, say 25 centi-pawns."
+msgstr "le < Déficit autorisé > à une faible valeur, par exemple 25 centi-pions."
+
+#: main_16.cpp:171
+msgid "However, even this will still weaken the engine somewhat because the engine"
+msgstr "Cependant, même cela affaiblira quelque peu le moteur car le moteur"
+
+#: main_16.cpp:173
+msgid "will use the < MultiPV > method of searching, which is slower than normal."
+msgstr "utilisera la méthode de recherche < MultiPV >, qui est plus lente que la normale."
+
+#: main_16.cpp:175
+msgid "< Moves to go > is the number of moves that the engine is required to play"
+msgstr "< Coups restants > correspond au nombre de coups que le moteur doit jouer."
+
+#: main_16.cpp:177
+msgid "in whatever time it has remaining.  So if it has 2 minutes, 40 seconds left"
+msgstr "dans le temps restant. Donc, s'il reste 2 minutes et 40 secondes, il reste quelque chose."
+
+#: main_16.cpp:179
+msgid "(160 seconds) and moves to go is set to 40 for that time period,"
+msgstr "(160 secondes) et le nombre de mouvements à effectuer est fixé à 40 pour cette période,"
+
+#: main_16.cpp:181
+msgid "it will calculate the time available for its next move as \t160 / 40 = 4 seconds"
+msgstr "Il calculera le temps disponible pour son prochain mouvement comme suit : 160 / 40 = 4 secondes"
+
+#: main_16.cpp:183
+msgid "and spend roughly that amount of time \ton its next move."
+msgstr "et consacrer à peu près autant de temps à son prochain mouvement."
+
+#: main_16.cpp:185
+msgid "So the engine will play progressively faster as its time ticks away."
+msgstr "Le moteur s'accélérera donc progressivement au fur et à mesure que le temps s'écoule."
+
+#: main_16.cpp:187
+msgid "I have set different numbers for various time periods to even out the time usage."
+msgstr "J'ai attribué des nombres différents à diverses périodes de temps afin d'homogénéiser le temps d'utilisation."
+
+#: main_16.cpp:189
+msgid "Although I find it best to set a higher number for the last minute,"
+msgstr "Bien que je trouve qu'il est préférable de fixer un nombre plus élevé pour la dernière minute,"
+
+#: main_16.cpp:191
+msgid "so that the engine does not lose on time."
+msgstr "pour que le moteur ne prenne pas de retard."
+
+#: main_16.cpp:193
+msgid "Speeding up the engine, either by raising these < Moves to go > values,"
+msgstr "Accélérer le moteur, soit en augmentant ces valeurs < Moves to go >,"
+
+#: main_16.cpp:195
+msgid "or by reducing the overall time it has for the game, is another way"
+msgstr "ou en réduisant le temps total alloué au jeu, est une autre solution."
+
+#: main_16.cpp:197
+msgid "of weakening the engine."
+msgstr "d'affaiblir le moteur."
+
+#: main_16.cpp:199
+msgid "With the Cyclone Xtreme engine, loading a random personality will also"
+msgstr "Avec le moteur Cyclone Xtreme, le chargement d'un personnage aléatoire permettra également"
+
+#: main_16.cpp:201
+msgid "usually weaken the engine."
+msgstr "généralement affaiblir le moteur."
+
+#: main_16.cpp:203
+msgid "Armed with all of these options, you should be able to adjust"
+msgstr "Grâce à toutes ces options, vous devriez pouvoir vous adapter."
+
+#: main_16.cpp:205
+msgid "all of these engines to a playing strength that suits you,"
+msgstr "Adaptez tous ces moteurs à une puissance de jeu qui vous convient."
+
+#: main_16.cpp:207
+msgid "although it may take a fair amount of experimentation to achieve this."
+msgstr "même si cela peut nécessiter pas mal d'expérimentation."
