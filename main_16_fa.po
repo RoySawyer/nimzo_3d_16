@@ -1,0 +1,410 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-11-10 16:09+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_16.cpp:3
+msgid "UCI limit strength"
+msgstr "قدرت حد UCI"
+
+#: main_16.cpp:5 main_16.cpp:38
+msgid "Chess engine UCI limit strength help"
+msgstr "کمک در مورد محدودیت قدرت موتور شطرنج UCI"
+
+#: main_16.cpp:7
+msgid "Select Cyclone Xtreme engine personality"
+msgstr "شخصیت موتور Cyclone Xtreme را انتخاب کنید"
+
+#: main_16.cpp:9
+msgid "Reset engine file"
+msgstr "تنظیم مجدد فایل موتور"
+
+#: main_16.cpp:11
+msgid "Create random personality file"
+msgstr "ایجاد فایل شخصیت تصادفی"
+
+#: main_16.cpp:13
+msgid "Create Cyclone Xtreme .cfg personality file"
+msgstr "ایجاد فایل شخصیتی Cyclone Xtreme .cfg"
+
+#: main_16.cpp:15
+msgid "Cyclone Xtreme engine options"
+msgstr "گزینه‌های موتور Cyclone Xtreme"
+
+#: main_16.cpp:18
+msgid "Reset the Cyclone Xtreme engine configuration file to the default values"
+msgstr "فایل پیکربندی موتور Cyclone Xtreme را به مقادیر پیش‌فرض بازنشانی کنید."
+
+#: main_16.cpp:20
+msgid "Create a random personality file for the Cyclone Xtreme engine"
+msgstr "یک فایل شخصیت تصادفی برای موتور Cyclone Xtreme ایجاد کنید"
+
+#: main_16.cpp:22
+msgid "Select the default < cyclone.cfg > personality file"
+msgstr "فایل شخصیتی پیش‌فرض <cyclone.cfg> را انتخاب کنید"
+
+#: main_16.cpp:23
+msgid "Hold down the shift key to clear the input box"
+msgstr "برای پاک کردن کادر ورودی، کلید shift را نگه دارید"
+
+#: main_16.cpp:25
+msgid "was reset to the default values"
+msgstr "به مقادیر پیش‌فرض بازنشانی شد"
+
+#: main_16.cpp:27
+msgid "Error resetting"
+msgstr "خطا در تنظیم مجدد"
+
+#: main_16.cpp:29
+msgid "Random engine configuration file"
+msgstr "فایل پیکربندی موتور تصادفی"
+
+#: main_16.cpp:30
+msgid "created"
+msgstr "ایجاد شده"
+
+#: main_16.cpp:32
+msgid "Error creating random engine configuration file"
+msgstr "خطا در ایجاد فایل پیکربندی موتور تصادفی"
+
+#: main_16.cpp:34
+msgid "Help for Cyclone Xtreme engine"
+msgstr "کمک برای موتور Cyclone Xtreme"
+
+#: main_16.cpp:36
+msgid "UCI Limit strength"
+msgstr "قدرت محدود UCI"
+
+#: main_16.cpp:41
+msgid "The Cyclone Xtreme engine which was written by Norman Schmidt"
+msgstr "موتور Cyclone Xtreme که توسط نورمن اشمیت نوشته شده بود"
+
+#: main_16.cpp:43
+msgid "is a Fruit derivative."
+msgstr "از مشتقات میوه است."
+
+#: main_16.cpp:45
+msgid "It has a huge number of parameters that can be used to tune the engine."
+msgstr "تعداد زیادی پارامتر دارد که می‌توان از آنها برای تنظیم موتور استفاده کرد."
+
+#: main_16.cpp:47
+msgid "There is also a feature for creating random parameter files for the engine."
+msgstr "همچنین قابلیتی برای ایجاد فایل‌های پارامتر تصادفی برای موتور وجود دارد."
+
+#: main_16.cpp:50
+msgid "I have made ten random parameter files, which I have called < Personalities >"
+msgstr "من ده فایل پارامتر تصادفی ایجاد کرده‌ام که آنها را <شخصیت‌ها> نامیده‌ام."
+
+#: main_16.cpp:52
+msgid "They are named < Person_1.cfg > up to < Person_10.cfg > and should be stored"
+msgstr "آنها به ترتیب <Person_1.cfg> تا <Person_10.cfg> نامگذاری می‌شوند و باید ذخیره شوند."
+
+#: main_16.cpp:54
+msgid "in a < Personalities > directory located in the same directory as the engine."
+msgstr "در یک دایرکتوری <Personality> که در همان دایرکتوری موتور قرار دارد."
+
+#: main_16.cpp:57
+msgid "These personalities can be made if you run the engine from the command prompt"
+msgstr "این شخصیت‌ها را می‌توان با اجرای موتور از طریق خط فرمان ایجاد کرد."
+
+#: main_16.cpp:59
+msgid "but it is much simpler to make them using the options in Nimzo_3d."
+msgstr "اما ساختن آنها با استفاده از گزینه‌های موجود در Nimzo_3d بسیار ساده‌تر است."
+
+#: main_16.cpp:62
+msgid "Options available in the dialog box -"
+msgstr "گزینه‌های موجود در کادر محاوره‌ای -"
+
+#: main_16.cpp:65
+msgid "Select Cyclone Xtreme personality file  -  opens a Windows Explorer window"
+msgstr "فایل شخصیتی Cyclone Xtreme را انتخاب کنید - یک پنجره Windows Explorer باز می‌شود."
+
+#: main_16.cpp:67
+msgid "which you can use to select the personality file for the engine."
+msgstr "که می‌توانید از آن برای انتخاب فایل شخصیتی برای موتور استفاده کنید."
+
+#: main_16.cpp:70
+msgid "Reset Engine  -  Reset the Cyclone Xtreme engine personality file"
+msgstr "تنظیم مجدد موتور - فایل شخصیت موتور Cyclone Xtreme را بازنشانی کنید"
+
+#: main_16.cpp:72
+msgid "to the default values."
+msgstr "به مقادیر پیش‌فرض."
+
+#: main_16.cpp:75
+msgid "Create random personality file  -  opens a Windows Explorer window"
+msgstr "ایجاد فایل شخصیت تصادفی - یک پنجره Windows Explorer را باز می‌کند."
+
+#: main_16.cpp:77
+msgid "which you can use to select the random personality file for the engine."
+msgstr "که می‌توانید از آن برای انتخاب فایل شخصیت تصادفی برای موتور استفاده کنید."
+
+#: main_16.cpp:79
+msgid "When you click on < Open > the file will be created."
+msgstr "وقتی روی <باز کردن> کلیک کنید، فایل ایجاد می‌شود."
+
+#: main_16.cpp:82
+msgid "When a personality is selected, the default personality file < cyclone.cfg >"
+msgstr "وقتی یک شخصیت انتخاب می‌شود، فایل شخصیت پیش‌فرض <cyclone.cfg>"
+
+#: main_16.cpp:84
+msgid "which is in the same directory as the engine, has its values over-written"
+msgstr "که در همان دایرکتوری موتور قرار دارد، مقادیرش بازنویسی شده است"
+
+#: main_16.cpp:86
+msgid "with the ones contained in the file that you select."
+msgstr "با موارد موجود در فایلی که انتخاب می‌کنید."
+
+#: main_16.cpp:89
+msgid "There is a copy of the original version of < cyclone.cfg >"
+msgstr "یک کپی از نسخه اصلی <cyclone.cfg> وجود دارد."
+
+#: main_16.cpp:91
+msgid "in the < Personalities > directory and when you choose < Reset engine >"
+msgstr "در فهرست <شخصیت‌ها> و وقتی <تنظیم مجدد موتور> را انتخاب می‌کنید"
+
+#: main_16.cpp:93
+msgid "it is copied over the < cyclone.cfg > in the engine directory."
+msgstr "این فایل روی <cyclone.cfg> در دایرکتوری موتور کپی می‌شود."
+
+#: main_16.cpp:95
+msgid "The engine has a repository on GitHub at -"
+msgstr "این موتور یک مخزن در گیت‌هاب به آدرس زیر دارد -"
+
+#: main_16.cpp:97
+msgid "When < UCI_LimitStrength > is enabled, the engine uses the < UCI_Elo > value"
+msgstr "وقتی <UCI_LimitStrength> فعال باشد، موتور از مقدار <UCI_Elo> استفاده می‌کند."
+
+#: main_16.cpp:99
+msgid "to adjust its playing strength. Engines use different algorithms to achieve this,"
+msgstr "برای تنظیم قدرت پخش آن. موتورها از الگوریتم‌های مختلفی برای دستیابی به این هدف استفاده می‌کنند،"
+
+#: main_16.cpp:101
+msgid "such as reducing the search depth, limiting the number of positions examined,"
+msgstr "مانند کاهش عمق جستجو، محدود کردن تعداد موقعیت‌های بررسی شده،"
+
+#: main_16.cpp:103
+msgid "or adding some randomness to the evaluation function."
+msgstr "یا اضافه کردن مقداری تصادفی بودن به تابع ارزیابی."
+
+#: main_16.cpp:105
+msgid "The actual Elo rating achieved by the engine is often an estimate,"
+msgstr "رتبه‌بندی واقعی Elo که توسط موتور به دست می‌آید اغلب یک تخمین است،"
+
+#: main_16.cpp:107
+msgid "as it's difficult to calibrate precisely."
+msgstr "چون کالیبره کردن دقیقش سخته."
+
+#: main_16.cpp:109
+msgid "You can use this feature to play an engine at a level comparable to your own"
+msgstr "شما می‌توانید از این ویژگی برای بازی کردن با یک موتور در سطحی قابل مقایسه با موتور خودتان استفاده کنید."
+
+#: main_16.cpp:111
+msgid "or to test different engine strengths, even if the exact Elo isn't perfect."
+msgstr "یا برای آزمایش قدرت‌های مختلف موتور، حتی اگر Elo دقیقاً بی‌نقص نباشد."
+
+#: main_16.cpp:113
+msgid "I have added the < UCI_LimitStrength > option to four engines -"
+msgstr "من گزینه <UCI_LimitStrength> را به چهار موتور اضافه کرده‌ام -"
+
+#: main_16.cpp:115
+msgid "Gambit Fruit, Toga II, Cyclone Xtreme and Firenzina."
+msgstr "گامبیت فروت، توگا ۲، سایکلون اکستریم و فایرنزینا."
+
+#: main_16.cpp:117
+msgid "Apart from setting the Elo rating, the playing strength"
+msgstr "جدا از تنظیم رتبه‌بندی Elo، قدرت بازی"
+
+#: main_16.cpp:119
+msgid "of all of these engines can be further adjusted with other options."
+msgstr "از بین همه این موتورها می‌توان با گزینه‌های دیگر، تنظیمات بیشتری انجام داد."
+
+#: main_16.cpp:121
+msgid "The method that I have used is based on the code of Ryan Benitez"
+msgstr "روشی که من استفاده کرده‌ام بر اساس کد رایان بنیتز است."
+
+#: main_16.cpp:123
+msgid "in the Gambit Fruit engine.  He wrote a delay loop governed by the"
+msgstr "در موتور Gambit Fruit. او یک حلقه تأخیر نوشت که توسط آن اداره می‌شد"
+
+#: main_16.cpp:125
+msgid "number of nodes (positions) per second that the engine analyses."
+msgstr "تعداد گره‌ها (موقعیت‌ها) در ثانیه که موتور تحلیل می‌کند."
+
+#: main_16.cpp:127
+msgid "I mapped an Elo rating to a nodes per second value using the following"
+msgstr "من با استفاده از موارد زیر، رتبه‌بندی Elo را به مقدار گره در ثانیه نگاشت کردم"
+
+#: main_16.cpp:129
+msgid "algorithm devised by Ferdinand Mosca"
+msgstr "الگوریتم ابداع شده توسط فردیناند موسکا"
+
+#: main_16.cpp:131
+msgid "nodes_per_second ="
+msgstr "گره‌ها در هر ثانیه ="
+
+#: main_16.cpp:133
+msgid "I made the addition adjustment in the original formula into a variable"
+msgstr "من تنظیمات جمع را در فرمول اصلی در یک متغیر انجام دادم"
+
+#: main_16.cpp:135
+msgid "< nps_elo_adjustment > in order to fine tune the conversion formula."
+msgstr "<nps_elo_adjustment> به منظور تنظیم دقیق فرمول تبدیل."
+
+#: main_16.cpp:137
+msgid "This can be set by the user in engine parameters."
+msgstr "این را می‌توان توسط کاربر در پارامترهای موتور تنظیم کرد."
+
+#: main_16.cpp:139
+msgid "Increase this value to make the engine stronger,"
+msgstr "این مقدار را افزایش دهید تا موتور قوی‌تر شود،"
+
+#: main_16.cpp:141
+msgid "decrease it to make the engine weaker."
+msgstr "آن را کاهش دهید تا موتور ضعیف‌تر شود."
+
+#: main_16.cpp:143
+msgid "There is also a < Variety > parameter that can be adjusted."
+msgstr "همچنین یک پارامتر < Variety > وجود دارد که می‌توان آن را تنظیم کرد."
+
+#: main_16.cpp:145
+msgid "My intention for this option was that the engine would play a more varied game."
+msgstr "قصد من از این گزینه این بود که موتور، بازی متنوع‌تری را ارائه دهد."
+
+#: main_16.cpp:147
+msgid "Then I realised that it could be combined with an < Allowed deficit > option"
+msgstr "بعد متوجه شدم که می‌توان آن را با گزینه <کمبود مجاز> ترکیب کرد."
+
+#: main_16.cpp:149
+msgid "to adjust the engine playing strength further."
+msgstr "برای تنظیم بیشتر قدرت پخش موتور."
+
+#: main_16.cpp:151
+msgid "Lines that are weaker than the < Allowed deficit(centi-pawns) >"
+msgstr "خطوطی که از <کمبود مجاز (پیاده‌های صدتایی)> ضعیف‌تر هستند"
+
+#: main_16.cpp:153
+msgid "when compared to the best move found, are excluded when a move is selected."
+msgstr "وقتی با بهترین حرکت یافت شده مقایسه می‌شوند، هنگام انتخاب یک حرکت، حذف می‌شوند."
+
+#: main_16.cpp:155
+msgid "The move that will be played is chosen at random from the remaining moves."
+msgstr "حرکتی که انجام خواهد شد به صورت تصادفی از بین حرکات باقی مانده انتخاب می‌شود."
+
+#: main_16.cpp:157
+msgid "So raising the value of < Variety > and < Allowed deficit > weakens the engine."
+msgstr "بنابراین بالا بردن مقدار <تنوع> و <کسری مجاز> موتور را ضعیف می‌کند."
+
+#: main_16.cpp:159
+msgid "Therefore, if you want the engine to sometimes blunder a rook,"
+msgstr "بنابراین، اگر می‌خواهید موتور گاهی اوقات یک رخ را اشتباهاً هدایت کند،"
+
+#: main_16.cpp:161
+msgid "the upper limit of < Allowed deficit > should be set to 600"
+msgstr "حد بالای <کسری مجاز> باید روی ۶۰۰ تنظیم شود"
+
+#: main_16.cpp:163
+msgid "To occasionally blunder a knight or bishop, it should be set to 350"
+msgstr "برای اینکه گاهی اوقات یک اسب یا فیل اشتباه کند، باید روی ۳۵۰ تنظیم شود"
+
+#: main_16.cpp:165
+msgid "for a pawn it should be about 125."
+msgstr "برای یک پیاده باید حدود ۱۲۵ باشد."
+
+#: main_16.cpp:167
+msgid "You can use the < Variety > option just to vary the play if you set"
+msgstr "می‌توانید از گزینه <Variety> برای تغییر پخش در صورت تنظیم استفاده کنید."
+
+#: main_16.cpp:169
+msgid "the < Allowed deficit > to a low value, say 25 centi-pawns."
+msgstr "<کمبود مجاز> را به مقدار کمی، مثلاً ۲۵ سانتی-پیاده، کاهش دهید."
+
+#: main_16.cpp:171
+msgid "However, even this will still weaken the engine somewhat because the engine"
+msgstr "با این حال، حتی این کار هم تا حدودی موتور را ضعیف می‌کند زیرا موتور"
+
+#: main_16.cpp:173
+msgid "will use the < MultiPV > method of searching, which is slower than normal."
+msgstr "از روش <MultiPV> برای جستجو استفاده خواهد کرد که کندتر از حالت عادی است."
+
+#: main_16.cpp:175
+msgid "< Moves to go > is the number of moves that the engine is required to play"
+msgstr "<حرکت برای رفتن> تعداد حرکاتی است که موتور برای انجام آنها نیاز دارد"
+
+#: main_16.cpp:177
+msgid "in whatever time it has remaining.  So if it has 2 minutes, 40 seconds left"
+msgstr "در هر زمانی که باقی مانده باشد. بنابراین اگر ۲ دقیقه و ۴۰ ثانیه باقی مانده باشد"
+
+#: main_16.cpp:179
+msgid "(160 seconds) and moves to go is set to 40 for that time period,"
+msgstr "(۱۶۰ ثانیه) و تعداد حرکات برای رفتن برای آن دوره زمانی روی ۴۰ تنظیم شده است،"
+
+#: main_16.cpp:181
+msgid "it will calculate the time available for its next move as \t160 / 40 = 4 seconds"
+msgstr "زمان موجود برای حرکت بعدی خود را به صورت \t160 / 40 = 4 ثانیه محاسبه می‌کند."
+
+#: main_16.cpp:183
+msgid "and spend roughly that amount of time \ton its next move."
+msgstr "و تقریباً همان مقدار زمان را برای حرکت بعدی خود صرف کند."
+
+#: main_16.cpp:185
+msgid "So the engine will play progressively faster as its time ticks away."
+msgstr "بنابراین موتور با گذشت زمان، به تدریج سریع‌تر کار خواهد کرد."
+
+#: main_16.cpp:187
+msgid "I have set different numbers for various time periods to even out the time usage."
+msgstr "من برای دوره‌های زمانی مختلف، اعداد مختلفی تعیین کرده‌ام تا میزان استفاده از زمان را متعادل کنم."
+
+#: main_16.cpp:189
+msgid "Although I find it best to set a higher number for the last minute,"
+msgstr "اگرچه به نظرم بهتر است عدد بالاتری را برای دقیقه آخر تعیین کنم،"
+
+#: main_16.cpp:191
+msgid "so that the engine does not lose on time."
+msgstr "تا موتور به موقع از کار نیفتد."
+
+#: main_16.cpp:193
+msgid "Speeding up the engine, either by raising these < Moves to go > values,"
+msgstr "افزایش سرعت موتور، چه با افزایش این مقادیر <حرکت برای رفتن>،"
+
+#: main_16.cpp:195
+msgid "or by reducing the overall time it has for the game, is another way"
+msgstr "یا با کاهش زمان کلی بازی، راه دیگری است"
+
+#: main_16.cpp:197
+msgid "of weakening the engine."
+msgstr "برای ضعیف شدن موتور."
+
+#: main_16.cpp:199
+msgid "With the Cyclone Xtreme engine, loading a random personality will also"
+msgstr "با موتور Cyclone Xtreme، بارگذاری یک شخصیت تصادفی نیز انجام خواهد شد"
+
+#: main_16.cpp:201
+msgid "usually weaken the engine."
+msgstr "معمولاً موتور را ضعیف می‌کنند."
+
+#: main_16.cpp:203
+msgid "Armed with all of these options, you should be able to adjust"
+msgstr "با در نظر گرفتن همه این گزینه‌ها، باید بتوانید خودتان را تنظیم کنید"
+
+#: main_16.cpp:205
+msgid "all of these engines to a playing strength that suits you,"
+msgstr "همه این موتورها به قدرت بازی که مناسب شما باشد،"
+
+#: main_16.cpp:207
+msgid "although it may take a fair amount of experimentation to achieve this."
+msgstr "اگرچه ممکن است برای رسیدن به این هدف، آزمایش‌های زیادی لازم باشد."
