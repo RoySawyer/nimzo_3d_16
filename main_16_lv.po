@@ -1,0 +1,410 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-11-10 16:09+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_16.cpp:3
+msgid "UCI limit strength"
+msgstr "UCI ierobežojošais spēks"
+
+#: main_16.cpp:5 main_16.cpp:38
+msgid "Chess engine UCI limit strength help"
+msgstr "Šaha dzinēja UCI ierobežojuma spēka palīdzība"
+
+#: main_16.cpp:7
+msgid "Select Cyclone Xtreme engine personality"
+msgstr "Izvēlieties Cyclone Xtreme dzinēja personību"
+
+#: main_16.cpp:9
+msgid "Reset engine file"
+msgstr "Atiestatīt dzinēja failu"
+
+#: main_16.cpp:11
+msgid "Create random personality file"
+msgstr "Izveidojiet nejaušas personības failu"
+
+#: main_16.cpp:13
+msgid "Create Cyclone Xtreme .cfg personality file"
+msgstr "Izveidojiet Cyclone Xtreme .cfg personības failu"
+
+#: main_16.cpp:15
+msgid "Cyclone Xtreme engine options"
+msgstr "Cyclone Xtreme dzinēja opcijas"
+
+#: main_16.cpp:18
+msgid "Reset the Cyclone Xtreme engine configuration file to the default values"
+msgstr "Atiestatiet Cyclone Xtreme dzinēja konfigurācijas failu uz noklusējuma vērtībām"
+
+#: main_16.cpp:20
+msgid "Create a random personality file for the Cyclone Xtreme engine"
+msgstr "Izveidojiet nejaušu personības failu Cyclone Xtreme dzinējam"
+
+#: main_16.cpp:22
+msgid "Select the default < cyclone.cfg > personality file"
+msgstr "Atlasiet noklusējuma <cyclone.cfg> personības failu"
+
+#: main_16.cpp:23
+msgid "Hold down the shift key to clear the input box"
+msgstr "Turiet nospiestu taustiņu Shift, lai notīrītu ievades lodziņu"
+
+#: main_16.cpp:25
+msgid "was reset to the default values"
+msgstr "tika atiestatīta uz noklusējuma vērtībām"
+
+#: main_16.cpp:27
+msgid "Error resetting"
+msgstr "Atiestatīšanas kļūda"
+
+#: main_16.cpp:29
+msgid "Random engine configuration file"
+msgstr "Nejauša dzinēja konfigurācijas fails"
+
+#: main_16.cpp:30
+msgid "created"
+msgstr "izveidots"
+
+#: main_16.cpp:32
+msgid "Error creating random engine configuration file"
+msgstr "Kļūda, veidojot nejaušas programmas konfigurācijas failu"
+
+#: main_16.cpp:34
+msgid "Help for Cyclone Xtreme engine"
+msgstr "Palīdzība Cyclone Xtreme dzinējam"
+
+#: main_16.cpp:36
+msgid "UCI Limit strength"
+msgstr "UCI ierobežojuma stiprums"
+
+#: main_16.cpp:41
+msgid "The Cyclone Xtreme engine which was written by Norman Schmidt"
+msgstr "Cyclone Xtreme dzinējs, ko sarakstījis Normans Šmits"
+
+#: main_16.cpp:43
+msgid "is a Fruit derivative."
+msgstr "ir augļu atvasinājums."
+
+#: main_16.cpp:45
+msgid "It has a huge number of parameters that can be used to tune the engine."
+msgstr "Tam ir milzīgs skaits parametru, ko var izmantot dzinēja noregulēšanai."
+
+#: main_16.cpp:47
+msgid "There is also a feature for creating random parameter files for the engine."
+msgstr "Ir arī funkcija nejaušu parametru failu izveidei dzinējam."
+
+#: main_16.cpp:50
+msgid "I have made ten random parameter files, which I have called < Personalities >"
+msgstr "Esmu izveidojis desmit nejaušu parametru failus, kurus esmu nosaucis par < Personalitātēm >."
+
+#: main_16.cpp:52
+msgid "They are named < Person_1.cfg > up to < Person_10.cfg > and should be stored"
+msgstr "Tie ir nosaukti no < Person_1.cfg > līdz < Person_10.cfg > un ir jāuzglabā"
+
+#: main_16.cpp:54
+msgid "in a < Personalities > directory located in the same directory as the engine."
+msgstr "< Personalities > direktorijā, kas atrodas tajā pašā direktorijā, kur dzinējs."
+
+#: main_16.cpp:57
+msgid "These personalities can be made if you run the engine from the command prompt"
+msgstr "Šīs personības var izveidot, ja dzinēju palaižat no komandrindas."
+
+#: main_16.cpp:59
+msgid "but it is much simpler to make them using the options in Nimzo_3d."
+msgstr "bet daudz vienkāršāk ir tos izveidot, izmantojot Nimzo_3d opcijas."
+
+#: main_16.cpp:62
+msgid "Options available in the dialog box -"
+msgstr "Dialoglodziņā pieejamās opcijas —"
+
+#: main_16.cpp:65
+msgid "Select Cyclone Xtreme personality file  -  opens a Windows Explorer window"
+msgstr "Atlasiet Cyclone Xtreme personības failu — tiek atvērts Windows Explorer logs"
+
+#: main_16.cpp:67
+msgid "which you can use to select the personality file for the engine."
+msgstr "kuru var izmantot, lai atlasītu dzinēja personības failu."
+
+#: main_16.cpp:70
+msgid "Reset Engine  -  Reset the Cyclone Xtreme engine personality file"
+msgstr "Atiestatīt dzinēju — atiestatiet Cyclone Xtreme dzinēja personības failu"
+
+#: main_16.cpp:72
+msgid "to the default values."
+msgstr "uz noklusējuma vērtībām."
+
+#: main_16.cpp:75
+msgid "Create random personality file  -  opens a Windows Explorer window"
+msgstr "Izveidot nejaušas personības failu — atver Windows Explorer logu"
+
+#: main_16.cpp:77
+msgid "which you can use to select the random personality file for the engine."
+msgstr "kuru var izmantot, lai atlasītu nejaušu personības failu dzinējam."
+
+#: main_16.cpp:79
+msgid "When you click on < Open > the file will be created."
+msgstr "Noklikšķinot uz <Atvērt>, fails tiks izveidots."
+
+#: main_16.cpp:82
+msgid "When a personality is selected, the default personality file < cyclone.cfg >"
+msgstr "Kad ir atlasīta personība, tiek izmantots noklusējuma personības fails <cyclone.cfg>."
+
+#: main_16.cpp:84
+msgid "which is in the same directory as the engine, has its values over-written"
+msgstr "kas atrodas tajā pašā direktorijā, kur dzinējs, tā vērtības ir pārrakstītas"
+
+#: main_16.cpp:86
+msgid "with the ones contained in the file that you select."
+msgstr "ar tiem, kas ietverti atlasītajā failā."
+
+#: main_16.cpp:89
+msgid "There is a copy of the original version of < cyclone.cfg >"
+msgstr "Ir pieejama <cyclone.cfg> oriģinālās versijas kopija."
+
+#: main_16.cpp:91
+msgid "in the < Personalities > directory and when you choose < Reset engine >"
+msgstr "direktorijā < Personības > un izvēloties < Atiestatīt dzinēju >"
+
+#: main_16.cpp:93
+msgid "it is copied over the < cyclone.cfg > in the engine directory."
+msgstr "tas tiek kopēts uz <cyclone.cfg> dzinēja direktorijā."
+
+#: main_16.cpp:95
+msgid "The engine has a repository on GitHub at -"
+msgstr "Dzinējam ir repozitorijs vietnē GitHub:"
+
+#: main_16.cpp:97
+msgid "When < UCI_LimitStrength > is enabled, the engine uses the < UCI_Elo > value"
+msgstr "Kad ir iespējota <UCI_LimitStrength> vērtība, programma izmanto <UCI_Elo> vērtību."
+
+#: main_16.cpp:99
+msgid "to adjust its playing strength. Engines use different algorithms to achieve this,"
+msgstr "lai pielāgotu tā atskaņošanas stiprumu. Dzinēji izmanto dažādus algoritmus, lai to panāktu,"
+
+#: main_16.cpp:101
+msgid "such as reducing the search depth, limiting the number of positions examined,"
+msgstr "piemēram, samazinot meklēšanas dziļumu, ierobežojot pārbaudāmo pozīciju skaitu,"
+
+#: main_16.cpp:103
+msgid "or adding some randomness to the evaluation function."
+msgstr "vai pievienojot novērtēšanas funkcijai zināmu nejaušību."
+
+#: main_16.cpp:105
+msgid "The actual Elo rating achieved by the engine is often an estimate,"
+msgstr "Dzinēja sasniegtais faktiskais Elo vērtējums bieži vien ir aptuvens."
+
+#: main_16.cpp:107
+msgid "as it's difficult to calibrate precisely."
+msgstr "jo to ir grūti precīzi kalibrēt."
+
+#: main_16.cpp:109
+msgid "You can use this feature to play an engine at a level comparable to your own"
+msgstr "Šo funkciju var izmantot, lai spēlētu dzinēju līmenī, kas ir salīdzināms ar jūsu pašu."
+
+#: main_16.cpp:111
+msgid "or to test different engine strengths, even if the exact Elo isn't perfect."
+msgstr "vai arī pārbaudīt dažādas dzinēja jaudas, pat ja precīzais Elo nav perfekts."
+
+#: main_16.cpp:113
+msgid "I have added the < UCI_LimitStrength > option to four engines -"
+msgstr "Esmu pievienojis opciju <UCI_LimitStrength> četriem dzinējiem —"
+
+#: main_16.cpp:115
+msgid "Gambit Fruit, Toga II, Cyclone Xtreme and Firenzina."
+msgstr "Gambit Fruit, Toga II, Cyclone Xtreme un Firenzina."
+
+#: main_16.cpp:117
+msgid "Apart from setting the Elo rating, the playing strength"
+msgstr "Papildus Elo reitinga iestatīšanai, spēles spēks"
+
+#: main_16.cpp:119
+msgid "of all of these engines can be further adjusted with other options."
+msgstr "Visus šos dzinējus var vēl vairāk pielāgot ar citām opcijām."
+
+#: main_16.cpp:121
+msgid "The method that I have used is based on the code of Ryan Benitez"
+msgstr "Mana izmantotā metode ir balstīta uz Raiena Beniteza kodu."
+
+#: main_16.cpp:123
+msgid "in the Gambit Fruit engine.  He wrote a delay loop governed by the"
+msgstr "Gambit Fruit dzinējā. Viņš uzrakstīja aizkaves cilpu, ko regulēja"
+
+#: main_16.cpp:125
+msgid "number of nodes (positions) per second that the engine analyses."
+msgstr "mezglu (pozīcijas) skaits sekundē, ko dzinējs analizē."
+
+#: main_16.cpp:127
+msgid "I mapped an Elo rating to a nodes per second value using the following"
+msgstr "Es sasaistīju Elo vērtējumu ar mezglu skaitu sekundē, izmantojot sekojošo:"
+
+#: main_16.cpp:129
+msgid "algorithm devised by Ferdinand Mosca"
+msgstr "Ferdinanda Moskas izstrādātais algoritms"
+
+#: main_16.cpp:131
+msgid "nodes_per_second ="
+msgstr "mezgli_sekundē ="
+
+#: main_16.cpp:133
+msgid "I made the addition adjustment in the original formula into a variable"
+msgstr "Es veicu saskaitīšanas korekciju sākotnējā formulā mainīgajā"
+
+#: main_16.cpp:135
+msgid "< nps_elo_adjustment > in order to fine tune the conversion formula."
+msgstr "<nps_elo_adjustment>, lai precizētu konvertēšanas formulu."
+
+#: main_16.cpp:137
+msgid "This can be set by the user in engine parameters."
+msgstr "To var iestatīt lietotājs dzinēja parametros."
+
+#: main_16.cpp:139
+msgid "Increase this value to make the engine stronger,"
+msgstr "Palieliniet šo vērtību, lai dzinējs būtu spēcīgāks,"
+
+#: main_16.cpp:141
+msgid "decrease it to make the engine weaker."
+msgstr "samaziniet to, lai dzinējs kļūtu vājāks."
+
+#: main_16.cpp:143
+msgid "There is also a < Variety > parameter that can be adjusted."
+msgstr "Ir arī parametrs < Variety >, ko var pielāgot."
+
+#: main_16.cpp:145
+msgid "My intention for this option was that the engine would play a more varied game."
+msgstr "Mans nolūks šai opcijai bija tāds, lai dzinējs spēlētu daudzveidīgāku spēli."
+
+#: main_16.cpp:147
+msgid "Then I realised that it could be combined with an < Allowed deficit > option"
+msgstr "Tad es sapratu, ka to varētu apvienot ar opciju <Atļautais deficīts>."
+
+#: main_16.cpp:149
+msgid "to adjust the engine playing strength further."
+msgstr "lai vēl vairāk pielāgotu dzinēja spēles stiprumu."
+
+#: main_16.cpp:151
+msgid "Lines that are weaker than the < Allowed deficit(centi-pawns) >"
+msgstr "Līnijas, kas ir vājākas par <Pieļaujamais deficīts (centi-bandnieki)>"
+
+#: main_16.cpp:153
+msgid "when compared to the best move found, are excluded when a move is selected."
+msgstr "salīdzinot ar labāko atrasto gājienu, tiek izslēgti, kad tiek izvēlēts gājiens."
+
+#: main_16.cpp:155
+msgid "The move that will be played is chosen at random from the remaining moves."
+msgstr "Gājiens, kas tiks veikts, tiek izvēlēts nejauši no atlikušajiem gājieniem."
+
+#: main_16.cpp:157
+msgid "So raising the value of < Variety > and < Allowed deficit > weakens the engine."
+msgstr "Tātad, palielinot <Varietība> un <Atļautais deficīts> vērtības, dzinējs vājinās."
+
+#: main_16.cpp:159
+msgid "Therefore, if you want the engine to sometimes blunder a rook,"
+msgstr "Tāpēc, ja vēlaties, lai dzinējs dažreiz maldās,"
+
+#: main_16.cpp:161
+msgid "the upper limit of < Allowed deficit > should be set to 600"
+msgstr "Augšējā robeža <Pieļaujamais deficīts> jāiestata uz 600"
+
+#: main_16.cpp:163
+msgid "To occasionally blunder a knight or bishop, it should be set to 350"
+msgstr "Lai laiku pa laikam kļūdītos ar bruņinieku vai laidni, tas jāiestata uz 350."
+
+#: main_16.cpp:165
+msgid "for a pawn it should be about 125."
+msgstr "bandiniekam tam vajadzētu būt aptuveni 125."
+
+#: main_16.cpp:167
+msgid "You can use the < Variety > option just to vary the play if you set"
+msgstr "Varat izmantot opciju <Varietība>, lai mainītu atskaņošanu, ja iestatāt"
+
+#: main_16.cpp:169
+msgid "the < Allowed deficit > to a low value, say 25 centi-pawns."
+msgstr "<Atļauto deficītu> samazina līdz zemai vērtībai, teiksim, 25 centu bandiniekiem."
+
+#: main_16.cpp:171
+msgid "However, even this will still weaken the engine somewhat because the engine"
+msgstr "Tomēr pat tas joprojām nedaudz vājinās dzinēju, jo dzinējs"
+
+#: main_16.cpp:173
+msgid "will use the < MultiPV > method of searching, which is slower than normal."
+msgstr "izmantos <MultiPV> meklēšanas metodi, kas ir lēnāka nekā parasti."
+
+#: main_16.cpp:175
+msgid "< Moves to go > is the number of moves that the engine is required to play"
+msgstr "< Atlikušie gājieni > ir gājienu skaits, kas nepieciešams, lai izspēlētu dzinēju"
+
+#: main_16.cpp:177
+msgid "in whatever time it has remaining.  So if it has 2 minutes, 40 seconds left"
+msgstr "jebkurā atlikušajā laikā. Tātad, ja tam ir atlikušas 2 minūtes un 40 sekundes"
+
+#: main_16.cpp:179
+msgid "(160 seconds) and moves to go is set to 40 for that time period,"
+msgstr "(160 sekundes) un atlikušo gājienu skaits šajā laika periodā ir iestatīts uz 40,"
+
+#: main_16.cpp:181
+msgid "it will calculate the time available for its next move as \t160 / 40 = 4 seconds"
+msgstr "tas aprēķinās nākamajam gājienam pieejamo laiku kā 160 / 40 = 4 sekundes"
+
+#: main_16.cpp:183
+msgid "and spend roughly that amount of time \ton its next move."
+msgstr "un veltīt aptuveni tikpat daudz laika nākamajai kustībai."
+
+#: main_16.cpp:185
+msgid "So the engine will play progressively faster as its time ticks away."
+msgstr "Tātad dzinējs darbosies pakāpeniski ātrāk, laikam ejot."
+
+#: main_16.cpp:187
+msgid "I have set different numbers for various time periods to even out the time usage."
+msgstr "Esmu iestatījis dažādus skaitļus dažādiem laika periodiem, lai vienmērīgāk izmantotu laiku."
+
+#: main_16.cpp:189
+msgid "Although I find it best to set a higher number for the last minute,"
+msgstr "Lai gan es uzskatu, ka vislabāk ir uz pēdējo brīdi iestatīt lielāku skaitli,"
+
+#: main_16.cpp:191
+msgid "so that the engine does not lose on time."
+msgstr "lai motors nezaudētu laikus."
+
+#: main_16.cpp:193
+msgid "Speeding up the engine, either by raising these < Moves to go > values,"
+msgstr "Paātrinot dzinēju, vai nu palielinot šīs < Kustību skaits > vērtības,"
+
+#: main_16.cpp:195
+msgid "or by reducing the overall time it has for the game, is another way"
+msgstr "vai arī samazinot kopējo spēles laiku, ir vēl viens veids"
+
+#: main_16.cpp:197
+msgid "of weakening the engine."
+msgstr "par dzinēja pavājināšanu."
+
+#: main_16.cpp:199
+msgid "With the Cyclone Xtreme engine, loading a random personality will also"
+msgstr "Ar Cyclone Xtreme dzinēju, nejaušas personības ielāde arī..."
+
+#: main_16.cpp:201
+msgid "usually weaken the engine."
+msgstr "parasti vājina dzinēju."
+
+#: main_16.cpp:203
+msgid "Armed with all of these options, you should be able to adjust"
+msgstr "Bruņojoties ar visām šīm iespējām, jums vajadzētu būt iespējai pielāgot"
+
+#: main_16.cpp:205
+msgid "all of these engines to a playing strength that suits you,"
+msgstr "visus šos dzinējus ar jums piemērotu spēles jaudu,"
+
+#: main_16.cpp:207
+msgid "although it may take a fair amount of experimentation to achieve this."
+msgstr "lai gan, lai to panāktu, var būt nepieciešams diezgan daudz eksperimentu."
