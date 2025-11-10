@@ -1,0 +1,410 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-11-10 16:09+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_16.cpp:3
+msgid "UCI limit strength"
+msgstr "Обмеження сили UCI"
+
+#: main_16.cpp:5 main_16.cpp:38
+msgid "Chess engine UCI limit strength help"
+msgstr "Допомога з обмеженням сили UCI в шаховому движку"
+
+#: main_16.cpp:7
+msgid "Select Cyclone Xtreme engine personality"
+msgstr "Виберіть тип двигуна Cyclone Xtreme"
+
+#: main_16.cpp:9
+msgid "Reset engine file"
+msgstr "Скинути файл двигуна"
+
+#: main_16.cpp:11
+msgid "Create random personality file"
+msgstr "Створити випадковий файл особистості"
+
+#: main_16.cpp:13
+msgid "Create Cyclone Xtreme .cfg personality file"
+msgstr "Створення файлу особистості Cyclone Xtreme .cfg"
+
+#: main_16.cpp:15
+msgid "Cyclone Xtreme engine options"
+msgstr "Варіанти двигунів Cyclone Xtreme"
+
+#: main_16.cpp:18
+msgid "Reset the Cyclone Xtreme engine configuration file to the default values"
+msgstr "Скиньте файл конфігурації двигуна Cyclone Xtreme до значень за замовчуванням"
+
+#: main_16.cpp:20
+msgid "Create a random personality file for the Cyclone Xtreme engine"
+msgstr "Створіть випадковий файл особистостей для двигуна Cyclone Xtreme"
+
+#: main_16.cpp:22
+msgid "Select the default < cyclone.cfg > personality file"
+msgstr "Виберіть файл особистості <cyclone.cfg> за замовчуванням"
+
+#: main_16.cpp:23
+msgid "Hold down the shift key to clear the input box"
+msgstr "Утримуйте клавішу Shift, щоб очистити поле введення"
+
+#: main_16.cpp:25
+msgid "was reset to the default values"
+msgstr "було скинуто до значень за замовчуванням"
+
+#: main_16.cpp:27
+msgid "Error resetting"
+msgstr "Помилка скидання"
+
+#: main_16.cpp:29
+msgid "Random engine configuration file"
+msgstr "Файл конфігурації випадкового движка"
+
+#: main_16.cpp:30
+msgid "created"
+msgstr "створений"
+
+#: main_16.cpp:32
+msgid "Error creating random engine configuration file"
+msgstr "Помилка створення випадкового файлу конфігурації двигуна"
+
+#: main_16.cpp:34
+msgid "Help for Cyclone Xtreme engine"
+msgstr "Довідка щодо двигуна Cyclone Xtreme"
+
+#: main_16.cpp:36
+msgid "UCI Limit strength"
+msgstr "Обмежена сила UCI"
+
+#: main_16.cpp:41
+msgid "The Cyclone Xtreme engine which was written by Norman Schmidt"
+msgstr "Двигун Cyclone Xtreme, написаний Норманом Шмідтом"
+
+#: main_16.cpp:43
+msgid "is a Fruit derivative."
+msgstr "є похідним від фруктів."
+
+#: main_16.cpp:45
+msgid "It has a huge number of parameters that can be used to tune the engine."
+msgstr "Він має величезну кількість параметрів, які можна використовувати для налаштування двигуна."
+
+#: main_16.cpp:47
+msgid "There is also a feature for creating random parameter files for the engine."
+msgstr "Також є функція для створення випадкових файлів параметрів для двигуна."
+
+#: main_16.cpp:50
+msgid "I have made ten random parameter files, which I have called < Personalities >"
+msgstr "Я створив десять випадкових файлів параметрів, які я назвав <Персоналіти>"
+
+#: main_16.cpp:52
+msgid "They are named < Person_1.cfg > up to < Person_10.cfg > and should be stored"
+msgstr "Вони мають назви від <Person_1.cfg> до <Person_10.cfg> і повинні зберігатися"
+
+#: main_16.cpp:54
+msgid "in a < Personalities > directory located in the same directory as the engine."
+msgstr "у каталозі <Personalities>, розташованому в тому ж каталозі, що й рушій."
+
+#: main_16.cpp:57
+msgid "These personalities can be made if you run the engine from the command prompt"
+msgstr "Ці особистості можна створити, якщо запустити движок з командного рядка"
+
+#: main_16.cpp:59
+msgid "but it is much simpler to make them using the options in Nimzo_3d."
+msgstr "але набагато простіше зробити їх, використовуючи опції Nimzo_3d."
+
+#: main_16.cpp:62
+msgid "Options available in the dialog box -"
+msgstr "Доступні параметри в діалоговому вікні -"
+
+#: main_16.cpp:65
+msgid "Select Cyclone Xtreme personality file  -  opens a Windows Explorer window"
+msgstr "Виберіть файл особистості Cyclone Xtreme – відкриває вікно Провідника Windows"
+
+#: main_16.cpp:67
+msgid "which you can use to select the personality file for the engine."
+msgstr "який можна використовувати для вибору файлу особистості для двигуна."
+
+#: main_16.cpp:70
+msgid "Reset Engine  -  Reset the Cyclone Xtreme engine personality file"
+msgstr "Скидання налаштувань двигуна - Скидання файлу особистості двигуна Cyclone Xtreme"
+
+#: main_16.cpp:72
+msgid "to the default values."
+msgstr "до значень за замовчуванням."
+
+#: main_16.cpp:75
+msgid "Create random personality file  -  opens a Windows Explorer window"
+msgstr "Створити випадковий файл особистості – відкриває вікно Провідника Windows"
+
+#: main_16.cpp:77
+msgid "which you can use to select the random personality file for the engine."
+msgstr "який ви можете використовувати для вибору випадкового файлу особистості для двигуна."
+
+#: main_16.cpp:79
+msgid "When you click on < Open > the file will be created."
+msgstr "Після натискання кнопки <Відкрити> файл буде створено."
+
+#: main_16.cpp:82
+msgid "When a personality is selected, the default personality file < cyclone.cfg >"
+msgstr "Коли вибрано особистість, файл особистості за замовчуванням < cyclone.cfg >"
+
+#: main_16.cpp:84
+msgid "which is in the same directory as the engine, has its values over-written"
+msgstr "який знаходиться в тому ж каталозі, що й двигун, має свої значення перезаписані"
+
+#: main_16.cpp:86
+msgid "with the ones contained in the file that you select."
+msgstr "з тими, що містяться у вибраному вами файлі."
+
+#: main_16.cpp:89
+msgid "There is a copy of the original version of < cyclone.cfg >"
+msgstr "Існує копія оригінальної версії <cyclone.cfg>"
+
+#: main_16.cpp:91
+msgid "in the < Personalities > directory and when you choose < Reset engine >"
+msgstr "у каталозі < Personalities > та коли ви обираєте < Reset engine >"
+
+#: main_16.cpp:93
+msgid "it is copied over the < cyclone.cfg > in the engine directory."
+msgstr "його копіюють поверх <cyclone.cfg> у каталозі двигуна."
+
+#: main_16.cpp:95
+msgid "The engine has a repository on GitHub at -"
+msgstr "Двигун має репозиторій на GitHub за адресою -"
+
+#: main_16.cpp:97
+msgid "When < UCI_LimitStrength > is enabled, the engine uses the < UCI_Elo > value"
+msgstr "Коли <UCI_LimitStrength> увімкнено, двигун використовує значення <UCI_Elo>"
+
+#: main_16.cpp:99
+msgid "to adjust its playing strength. Engines use different algorithms to achieve this,"
+msgstr "щоб налаштувати силу відтворення. Двигуни використовують різні алгоритми для досягнення цього,"
+
+#: main_16.cpp:101
+msgid "such as reducing the search depth, limiting the number of positions examined,"
+msgstr "такі як зменшення глибини пошуку, обмеження кількості досліджуваних позицій,"
+
+#: main_16.cpp:103
+msgid "or adding some randomness to the evaluation function."
+msgstr "або додавання деякої випадковості до функції оцінювання."
+
+#: main_16.cpp:105
+msgid "The actual Elo rating achieved by the engine is often an estimate,"
+msgstr "Фактичний рейтинг Elo, досягнутий двигуном, часто є приблизним,"
+
+#: main_16.cpp:107
+msgid "as it's difficult to calibrate precisely."
+msgstr "оскільки важко точно калібрувати."
+
+#: main_16.cpp:109
+msgid "You can use this feature to play an engine at a level comparable to your own"
+msgstr "Ви можете використовувати цю функцію, щоб грати на двигуні на рівні, порівнянному з вашим власним"
+
+#: main_16.cpp:111
+msgid "or to test different engine strengths, even if the exact Elo isn't perfect."
+msgstr "або перевірити різні потужності двигуна, навіть якщо точний Elo не ідеальний."
+
+#: main_16.cpp:113
+msgid "I have added the < UCI_LimitStrength > option to four engines -"
+msgstr "Я додав опцію <UCI_LimitStrength> до чотирьох двигунів -"
+
+#: main_16.cpp:115
+msgid "Gambit Fruit, Toga II, Cyclone Xtreme and Firenzina."
+msgstr "Gambit Fruit, Toga II, Cyclone Xtreme та Firenzina."
+
+#: main_16.cpp:117
+msgid "Apart from setting the Elo rating, the playing strength"
+msgstr "Окрім встановлення рейтингу Ело, сила гри"
+
+#: main_16.cpp:119
+msgid "of all of these engines can be further adjusted with other options."
+msgstr "Усі ці двигуни можна додатково налаштувати за допомогою інших опцій."
+
+#: main_16.cpp:121
+msgid "The method that I have used is based on the code of Ryan Benitez"
+msgstr "Метод, який я використовував, базується на коді Райана Бенітеса."
+
+#: main_16.cpp:123
+msgid "in the Gambit Fruit engine.  He wrote a delay loop governed by the"
+msgstr "у движку Gambit Fruit. Він написав цикл затримки, керований"
+
+#: main_16.cpp:125
+msgid "number of nodes (positions) per second that the engine analyses."
+msgstr "кількість вузлів (позицій) за секунду, які аналізує двигун."
+
+#: main_16.cpp:127
+msgid "I mapped an Elo rating to a nodes per second value using the following"
+msgstr "Я зіставив рейтинг Elo зі значенням кількості вузлів за секунду, використовуючи наступне"
+
+#: main_16.cpp:129
+msgid "algorithm devised by Ferdinand Mosca"
+msgstr "алгоритм, розроблений Фердинандом Моска"
+
+#: main_16.cpp:131
+msgid "nodes_per_second ="
+msgstr "вузли_за_секунду ="
+
+#: main_16.cpp:133
+msgid "I made the addition adjustment in the original formula into a variable"
+msgstr "Я зробив коригування додавання у вихідній формулі у змінну"
+
+#: main_16.cpp:135
+msgid "< nps_elo_adjustment > in order to fine tune the conversion formula."
+msgstr "< nps_elo_adjustment > для точного налаштування формули перетворення."
+
+#: main_16.cpp:137
+msgid "This can be set by the user in engine parameters."
+msgstr "Це може бути налаштовано користувачем у параметрах двигуна."
+
+#: main_16.cpp:139
+msgid "Increase this value to make the engine stronger,"
+msgstr "Збільште це значення, щоб зробити двигун потужнішим,"
+
+#: main_16.cpp:141
+msgid "decrease it to make the engine weaker."
+msgstr "зменшіть його, щоб послабити двигун."
+
+#: main_16.cpp:143
+msgid "There is also a < Variety > parameter that can be adjusted."
+msgstr "Також є параметр < Різноманітність >, який можна налаштувати."
+
+#: main_16.cpp:145
+msgid "My intention for this option was that the engine would play a more varied game."
+msgstr "Я мав на меті, щоб цей варіант забезпечив більш різноманітну гру на движку."
+
+#: main_16.cpp:147
+msgid "Then I realised that it could be combined with an < Allowed deficit > option"
+msgstr "Потім я зрозумів, що це можна поєднати з опцією < Дозволений дефіцит >"
+
+#: main_16.cpp:149
+msgid "to adjust the engine playing strength further."
+msgstr "щоб додатково налаштувати силу відтворення двигуна."
+
+#: main_16.cpp:151
+msgid "Lines that are weaker than the < Allowed deficit(centi-pawns) >"
+msgstr "Лінії, слабші за < Дозволений дефіцит (центові пішаки) >"
+
+#: main_16.cpp:153
+msgid "when compared to the best move found, are excluded when a move is selected."
+msgstr "при порівнянні з найкращим знайденим ходом, виключаються при виборі ходу."
+
+#: main_16.cpp:155
+msgid "The move that will be played is chosen at random from the remaining moves."
+msgstr "Хід, який буде зіграно, вибирається випадковим чином з числа решти ходів."
+
+#: main_16.cpp:157
+msgid "So raising the value of < Variety > and < Allowed deficit > weakens the engine."
+msgstr "Отже, підвищення значення < Різноманітність > та < Дозволений дефіцит > послаблює двигун."
+
+#: main_16.cpp:159
+msgid "Therefore, if you want the engine to sometimes blunder a rook,"
+msgstr "Тому, якщо ви хочете, щоб двигун іноді помилявся з граком,"
+
+#: main_16.cpp:161
+msgid "the upper limit of < Allowed deficit > should be set to 600"
+msgstr "верхня межа <Дозволеного дефіциту> має бути встановлена ​​на рівні 600"
+
+#: main_16.cpp:163
+msgid "To occasionally blunder a knight or bishop, it should be set to 350"
+msgstr "Щоб іноді помилятися з конем або слоном, його слід встановити на 350."
+
+#: main_16.cpp:165
+msgid "for a pawn it should be about 125."
+msgstr "для пішака це має бути близько 125."
+
+#: main_16.cpp:167
+msgid "You can use the < Variety > option just to vary the play if you set"
+msgstr "Ви можете скористатися опцією < Різноманітність >, щоб урізноманітнити відтворення, якщо встановите"
+
+#: main_16.cpp:169
+msgid "the < Allowed deficit > to a low value, say 25 centi-pawns."
+msgstr "< Дозволений дефіцит > до низького значення, скажімо, 25 пішаків-центів."
+
+#: main_16.cpp:171
+msgid "However, even this will still weaken the engine somewhat because the engine"
+msgstr "Однак, навіть це дещо послабить двигун, оскільки двигун"
+
+#: main_16.cpp:173
+msgid "will use the < MultiPV > method of searching, which is slower than normal."
+msgstr "використовуватиме метод пошуку <MultiPV>, який повільніший за звичайний."
+
+#: main_16.cpp:175
+msgid "< Moves to go > is the number of moves that the engine is required to play"
+msgstr "< Залишилося ходів > – це кількість ходів, які двигун повинен відтворити"
+
+#: main_16.cpp:177
+msgid "in whatever time it has remaining.  So if it has 2 minutes, 40 seconds left"
+msgstr "за будь-який час, що залишився. Отже, якщо залишилося 2 хвилини 40 секунд"
+
+#: main_16.cpp:179
+msgid "(160 seconds) and moves to go is set to 40 for that time period,"
+msgstr "(160 секунд), а кількість ходів, що залишилися, встановлена ​​на 40 для цього періоду часу,"
+
+#: main_16.cpp:181
+msgid "it will calculate the time available for its next move as \t160 / 40 = 4 seconds"
+msgstr "він розрахує час, доступний для наступного ходу, як \t160 / 40 = 4 секунди"
+
+#: main_16.cpp:183
+msgid "and spend roughly that amount of time \ton its next move."
+msgstr "і витратити приблизно стільки ж часу на свій наступний хід."
+
+#: main_16.cpp:185
+msgid "So the engine will play progressively faster as its time ticks away."
+msgstr "Тож двигун працюватиме дедалі швидше, у міру того як його час спливає."
+
+#: main_16.cpp:187
+msgid "I have set different numbers for various time periods to even out the time usage."
+msgstr "Я встановив різні цифри для різних періодів часу, щоб рівномірно розподілити використання часу."
+
+#: main_16.cpp:189
+msgid "Although I find it best to set a higher number for the last minute,"
+msgstr "Хоча я вважаю, що краще встановити вище число на останню хвилину,"
+
+#: main_16.cpp:191
+msgid "so that the engine does not lose on time."
+msgstr "щоб двигун не втрачав у часі."
+
+#: main_16.cpp:193
+msgid "Speeding up the engine, either by raising these < Moves to go > values,"
+msgstr "Прискорення двигуна шляхом збільшення цих значень < Залишилися рухи>,"
+
+#: main_16.cpp:195
+msgid "or by reducing the overall time it has for the game, is another way"
+msgstr "або шляхом зменшення загального часу, відведеного на гру, – це ще один спосіб"
+
+#: main_16.cpp:197
+msgid "of weakening the engine."
+msgstr "ослаблення двигуна."
+
+#: main_16.cpp:199
+msgid "With the Cyclone Xtreme engine, loading a random personality will also"
+msgstr "З двигуном Cyclone Xtreme завантаження випадкової особистості також буде"
+
+#: main_16.cpp:201
+msgid "usually weaken the engine."
+msgstr "зазвичай послаблюють двигун."
+
+#: main_16.cpp:203
+msgid "Armed with all of these options, you should be able to adjust"
+msgstr "Озброївшись усіма цими опціями, ви зможете налаштувати"
+
+#: main_16.cpp:205
+msgid "all of these engines to a playing strength that suits you,"
+msgstr "всі ці двигуни до ігрової сили, яка вам підходить,"
+
+#: main_16.cpp:207
+msgid "although it may take a fair amount of experimentation to achieve this."
+msgstr "хоча для досягнення цього може знадобитися чимало експериментів."
