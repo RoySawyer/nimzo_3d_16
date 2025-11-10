@@ -1,0 +1,410 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-11-10 16:09+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_16.cpp:3
+msgid "UCI limit strength"
+msgstr "UCI-limietsterkte"
+
+#: main_16.cpp:5 main_16.cpp:38
+msgid "Chess engine UCI limit strength help"
+msgstr "Schaakmotor UCI limietsterkte hulp"
+
+#: main_16.cpp:7
+msgid "Select Cyclone Xtreme engine personality"
+msgstr "Selecteer de persoonlijkheid van de Cyclone Xtreme-motor"
+
+#: main_16.cpp:9
+msgid "Reset engine file"
+msgstr "Motorbestand resetten"
+
+#: main_16.cpp:11
+msgid "Create random personality file"
+msgstr "Maak een willekeurig persoonlijkheidsbestand"
+
+#: main_16.cpp:13
+msgid "Create Cyclone Xtreme .cfg personality file"
+msgstr "Maak een Cyclone Xtreme .cfg-persoonlijkheidsbestand"
+
+#: main_16.cpp:15
+msgid "Cyclone Xtreme engine options"
+msgstr "Cyclone Xtreme-motoropties"
+
+#: main_16.cpp:18
+msgid "Reset the Cyclone Xtreme engine configuration file to the default values"
+msgstr "Het configuratiebestand van de Cyclone Xtreme-engine opnieuw instellen op de standaardwaarden"
+
+#: main_16.cpp:20
+msgid "Create a random personality file for the Cyclone Xtreme engine"
+msgstr "Maak een willekeurig persoonlijkheidsbestand voor de Cyclone Xtreme-engine"
+
+#: main_16.cpp:22
+msgid "Select the default < cyclone.cfg > personality file"
+msgstr "Selecteer het standaard <cyclone.cfg> persoonlijkheidsbestand"
+
+#: main_16.cpp:23
+msgid "Hold down the shift key to clear the input box"
+msgstr "Houd de Shift-toets ingedrukt om het invoerveld te wissen"
+
+#: main_16.cpp:25
+msgid "was reset to the default values"
+msgstr "is teruggezet naar de standaardwaarden"
+
+#: main_16.cpp:27
+msgid "Error resetting"
+msgstr "Fout bij het resetten"
+
+#: main_16.cpp:29
+msgid "Random engine configuration file"
+msgstr "Willekeurig engineconfiguratiebestand"
+
+#: main_16.cpp:30
+msgid "created"
+msgstr "gecreëerd"
+
+#: main_16.cpp:32
+msgid "Error creating random engine configuration file"
+msgstr "Fout bij het maken van een willekeurig engineconfiguratiebestand"
+
+#: main_16.cpp:34
+msgid "Help for Cyclone Xtreme engine"
+msgstr "Hulp voor Cyclone Xtreme-motor"
+
+#: main_16.cpp:36
+msgid "UCI Limit strength"
+msgstr "UCI Limietsterkte"
+
+#: main_16.cpp:41
+msgid "The Cyclone Xtreme engine which was written by Norman Schmidt"
+msgstr "De Cyclone Xtreme-engine, geschreven door Norman Schmidt"
+
+#: main_16.cpp:43
+msgid "is a Fruit derivative."
+msgstr "is een Fruit-derivaat."
+
+#: main_16.cpp:45
+msgid "It has a huge number of parameters that can be used to tune the engine."
+msgstr "Er zijn enorm veel parameters waarmee de motor kan worden afgesteld."
+
+#: main_16.cpp:47
+msgid "There is also a feature for creating random parameter files for the engine."
+msgstr "Er is ook een functie voor het maken van willekeurige parameterbestanden voor de engine."
+
+#: main_16.cpp:50
+msgid "I have made ten random parameter files, which I have called < Personalities >"
+msgstr "Ik heb tien willekeurige parameterbestanden gemaakt, die ik <Personality> heb genoemd"
+
+#: main_16.cpp:52
+msgid "They are named < Person_1.cfg > up to < Person_10.cfg > and should be stored"
+msgstr "Ze heten < Person_1.cfg > tot en met < Person_10.cfg > en moeten worden opgeslagen"
+
+#: main_16.cpp:54
+msgid "in a < Personalities > directory located in the same directory as the engine."
+msgstr "in een <Personals>-map die zich in dezelfde map bevindt als de engine."
+
+#: main_16.cpp:57
+msgid "These personalities can be made if you run the engine from the command prompt"
+msgstr "Deze persoonlijkheden kunnen worden gemaakt als u de engine vanaf de opdrachtprompt uitvoert"
+
+#: main_16.cpp:59
+msgid "but it is much simpler to make them using the options in Nimzo_3d."
+msgstr "maar het is veel eenvoudiger om ze te maken met behulp van de opties in Nimzo_3d."
+
+#: main_16.cpp:62
+msgid "Options available in the dialog box -"
+msgstr "Beschikbare opties in het dialoogvenster -"
+
+#: main_16.cpp:65
+msgid "Select Cyclone Xtreme personality file  -  opens a Windows Explorer window"
+msgstr "Selecteer Cyclone Xtreme-persoonlijkheidsbestand - opent een Windows Verkenner-venster"
+
+#: main_16.cpp:67
+msgid "which you can use to select the personality file for the engine."
+msgstr "waarmee u het persoonlijkheidsbestand voor de engine kunt selecteren."
+
+#: main_16.cpp:70
+msgid "Reset Engine  -  Reset the Cyclone Xtreme engine personality file"
+msgstr "Engine resetten - Het persoonlijkheidsbestand van de Cyclone Xtreme-engine resetten"
+
+#: main_16.cpp:72
+msgid "to the default values."
+msgstr "naar de standaardwaarden."
+
+#: main_16.cpp:75
+msgid "Create random personality file  -  opens a Windows Explorer window"
+msgstr "Maak een willekeurig persoonlijkheidsbestand - opent een Windows Verkenner-venster"
+
+#: main_16.cpp:77
+msgid "which you can use to select the random personality file for the engine."
+msgstr "waarmee u het willekeurige persoonlijkheidsbestand voor de engine kunt selecteren."
+
+#: main_16.cpp:79
+msgid "When you click on < Open > the file will be created."
+msgstr "Wanneer u op < Openen > klikt, wordt het bestand aangemaakt."
+
+#: main_16.cpp:82
+msgid "When a personality is selected, the default personality file < cyclone.cfg >"
+msgstr "Wanneer een persoonlijkheid wordt geselecteerd, wordt het standaardpersoonlijkheidsbestand < cyclone.cfg >"
+
+#: main_16.cpp:84
+msgid "which is in the same directory as the engine, has its values over-written"
+msgstr "die zich in dezelfde directory bevindt als de engine, waarvan de waarden worden overschreven"
+
+#: main_16.cpp:86
+msgid "with the ones contained in the file that you select."
+msgstr "met de bestanden in het bestand dat u selecteert."
+
+#: main_16.cpp:89
+msgid "There is a copy of the original version of < cyclone.cfg >"
+msgstr "Er is een kopie van de originele versie van < cyclone.cfg >"
+
+#: main_16.cpp:91
+msgid "in the < Personalities > directory and when you choose < Reset engine >"
+msgstr "in de map <Personals> en wanneer u <Reset engine> kiest"
+
+#: main_16.cpp:93
+msgid "it is copied over the < cyclone.cfg > in the engine directory."
+msgstr "het wordt gekopieerd over de < cyclone.cfg > in de engine directory."
+
+#: main_16.cpp:95
+msgid "The engine has a repository on GitHub at -"
+msgstr "De engine heeft een repository op GitHub op -"
+
+#: main_16.cpp:97
+msgid "When < UCI_LimitStrength > is enabled, the engine uses the < UCI_Elo > value"
+msgstr "Wanneer < UCI_LimitStrength > is ingeschakeld, gebruikt de engine de waarde < UCI_Elo >"
+
+#: main_16.cpp:99
+msgid "to adjust its playing strength. Engines use different algorithms to achieve this,"
+msgstr "om de speelsterkte aan te passen. Engines gebruiken verschillende algoritmen om dit te bereiken,"
+
+#: main_16.cpp:101
+msgid "such as reducing the search depth, limiting the number of positions examined,"
+msgstr "zoals het verminderen van de zoekdiepte, het beperken van het aantal onderzochte posities,"
+
+#: main_16.cpp:103
+msgid "or adding some randomness to the evaluation function."
+msgstr "of door wat willekeur toe te voegen aan de evaluatiefunctie."
+
+#: main_16.cpp:105
+msgid "The actual Elo rating achieved by the engine is often an estimate,"
+msgstr "De werkelijke Elo-beoordeling die door de engine wordt behaald, is vaak een schatting,"
+
+#: main_16.cpp:107
+msgid "as it's difficult to calibrate precisely."
+msgstr "omdat het moeilijk is om nauwkeurig te kalibreren."
+
+#: main_16.cpp:109
+msgid "You can use this feature to play an engine at a level comparable to your own"
+msgstr "Met deze functie kunt u een engine op een niveau spelen dat vergelijkbaar is met uw eigen niveau."
+
+#: main_16.cpp:111
+msgid "or to test different engine strengths, even if the exact Elo isn't perfect."
+msgstr "of om verschillende engine-sterktes te testen, zelfs als de exacte Elo niet perfect is."
+
+#: main_16.cpp:113
+msgid "I have added the < UCI_LimitStrength > option to four engines -"
+msgstr "Ik heb de optie < UCI_LimitStrength > toegevoegd aan vier engines -"
+
+#: main_16.cpp:115
+msgid "Gambit Fruit, Toga II, Cyclone Xtreme and Firenzina."
+msgstr "Gambit Fruit, Toga II, Cyclone Xtreme en Firenzina."
+
+#: main_16.cpp:117
+msgid "Apart from setting the Elo rating, the playing strength"
+msgstr "Naast het instellen van de Elo-beoordeling, is de speelsterkte"
+
+#: main_16.cpp:119
+msgid "of all of these engines can be further adjusted with other options."
+msgstr "van al deze motoren kan nog verder worden aangepast met andere opties."
+
+#: main_16.cpp:121
+msgid "The method that I have used is based on the code of Ryan Benitez"
+msgstr "De methode die ik heb gebruikt is gebaseerd op de code van Ryan Benitez"
+
+#: main_16.cpp:123
+msgid "in the Gambit Fruit engine.  He wrote a delay loop governed by the"
+msgstr "in de Gambit Fruit engine. Hij schreef een delay-lus die werd aangestuurd door de"
+
+#: main_16.cpp:125
+msgid "number of nodes (positions) per second that the engine analyses."
+msgstr "aantal knooppunten (posities) per seconde dat de engine analyseert."
+
+#: main_16.cpp:127
+msgid "I mapped an Elo rating to a nodes per second value using the following"
+msgstr "Ik heb een Elo-beoordeling gekoppeld aan een waarde voor knooppunten per seconde met behulp van het volgende:"
+
+#: main_16.cpp:129
+msgid "algorithm devised by Ferdinand Mosca"
+msgstr "algoritme bedacht door Ferdinand Mosca"
+
+#: main_16.cpp:131
+msgid "nodes_per_second ="
+msgstr "knooppunten per seconde ="
+
+#: main_16.cpp:133
+msgid "I made the addition adjustment in the original formula into a variable"
+msgstr "Ik heb de optelaanpassing in de oorspronkelijke formule in een variabele omgezet"
+
+#: main_16.cpp:135
+msgid "< nps_elo_adjustment > in order to fine tune the conversion formula."
+msgstr "< nps_elo_adjustment > om de conversieformule nauwkeurig af te stemmen."
+
+#: main_16.cpp:137
+msgid "This can be set by the user in engine parameters."
+msgstr "Dit kan door de gebruiker worden ingesteld via de motorparameters."
+
+#: main_16.cpp:139
+msgid "Increase this value to make the engine stronger,"
+msgstr "Verhoog deze waarde om de motor sterker te maken,"
+
+#: main_16.cpp:141
+msgid "decrease it to make the engine weaker."
+msgstr "Verlaag de waarde om de motor zwakker te maken."
+
+#: main_16.cpp:143
+msgid "There is also a < Variety > parameter that can be adjusted."
+msgstr "Er is ook een <Variatie>-parameter die kan worden aangepast."
+
+#: main_16.cpp:145
+msgid "My intention for this option was that the engine would play a more varied game."
+msgstr "Met deze optie wilde ik dat de engine een gevarieerder spel zou spelen."
+
+#: main_16.cpp:147
+msgid "Then I realised that it could be combined with an < Allowed deficit > option"
+msgstr "Toen realiseerde ik me dat het gecombineerd kon worden met een <Toegestaan tekort> optie"
+
+#: main_16.cpp:149
+msgid "to adjust the engine playing strength further."
+msgstr "om de kracht van het spel verder aan te passen."
+
+#: main_16.cpp:151
+msgid "Lines that are weaker than the < Allowed deficit(centi-pawns) >"
+msgstr "Lijnen die zwakker zijn dan het < Toegestane tekort (centi-pionnen) >"
+
+#: main_16.cpp:153
+msgid "when compared to the best move found, are excluded when a move is selected."
+msgstr "worden, wanneer ze worden vergeleken met de beste gevonden zet, uitgesloten wanneer een zet wordt geselecteerd."
+
+#: main_16.cpp:155
+msgid "The move that will be played is chosen at random from the remaining moves."
+msgstr "De zet die gespeeld wordt, wordt willekeurig gekozen uit de resterende zetten."
+
+#: main_16.cpp:157
+msgid "So raising the value of < Variety > and < Allowed deficit > weakens the engine."
+msgstr "Het verhogen van de waarde van < Variatie > en < Toegestaan tekort > verzwakt de engine."
+
+#: main_16.cpp:159
+msgid "Therefore, if you want the engine to sometimes blunder a rook,"
+msgstr "Als je dus wilt dat de motor soms een toren blundert,"
+
+#: main_16.cpp:161
+msgid "the upper limit of < Allowed deficit > should be set to 600"
+msgstr "de bovengrens van <Toegestane tekort> moet worden ingesteld op 600"
+
+#: main_16.cpp:163
+msgid "To occasionally blunder a knight or bishop, it should be set to 350"
+msgstr "Om af en toe een paard of loper te verkloten, moet deze op 350 worden gezet"
+
+#: main_16.cpp:165
+msgid "for a pawn it should be about 125."
+msgstr "voor een pion zou dat ongeveer 125 moeten zijn."
+
+#: main_16.cpp:167
+msgid "You can use the < Variety > option just to vary the play if you set"
+msgstr "U kunt de optie <Variatie> gebruiken om het spel te variëren als u"
+
+#: main_16.cpp:169
+msgid "the < Allowed deficit > to a low value, say 25 centi-pawns."
+msgstr "het < Toegestane tekort > tot een lage waarde, bijvoorbeeld 25 centipionnen."
+
+#: main_16.cpp:171
+msgid "However, even this will still weaken the engine somewhat because the engine"
+msgstr "Maar zelfs dit zal de motor nog enigszins verzwakken, omdat de motor"
+
+#: main_16.cpp:173
+msgid "will use the < MultiPV > method of searching, which is slower than normal."
+msgstr "zal de <MultiPV>-zoekmethode gebruiken, die langzamer is dan normaal."
+
+#: main_16.cpp:175
+msgid "< Moves to go > is the number of moves that the engine is required to play"
+msgstr "<Moves to go> is het aantal zetten dat de engine nodig heeft om te spelen"
+
+#: main_16.cpp:177
+msgid "in whatever time it has remaining.  So if it has 2 minutes, 40 seconds left"
+msgstr "in de tijd die nog resteert. Dus als er nog 2 minuten en 40 seconden over zijn"
+
+#: main_16.cpp:179
+msgid "(160 seconds) and moves to go is set to 40 for that time period,"
+msgstr "(160 seconden) en het aantal te gaan zetten is voor die tijdsperiode ingesteld op 40,"
+
+#: main_16.cpp:181
+msgid "it will calculate the time available for its next move as \t160 / 40 = 4 seconds"
+msgstr "het berekent de beschikbare tijd voor zijn volgende zet als \t160 / 40 = 4 seconden"
+
+#: main_16.cpp:183
+msgid "and spend roughly that amount of time \ton its next move."
+msgstr "en besteedt ongeveer dezelfde hoeveelheid tijd aan zijn volgende zet."
+
+#: main_16.cpp:185
+msgid "So the engine will play progressively faster as its time ticks away."
+msgstr "De engine zal dus steeds sneller gaan spelen naarmate de tijd verstrijkt."
+
+#: main_16.cpp:187
+msgid "I have set different numbers for various time periods to even out the time usage."
+msgstr "Ik heb verschillende getallen ingesteld voor verschillende tijdsperioden, zodat de tijd gelijkmatig wordt besteed."
+
+#: main_16.cpp:189
+msgid "Although I find it best to set a higher number for the last minute,"
+msgstr "Hoewel ik het het beste vind om op het laatste moment een hoger getal in te stellen,"
+
+#: main_16.cpp:191
+msgid "so that the engine does not lose on time."
+msgstr "zodat de motor niet op tijd uitvalt."
+
+#: main_16.cpp:193
+msgid "Speeding up the engine, either by raising these < Moves to go > values,"
+msgstr "Door de motor te versnellen, door deze < Moves to go >-waarden te verhogen,"
+
+#: main_16.cpp:195
+msgid "or by reducing the overall time it has for the game, is another way"
+msgstr "of door de totale tijd die het voor het spel heeft te verkorten, is een andere manier"
+
+#: main_16.cpp:197
+msgid "of weakening the engine."
+msgstr "van het verzwakken van de motor."
+
+#: main_16.cpp:199
+msgid "With the Cyclone Xtreme engine, loading a random personality will also"
+msgstr "Met de Cyclone Xtreme-engine kan het laden van een willekeurige persoonlijkheid ook"
+
+#: main_16.cpp:201
+msgid "usually weaken the engine."
+msgstr "verzwakken meestal de motor."
+
+#: main_16.cpp:203
+msgid "Armed with all of these options, you should be able to adjust"
+msgstr "Gewapend met al deze opties zou u in staat moeten zijn om uw instellingen aan te passen"
+
+#: main_16.cpp:205
+msgid "all of these engines to a playing strength that suits you,"
+msgstr "al deze engines naar een speelsterkte die bij u past,"
+
+#: main_16.cpp:207
+msgid "although it may take a fair amount of experimentation to achieve this."
+msgstr "Het kan echter wel wat experimenteren kosten om dit te bereiken."
