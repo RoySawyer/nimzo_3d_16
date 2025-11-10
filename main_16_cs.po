@@ -1,0 +1,410 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-11-10 16:09+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_16.cpp:3
+msgid "UCI limit strength"
+msgstr "Limitní síla UCI"
+
+#: main_16.cpp:5 main_16.cpp:38
+msgid "Chess engine UCI limit strength help"
+msgstr "Nápověda k limitu síly UCI v šachovém enginu"
+
+#: main_16.cpp:7
+msgid "Select Cyclone Xtreme engine personality"
+msgstr "Vyberte typ motoru Cyclone Xtreme"
+
+#: main_16.cpp:9
+msgid "Reset engine file"
+msgstr "Obnovit soubor enginu"
+
+#: main_16.cpp:11
+msgid "Create random personality file"
+msgstr "Vytvořte náhodný soubor osobností"
+
+#: main_16.cpp:13
+msgid "Create Cyclone Xtreme .cfg personality file"
+msgstr "Vytvořte soubor s osobnostmi pro Cyclone Xtreme .cfg"
+
+#: main_16.cpp:15
+msgid "Cyclone Xtreme engine options"
+msgstr "Možnosti motoru Cyclone Xtreme"
+
+#: main_16.cpp:18
+msgid "Reset the Cyclone Xtreme engine configuration file to the default values"
+msgstr "Obnovte konfigurační soubor motoru Cyclone Xtreme na výchozí hodnoty."
+
+#: main_16.cpp:20
+msgid "Create a random personality file for the Cyclone Xtreme engine"
+msgstr "Vytvořte náhodný soubor s osobnostmi pro motor Cyclone Xtreme"
+
+#: main_16.cpp:22
+msgid "Select the default < cyclone.cfg > personality file"
+msgstr "Vyberte výchozí soubor s osobnostmi <cyclone.cfg>"
+
+#: main_16.cpp:23
+msgid "Hold down the shift key to clear the input box"
+msgstr "Podržte klávesu Shift pro vymazání vstupního pole"
+
+#: main_16.cpp:25
+msgid "was reset to the default values"
+msgstr "byl resetován na výchozí hodnoty"
+
+#: main_16.cpp:27
+msgid "Error resetting"
+msgstr "Chyba při resetování"
+
+#: main_16.cpp:29
+msgid "Random engine configuration file"
+msgstr "Konfigurační soubor náhodného enginu"
+
+#: main_16.cpp:30
+msgid "created"
+msgstr "vytvořeno"
+
+#: main_16.cpp:32
+msgid "Error creating random engine configuration file"
+msgstr "Chyba při vytváření náhodného konfiguračního souboru enginu"
+
+#: main_16.cpp:34
+msgid "Help for Cyclone Xtreme engine"
+msgstr "Nápověda k motoru Cyclone Xtreme"
+
+#: main_16.cpp:36
+msgid "UCI Limit strength"
+msgstr "Limitní síla UCI"
+
+#: main_16.cpp:41
+msgid "The Cyclone Xtreme engine which was written by Norman Schmidt"
+msgstr "Motor Cyclone Xtreme, který napsal Norman Schmidt"
+
+#: main_16.cpp:43
+msgid "is a Fruit derivative."
+msgstr "je ovocný derivát."
+
+#: main_16.cpp:45
+msgid "It has a huge number of parameters that can be used to tune the engine."
+msgstr "Má obrovské množství parametrů, které lze použít k vyladění motoru."
+
+#: main_16.cpp:47
+msgid "There is also a feature for creating random parameter files for the engine."
+msgstr "K dispozici je také funkce pro vytváření náhodných souborů parametrů pro engine."
+
+#: main_16.cpp:50
+msgid "I have made ten random parameter files, which I have called < Personalities >"
+msgstr "Vytvořil jsem deset náhodných souborů s parametry, které jsem nazval <Osobnosti>."
+
+#: main_16.cpp:52
+msgid "They are named < Person_1.cfg > up to < Person_10.cfg > and should be stored"
+msgstr "Jsou pojmenovány od < Person_1.cfg > až po < Person_10.cfg > a měly by být uloženy"
+
+#: main_16.cpp:54
+msgid "in a < Personalities > directory located in the same directory as the engine."
+msgstr "v adresáři <Personalities>, který se nachází ve stejném adresáři jako engine."
+
+#: main_16.cpp:57
+msgid "These personalities can be made if you run the engine from the command prompt"
+msgstr "Tyto osobnosti lze vytvořit, pokud spustíte engine z příkazového řádku"
+
+#: main_16.cpp:59
+msgid "but it is much simpler to make them using the options in Nimzo_3d."
+msgstr "ale je mnohem jednodušší je vytvořit pomocí možností v Nimzo_3d."
+
+#: main_16.cpp:62
+msgid "Options available in the dialog box -"
+msgstr "Možnosti dostupné v dialogovém okně -"
+
+#: main_16.cpp:65
+msgid "Select Cyclone Xtreme personality file  -  opens a Windows Explorer window"
+msgstr "Vyberte soubor s osobnostmi Cyclone Xtreme – otevře se okno Průzkumníka Windows"
+
+#: main_16.cpp:67
+msgid "which you can use to select the personality file for the engine."
+msgstr "který můžete použít k výběru souboru s osobnostmi pro engine."
+
+#: main_16.cpp:70
+msgid "Reset Engine  -  Reset the Cyclone Xtreme engine personality file"
+msgstr "Resetovat motor - Obnoví soubor s nastavením motoru Cyclone Xtreme"
+
+#: main_16.cpp:72
+msgid "to the default values."
+msgstr "na výchozí hodnoty."
+
+#: main_16.cpp:75
+msgid "Create random personality file  -  opens a Windows Explorer window"
+msgstr "Vytvořit náhodný soubor s osobnostmi - otevře okno Průzkumníka Windows"
+
+#: main_16.cpp:77
+msgid "which you can use to select the random personality file for the engine."
+msgstr "který můžete použít k výběru náhodného souboru s osobnostmi pro engine."
+
+#: main_16.cpp:79
+msgid "When you click on < Open > the file will be created."
+msgstr "Po kliknutí na <Otevřít> se soubor vytvoří."
+
+#: main_16.cpp:82
+msgid "When a personality is selected, the default personality file < cyclone.cfg >"
+msgstr "Po výběru osobnosti se použije výchozí soubor s osobností <cyclone.cfg>"
+
+#: main_16.cpp:84
+msgid "which is in the same directory as the engine, has its values over-written"
+msgstr "který se nachází ve stejném adresáři jako engine, má své hodnoty přepsané"
+
+#: main_16.cpp:86
+msgid "with the ones contained in the file that you select."
+msgstr "s těmi, které jsou obsaženy ve vybraném souboru."
+
+#: main_16.cpp:89
+msgid "There is a copy of the original version of < cyclone.cfg >"
+msgstr "Existuje kopie původní verze souboru <cyclone.cfg>"
+
+#: main_16.cpp:91
+msgid "in the < Personalities > directory and when you choose < Reset engine >"
+msgstr "v adresáři < Personalities > a když zvolíte < Reset engine >"
+
+#: main_16.cpp:93
+msgid "it is copied over the < cyclone.cfg > in the engine directory."
+msgstr "Zkopíruje se přes soubor <cyclone.cfg> v adresáři engine."
+
+#: main_16.cpp:95
+msgid "The engine has a repository on GitHub at -"
+msgstr "Engine má repozitář na GitHubu na adrese -"
+
+#: main_16.cpp:97
+msgid "When < UCI_LimitStrength > is enabled, the engine uses the < UCI_Elo > value"
+msgstr "Pokud je povolena hodnota <UCI_LimitStrength>, engine používá hodnotu <UCI_Elo>."
+
+#: main_16.cpp:99
+msgid "to adjust its playing strength. Engines use different algorithms to achieve this,"
+msgstr "upravit sílu přehrávání. Enginey k dosažení tohoto cíle používají různé algoritmy,"
+
+#: main_16.cpp:101
+msgid "such as reducing the search depth, limiting the number of positions examined,"
+msgstr "například snížení hloubky vyhledávání, omezení počtu zkoumaných pozic,"
+
+#: main_16.cpp:103
+msgid "or adding some randomness to the evaluation function."
+msgstr "nebo přidání určité náhodnosti do vyhodnocovací funkce."
+
+#: main_16.cpp:105
+msgid "The actual Elo rating achieved by the engine is often an estimate,"
+msgstr "Skutečné Elo hodnocení dosažené motorem je často odhad,"
+
+#: main_16.cpp:107
+msgid "as it's difficult to calibrate precisely."
+msgstr "protože je obtížné přesně kalibrovat."
+
+#: main_16.cpp:109
+msgid "You can use this feature to play an engine at a level comparable to your own"
+msgstr "Tuto funkci můžete použít k hraní enginu na úrovni srovnatelné s vaší vlastní"
+
+#: main_16.cpp:111
+msgid "or to test different engine strengths, even if the exact Elo isn't perfect."
+msgstr "nebo otestovat různé síly motorů, i když přesné Elo není dokonalé."
+
+#: main_16.cpp:113
+msgid "I have added the < UCI_LimitStrength > option to four engines -"
+msgstr "Přidal jsem možnost <UCI_LimitStrength> ke čtyřem enginům -"
+
+#: main_16.cpp:115
+msgid "Gambit Fruit, Toga II, Cyclone Xtreme and Firenzina."
+msgstr "Gambit Fruit, Toga II, Cyclone Xtreme a Firenzina."
+
+#: main_16.cpp:117
+msgid "Apart from setting the Elo rating, the playing strength"
+msgstr "Kromě nastavení Elo ratingu, herní síly"
+
+#: main_16.cpp:119
+msgid "of all of these engines can be further adjusted with other options."
+msgstr "Všechny tyto motory lze dále upravit pomocí dalších možností."
+
+#: main_16.cpp:121
+msgid "The method that I have used is based on the code of Ryan Benitez"
+msgstr "Metoda, kterou jsem použil, je založena na kódu Ryana Beniteze."
+
+#: main_16.cpp:123
+msgid "in the Gambit Fruit engine.  He wrote a delay loop governed by the"
+msgstr "v enginu Gambit Fruit. Napsal zpožďovací smyčku řízenou"
+
+#: main_16.cpp:125
+msgid "number of nodes (positions) per second that the engine analyses."
+msgstr "počet uzlů (pozic) za sekundu, které engine analyzuje."
+
+#: main_16.cpp:127
+msgid "I mapped an Elo rating to a nodes per second value using the following"
+msgstr "Namapoval jsem Elo hodnocení na hodnotu uzlů za sekundu pomocí následujícího"
+
+#: main_16.cpp:129
+msgid "algorithm devised by Ferdinand Mosca"
+msgstr "algoritmus navržený Ferdinandem Moscou"
+
+#: main_16.cpp:131
+msgid "nodes_per_second ="
+msgstr "uzly_za_sekundu ="
+
+#: main_16.cpp:133
+msgid "I made the addition adjustment in the original formula into a variable"
+msgstr "Provedl jsem úpravu sčítání v původním vzorci do proměnné"
+
+#: main_16.cpp:135
+msgid "< nps_elo_adjustment > in order to fine tune the conversion formula."
+msgstr "< nps_elo_adjustment > pro doladění konverzního vzorce."
+
+#: main_16.cpp:137
+msgid "This can be set by the user in engine parameters."
+msgstr "Toto může uživatel nastavit v parametrech motoru."
+
+#: main_16.cpp:139
+msgid "Increase this value to make the engine stronger,"
+msgstr "Zvyšte tuto hodnotu pro zesílení motoru,"
+
+#: main_16.cpp:141
+msgid "decrease it to make the engine weaker."
+msgstr "snižte ho, aby motor byl slabší."
+
+#: main_16.cpp:143
+msgid "There is also a < Variety > parameter that can be adjusted."
+msgstr "K dispozici je také parametr < Variety>, který lze upravit."
+
+#: main_16.cpp:145
+msgid "My intention for this option was that the engine would play a more varied game."
+msgstr "Mým záměrem u této možnosti bylo, aby engine hrál pestřejší hru."
+
+#: main_16.cpp:147
+msgid "Then I realised that it could be combined with an < Allowed deficit > option"
+msgstr "Pak jsem si uvědomil, že by se to dalo kombinovat s možností < Povolený deficit >."
+
+#: main_16.cpp:149
+msgid "to adjust the engine playing strength further."
+msgstr "pro další úpravu síly přehrávání enginu."
+
+#: main_16.cpp:151
+msgid "Lines that are weaker than the < Allowed deficit(centi-pawns) >"
+msgstr "Linie, které jsou slabší než < Povolený deficit (centi-pěšci) >"
+
+#: main_16.cpp:153
+msgid "when compared to the best move found, are excluded when a move is selected."
+msgstr "při porovnání s nejlepším nalezeným tahem jsou při výběru tahu vyloučeny."
+
+#: main_16.cpp:155
+msgid "The move that will be played is chosen at random from the remaining moves."
+msgstr "Tah, který bude zahrán, je vybrán náhodně ze zbývajících tahů."
+
+#: main_16.cpp:157
+msgid "So raising the value of < Variety > and < Allowed deficit > weakens the engine."
+msgstr "Takže zvýšení hodnoty <Variety> a <Povoleného deficitu> oslabuje motor."
+
+#: main_16.cpp:159
+msgid "Therefore, if you want the engine to sometimes blunder a rook,"
+msgstr "Pokud tedy chcete, aby motor občas srazil havrana,"
+
+#: main_16.cpp:161
+msgid "the upper limit of < Allowed deficit > should be set to 600"
+msgstr "Horní limit < Povoleného deficitu > by měl být stanoven na 600"
+
+#: main_16.cpp:163
+msgid "To occasionally blunder a knight or bishop, it should be set to 350"
+msgstr "Aby se občas podařilo sehnat rytíři nebo střelcům chybu, mělo by být nastaveno na 350."
+
+#: main_16.cpp:165
+msgid "for a pawn it should be about 125."
+msgstr "pro pěšce by to mělo být asi 125."
+
+#: main_16.cpp:167
+msgid "You can use the < Variety > option just to vary the play if you set"
+msgstr "Volbu < Variety> můžete použít pouze k obměně přehrávání, pokud nastavíte"
+
+#: main_16.cpp:169
+msgid "the < Allowed deficit > to a low value, say 25 centi-pawns."
+msgstr "< Povolený deficit > na nízkou hodnotu, řekněme 25 centových pěšců."
+
+#: main_16.cpp:171
+msgid "However, even this will still weaken the engine somewhat because the engine"
+msgstr "I to však motor poněkud oslabí, protože motor"
+
+#: main_16.cpp:173
+msgid "will use the < MultiPV > method of searching, which is slower than normal."
+msgstr "použije metodu vyhledávání <MultiPV>, která je pomalejší než obvykle."
+
+#: main_16.cpp:175
+msgid "< Moves to go > is the number of moves that the engine is required to play"
+msgstr "< Zbývající tahy > je počet tahů, které engine musí odehrát"
+
+#: main_16.cpp:177
+msgid "in whatever time it has remaining.  So if it has 2 minutes, 40 seconds left"
+msgstr "v jakémkoli zbývajícím čase. Takže pokud zbývají 2 minuty a 40 sekund"
+
+#: main_16.cpp:179
+msgid "(160 seconds) and moves to go is set to 40 for that time period,"
+msgstr "(160 sekund) a zbývající tahy jsou pro toto časové období nastaveny na 40,"
+
+#: main_16.cpp:181
+msgid "it will calculate the time available for its next move as \t160 / 40 = 4 seconds"
+msgstr "vypočítá čas dostupný pro další tah jako \t160 / 40 = 4 sekundy"
+
+#: main_16.cpp:183
+msgid "and spend roughly that amount of time \ton its next move."
+msgstr "a stráví zhruba stejný čas svým dalším tahem."
+
+#: main_16.cpp:185
+msgid "So the engine will play progressively faster as its time ticks away."
+msgstr "Takže motor se bude s postupujícím časem otáčet postupně rychleji."
+
+#: main_16.cpp:187
+msgid "I have set different numbers for various time periods to even out the time usage."
+msgstr "Pro různá časová období jsem nastavil různá čísla, abych rovnoměrně rozložil využití času."
+
+#: main_16.cpp:189
+msgid "Although I find it best to set a higher number for the last minute,"
+msgstr "I když si myslím, že je nejlepší nastavit vyšší číslo na poslední chvíli,"
+
+#: main_16.cpp:191
+msgid "so that the engine does not lose on time."
+msgstr "aby motor neztrácel včas."
+
+#: main_16.cpp:193
+msgid "Speeding up the engine, either by raising these < Moves to go > values,"
+msgstr "Zrychlení enginu, buď zvýšením těchto hodnot < Počet zbývajících pohybů>,"
+
+#: main_16.cpp:195
+msgid "or by reducing the overall time it has for the game, is another way"
+msgstr "nebo zkrácením celkového času, který má na hru, je další způsob"
+
+#: main_16.cpp:197
+msgid "of weakening the engine."
+msgstr "k oslabení motoru."
+
+#: main_16.cpp:199
+msgid "With the Cyclone Xtreme engine, loading a random personality will also"
+msgstr "S enginem Cyclone Xtreme bude načítání náhodné osobnosti také..."
+
+#: main_16.cpp:201
+msgid "usually weaken the engine."
+msgstr "obvykle oslabují motor."
+
+#: main_16.cpp:203
+msgid "Armed with all of these options, you should be able to adjust"
+msgstr "Vyzbrojeni všemi těmito možnostmi byste měli být schopni upravit"
+
+#: main_16.cpp:205
+msgid "all of these engines to a playing strength that suits you,"
+msgstr "všechny tyto motory na sílu hry, která vám vyhovuje,"
+
+#: main_16.cpp:207
+msgid "although it may take a fair amount of experimentation to achieve this."
+msgstr "i když k dosažení tohoto cíle může být zapotřebí značné množství experimentování."
