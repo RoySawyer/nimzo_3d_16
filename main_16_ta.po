@@ -1,0 +1,410 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-11-10 16:09+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_16.cpp:3
+msgid "UCI limit strength"
+msgstr "UCI வரம்பு வலிமை"
+
+#: main_16.cpp:5 main_16.cpp:38
+msgid "Chess engine UCI limit strength help"
+msgstr "சதுரங்க இயந்திரம் UCI வரம்பு வலிமை உதவி"
+
+#: main_16.cpp:7
+msgid "Select Cyclone Xtreme engine personality"
+msgstr "சைக்ளோன் எக்ஸ்ட்ரீம் என்ஜின் ஆளுமையைத் தேர்ந்தெடுக்கவும்."
+
+#: main_16.cpp:9
+msgid "Reset engine file"
+msgstr "இயந்திர கோப்பை மீட்டமைக்கவும்"
+
+#: main_16.cpp:11
+msgid "Create random personality file"
+msgstr "சீரற்ற ஆளுமை கோப்பை உருவாக்கு."
+
+#: main_16.cpp:13
+msgid "Create Cyclone Xtreme .cfg personality file"
+msgstr "Cyclone Xtreme .cfg ஆளுமை கோப்பை உருவாக்கவும்."
+
+#: main_16.cpp:15
+msgid "Cyclone Xtreme engine options"
+msgstr "சைக்ளோன் எக்ஸ்ட்ரீம் எஞ்சின் விருப்பங்கள்"
+
+#: main_16.cpp:18
+msgid "Reset the Cyclone Xtreme engine configuration file to the default values"
+msgstr "சைக்ளோன் எக்ஸ்ட்ரீம் என்ஜின் உள்ளமைவு கோப்பை இயல்புநிலை மதிப்புகளுக்கு மீட்டமைக்கவும்."
+
+#: main_16.cpp:20
+msgid "Create a random personality file for the Cyclone Xtreme engine"
+msgstr "சைக்ளோன் எக்ஸ்ட்ரீம் எஞ்சினுக்கு ஒரு சீரற்ற ஆளுமை கோப்பை உருவாக்கவும்."
+
+#: main_16.cpp:22
+msgid "Select the default < cyclone.cfg > personality file"
+msgstr "இயல்புநிலை cyclone.cfg > ஆளுமை கோப்பைத் தேர்ந்தெடுக்கவும்."
+
+#: main_16.cpp:23
+msgid "Hold down the shift key to clear the input box"
+msgstr "உள்ளீட்டுப் பெட்டியை அழிக்க shift விசையை அழுத்திப் பிடிக்கவும்."
+
+#: main_16.cpp:25
+msgid "was reset to the default values"
+msgstr "இயல்புநிலை மதிப்புகளுக்கு மீட்டமைக்கப்பட்டது."
+
+#: main_16.cpp:27
+msgid "Error resetting"
+msgstr "மீட்டமைப்பதில் பிழை"
+
+#: main_16.cpp:29
+msgid "Random engine configuration file"
+msgstr "சீரற்ற இயந்திர உள்ளமைவு கோப்பு"
+
+#: main_16.cpp:30
+msgid "created"
+msgstr "உருவாக்கப்பட்டது"
+
+#: main_16.cpp:32
+msgid "Error creating random engine configuration file"
+msgstr "சீரற்ற இயந்திர உள்ளமைவு கோப்பை உருவாக்குவதில் பிழை."
+
+#: main_16.cpp:34
+msgid "Help for Cyclone Xtreme engine"
+msgstr "சைக்ளோன் எக்ஸ்ட்ரீம் எஞ்சினுக்கு உதவி"
+
+#: main_16.cpp:36
+msgid "UCI Limit strength"
+msgstr "UCI வரம்பு வலிமை"
+
+#: main_16.cpp:41
+msgid "The Cyclone Xtreme engine which was written by Norman Schmidt"
+msgstr "நார்மன் ஷ்மிட் எழுதிய சைக்ளோன் எக்ஸ்ட்ரீம் எஞ்சின்"
+
+#: main_16.cpp:43
+msgid "is a Fruit derivative."
+msgstr "ஒரு பழ வழித்தோன்றல் ஆகும்."
+
+#: main_16.cpp:45
+msgid "It has a huge number of parameters that can be used to tune the engine."
+msgstr "இது இயந்திரத்தை டியூன் செய்யப் பயன்படுத்தக்கூடிய ஏராளமான அளவுருக்களைக் கொண்டுள்ளது."
+
+#: main_16.cpp:47
+msgid "There is also a feature for creating random parameter files for the engine."
+msgstr "இயந்திரத்திற்கான சீரற்ற அளவுரு கோப்புகளை உருவாக்குவதற்கான ஒரு அம்சமும் உள்ளது."
+
+#: main_16.cpp:50
+msgid "I have made ten random parameter files, which I have called < Personalities >"
+msgstr "நான் பத்து சீரற்ற அளவுரு கோப்புகளை உருவாக்கியுள்ளேன், அவற்றை நான் <Personalities > என்று அழைத்துள்ளேன்."
+
+#: main_16.cpp:52
+msgid "They are named < Person_1.cfg > up to < Person_10.cfg > and should be stored"
+msgstr "அவை <Person_1.cfg > <Person_10.cfg > வரை பெயரிடப்பட்டுள்ளன, மேலும் அவை சேமிக்கப்பட வேண்டும்."
+
+#: main_16.cpp:54
+msgid "in a < Personalities > directory located in the same directory as the engine."
+msgstr "இயந்திரம் இருக்கும் அதே கோப்பகத்தில் அமைந்துள்ள ஒரு <Personalities > கோப்பகத்தில்."
+
+#: main_16.cpp:57
+msgid "These personalities can be made if you run the engine from the command prompt"
+msgstr "கட்டளை வரியில் இருந்து இயந்திரத்தை இயக்கினால் இந்த ஆளுமைகளை உருவாக்க முடியும்."
+
+#: main_16.cpp:59
+msgid "but it is much simpler to make them using the options in Nimzo_3d."
+msgstr "ஆனால் Nimzo_3d இல் உள்ள விருப்பங்களைப் பயன்படுத்தி அவற்றை உருவாக்குவது மிகவும் எளிது."
+
+#: main_16.cpp:62
+msgid "Options available in the dialog box -"
+msgstr "உரையாடல் பெட்டியில் கிடைக்கும் விருப்பங்கள் -"
+
+#: main_16.cpp:65
+msgid "Select Cyclone Xtreme personality file  -  opens a Windows Explorer window"
+msgstr "Cyclone Xtreme ஆளுமை கோப்பைத் தேர்ந்தெடுக்கவும் - விண்டோஸ் எக்ஸ்ப்ளோரர் சாளரத்தைத் திறக்கும்."
+
+#: main_16.cpp:67
+msgid "which you can use to select the personality file for the engine."
+msgstr "இதைப் பயன்படுத்தி எஞ்சினுக்கான ஆளுமைக் கோப்பைத் தேர்ந்தெடுக்கலாம்."
+
+#: main_16.cpp:70
+msgid "Reset Engine  -  Reset the Cyclone Xtreme engine personality file"
+msgstr "இயந்திரத்தை மீட்டமை - சைக்ளோன் எக்ஸ்ட்ரீம் இயந்திர ஆளுமை கோப்பை மீட்டமைக்கவும்."
+
+#: main_16.cpp:72
+msgid "to the default values."
+msgstr "இயல்புநிலை மதிப்புகளுக்கு."
+
+#: main_16.cpp:75
+msgid "Create random personality file  -  opens a Windows Explorer window"
+msgstr "சீரற்ற ஆளுமை கோப்பை உருவாக்கு - விண்டோஸ் எக்ஸ்ப்ளோரர் சாளரத்தைத் திறக்கிறது."
+
+#: main_16.cpp:77
+msgid "which you can use to select the random personality file for the engine."
+msgstr "இதைப் பயன்படுத்தி எஞ்சினுக்கான சீரற்ற ஆளுமைக் கோப்பைத் தேர்ந்தெடுக்கலாம்."
+
+#: main_16.cpp:79
+msgid "When you click on < Open > the file will be created."
+msgstr "நீங்கள் <திற > என்பதைக் கிளிக் செய்யும்போது கோப்பு உருவாக்கப்படும்."
+
+#: main_16.cpp:82
+msgid "When a personality is selected, the default personality file < cyclone.cfg >"
+msgstr "ஒரு ஆளுமை தேர்ந்தெடுக்கப்படும்போது, ​​இயல்புநிலை ஆளுமை கோப்பு cyclone.cfg >"
+
+#: main_16.cpp:84
+msgid "which is in the same directory as the engine, has its values over-written"
+msgstr "இது இயந்திரத்தின் அதே கோப்பகத்தில் உள்ளது, அதன் மதிப்புகள் மேலெழுதப்பட்டுள்ளன."
+
+#: main_16.cpp:86
+msgid "with the ones contained in the file that you select."
+msgstr "நீங்கள் தேர்ந்தெடுக்கும் கோப்பில் உள்ளவற்றுடன்."
+
+#: main_16.cpp:89
+msgid "There is a copy of the original version of < cyclone.cfg >"
+msgstr "cyclone.cfg > இன் அசல் பதிப்பின் நகல் உள்ளது."
+
+#: main_16.cpp:91
+msgid "in the < Personalities > directory and when you choose < Reset engine >"
+msgstr "<Personalities > கோப்பகத்தில் மற்றும் நீங்கள் <Reset engine > என்பதைத் தேர்ந்தெடுக்கும்போது"
+
+#: main_16.cpp:93
+msgid "it is copied over the < cyclone.cfg > in the engine directory."
+msgstr "இது என்ஜின் கோப்பகத்தில் cyclone.cfg > மீது நகலெடுக்கப்படுகிறது."
+
+#: main_16.cpp:95
+msgid "The engine has a repository on GitHub at -"
+msgstr "இந்த எஞ்சின் GitHub இல் ஒரு களஞ்சியத்தைக் கொண்டுள்ளது -"
+
+#: main_16.cpp:97
+msgid "When < UCI_LimitStrength > is enabled, the engine uses the < UCI_Elo > value"
+msgstr "UCI_LimitStrength > இயக்கப்பட்டிருக்கும் போது, ​​இயந்திரம் UCI_Elo > மதிப்பைப் பயன்படுத்துகிறது."
+
+#: main_16.cpp:99
+msgid "to adjust its playing strength. Engines use different algorithms to achieve this,"
+msgstr "அதன் இசைக்கும் வலிமையை சரிசெய்ய. இதை அடைய இயந்திரங்கள் வெவ்வேறு வழிமுறைகளைப் பயன்படுத்துகின்றன,"
+
+#: main_16.cpp:101
+msgid "such as reducing the search depth, limiting the number of positions examined,"
+msgstr "தேடல் ஆழத்தைக் குறைத்தல், ஆய்வு செய்யப்பட்ட நிலைகளின் எண்ணிக்கையைக் கட்டுப்படுத்துதல் போன்றவை,"
+
+#: main_16.cpp:103
+msgid "or adding some randomness to the evaluation function."
+msgstr "அல்லது மதிப்பீட்டு செயல்பாட்டில் சில சீரற்ற தன்மையைச் சேர்ப்பது."
+
+#: main_16.cpp:105
+msgid "The actual Elo rating achieved by the engine is often an estimate,"
+msgstr "இயந்திரத்தால் அடையப்பட்ட உண்மையான எலோ மதிப்பீடு பெரும்பாலும் ஒரு மதிப்பீடாகும்,"
+
+#: main_16.cpp:107
+msgid "as it's difficult to calibrate precisely."
+msgstr "ஏனெனில் துல்லியமாக அளவீடு செய்வது கடினம்."
+
+#: main_16.cpp:109
+msgid "You can use this feature to play an engine at a level comparable to your own"
+msgstr "இந்த அம்சத்தைப் பயன்படுத்தி உங்கள் சொந்த இயந்திரத்துடன் ஒப்பிடக்கூடிய அளவில் ஒரு இயந்திரத்தை இயக்கலாம்."
+
+#: main_16.cpp:111
+msgid "or to test different engine strengths, even if the exact Elo isn't perfect."
+msgstr "அல்லது சரியான எலோ சரியானதாக இல்லாவிட்டாலும், வெவ்வேறு எஞ்சின் வலிமைகளைச் சோதிக்க."
+
+#: main_16.cpp:113
+msgid "I have added the < UCI_LimitStrength > option to four engines -"
+msgstr "நான் நான்கு எஞ்சின்களில் UCI_LimitStrength > விருப்பத்தைச் சேர்த்துள்ளேன் -"
+
+#: main_16.cpp:115
+msgid "Gambit Fruit, Toga II, Cyclone Xtreme and Firenzina."
+msgstr "காம்பிட் பழம், டோகா II, சைக்ளோன் எக்ஸ்ட்ரீம் மற்றும் ஃபயர்ன்சினா."
+
+#: main_16.cpp:117
+msgid "Apart from setting the Elo rating, the playing strength"
+msgstr "எலோ மதிப்பீட்டை அமைப்பதைத் தவிர, விளையாடும் வலிமை"
+
+#: main_16.cpp:119
+msgid "of all of these engines can be further adjusted with other options."
+msgstr "இந்த அனைத்து இயந்திரங்களிலும் மற்ற விருப்பங்களுடன் மேலும் சரிசெய்யப்படலாம்."
+
+#: main_16.cpp:121
+msgid "The method that I have used is based on the code of Ryan Benitez"
+msgstr "நான் பயன்படுத்திய முறை ரியான் பெனிடெஸின் குறியீட்டை அடிப்படையாகக் கொண்டது."
+
+#: main_16.cpp:123
+msgid "in the Gambit Fruit engine.  He wrote a delay loop governed by the"
+msgstr "காம்பிட் பழ இயந்திரத்தில். அவர் ஒரு தாமத வளையத்தை எழுதினார், அதை அவர் நிர்வகிக்கிறார்"
+
+#: main_16.cpp:125
+msgid "number of nodes (positions) per second that the engine analyses."
+msgstr "இயந்திரம் பகுப்பாய்வு செய்யும் வினாடிக்கு முனைகளின் எண்ணிக்கை (நிலைகள்)."
+
+#: main_16.cpp:127
+msgid "I mapped an Elo rating to a nodes per second value using the following"
+msgstr "நான் பின்வருவனவற்றைப் பயன்படுத்தி ஒரு நொடிக்கு ஒரு மதிப்புக்கு Elo மதிப்பீட்டை மேப் செய்தேன்."
+
+#: main_16.cpp:129
+msgid "algorithm devised by Ferdinand Mosca"
+msgstr "ஃபெர்டினாண்ட் மோஸ்காவால் உருவாக்கப்பட்ட வழிமுறை"
+
+#: main_16.cpp:131
+msgid "nodes_per_second ="
+msgstr "நொடிக்கு_நோட்ஸ் ="
+
+#: main_16.cpp:133
+msgid "I made the addition adjustment in the original formula into a variable"
+msgstr "அசல் சூத்திரத்தில் கூட்டல் சரிசெய்தலை ஒரு மாறியாக மாற்றினேன்."
+
+#: main_16.cpp:135
+msgid "< nps_elo_adjustment > in order to fine tune the conversion formula."
+msgstr "மாற்ற சூத்திரத்தை நன்றாக மாற்ற <nps_elo_adjustment >."
+
+#: main_16.cpp:137
+msgid "This can be set by the user in engine parameters."
+msgstr "இதை பயனரே இயந்திர அளவுருக்களில் அமைக்கலாம்."
+
+#: main_16.cpp:139
+msgid "Increase this value to make the engine stronger,"
+msgstr "இயந்திரத்தை வலிமையாக்க இந்த மதிப்பை அதிகரிக்கவும்,"
+
+#: main_16.cpp:141
+msgid "decrease it to make the engine weaker."
+msgstr "இயந்திரத்தை பலவீனப்படுத்த அதைக் குறைக்கவும்."
+
+#: main_16.cpp:143
+msgid "There is also a < Variety > parameter that can be adjusted."
+msgstr "சரிசெய்யக்கூடிய ஒரு Variety > அளவுருவும் உள்ளது."
+
+#: main_16.cpp:145
+msgid "My intention for this option was that the engine would play a more varied game."
+msgstr "இந்த விருப்பத்திற்கான எனது நோக்கம், இயந்திரம் மிகவும் மாறுபட்ட விளையாட்டை விளையாடும் என்பதாகும்."
+
+#: main_16.cpp:147
+msgid "Then I realised that it could be combined with an < Allowed deficit > option"
+msgstr "பின்னர் அதை ஒரு <Allowed deficit > விருப்பத்துடன் இணைக்க முடியும் என்பதை உணர்ந்தேன்."
+
+#: main_16.cpp:149
+msgid "to adjust the engine playing strength further."
+msgstr "இயந்திர இயக்க வலிமையை மேலும் சரிசெய்ய."
+
+#: main_16.cpp:151
+msgid "Lines that are weaker than the < Allowed deficit(centi-pawns) >"
+msgstr "அனுமதிக்கப்பட்ட பற்றாக்குறையை விட பலவீனமான கோடுகள் (centi-pawns) >"
+
+#: main_16.cpp:153
+msgid "when compared to the best move found, are excluded when a move is selected."
+msgstr "கண்டுபிடிக்கப்பட்ட சிறந்த நகர்வுடன் ஒப்பிடும்போது, ​​ஒரு நகர்வு தேர்ந்தெடுக்கப்படும்போது விலக்கப்படும்."
+
+#: main_16.cpp:155
+msgid "The move that will be played is chosen at random from the remaining moves."
+msgstr "மீதமுள்ள நகர்வுகளிலிருந்து சீரற்ற முறையில் விளையாடப்படும் நகர்வு தேர்ந்தெடுக்கப்படும்."
+
+#: main_16.cpp:157
+msgid "So raising the value of < Variety > and < Allowed deficit > weakens the engine."
+msgstr "எனவே Variety > மற்றும் <Allowed பற்றாக்குறை > ஆகியவற்றின் மதிப்பை உயர்த்துவது இயந்திரத்தை பலவீனப்படுத்துகிறது."
+
+#: main_16.cpp:159
+msgid "Therefore, if you want the engine to sometimes blunder a rook,"
+msgstr "எனவே, இயந்திரம் சில நேரங்களில் ஒரு தண்டை தவறுதலாக உடைக்க வேண்டுமென்றால்,"
+
+#: main_16.cpp:161
+msgid "the upper limit of < Allowed deficit > should be set to 600"
+msgstr "<அனுமதிக்கப்பட்ட பற்றாக்குறை > இன் உச்ச வரம்பை 600 ஆக அமைக்க வேண்டும்."
+
+#: main_16.cpp:163
+msgid "To occasionally blunder a knight or bishop, it should be set to 350"
+msgstr "எப்போதாவது ஒரு நைட் அல்லது பிஷப்பை தவறாகப் புரிந்து கொள்ள, அதை 350 ஆக அமைக்க வேண்டும்."
+
+#: main_16.cpp:165
+msgid "for a pawn it should be about 125."
+msgstr "ஒரு சிப்பாயைப் பொறுத்தவரை அது சுமார் 125 ஆக இருக்க வேண்டும்."
+
+#: main_16.cpp:167
+msgid "You can use the < Variety > option just to vary the play if you set"
+msgstr "நீங்கள் அமைத்தால், நாடகத்தை மாற்ற, வெரைட்டி > விருப்பத்தைப் பயன்படுத்தலாம்."
+
+#: main_16.cpp:169
+msgid "the < Allowed deficit > to a low value, say 25 centi-pawns."
+msgstr "அனுமதிக்கப்பட்ட பற்றாக்குறை > குறைந்த மதிப்புக்கு, 25 சென்டி-சிப்பாய்கள் என்று சொல்லலாம்."
+
+#: main_16.cpp:171
+msgid "However, even this will still weaken the engine somewhat because the engine"
+msgstr "இருப்பினும், இது கூட இயந்திரத்தை ஓரளவு பலவீனப்படுத்தும், ஏனெனில் இயந்திரம்"
+
+#: main_16.cpp:173
+msgid "will use the < MultiPV > method of searching, which is slower than normal."
+msgstr "தேடுதலுக்கு MultiPV > முறையைப் பயன்படுத்தும், இது வழக்கத்தை விட மெதுவாக இருக்கும்."
+
+#: main_16.cpp:175
+msgid "< Moves to go > is the number of moves that the engine is required to play"
+msgstr "<நகர்வுகள்> செல்ல வேண்டியவை > என்பது இயந்திரம் இயக்கத் தேவையான நகர்வுகளின் எண்ணிக்கையாகும்."
+
+#: main_16.cpp:177
+msgid "in whatever time it has remaining.  So if it has 2 minutes, 40 seconds left"
+msgstr "மீதமுள்ள நேரத்தில். எனவே அதற்கு 2 நிமிடங்கள், 40 வினாடிகள் மீதமுள்ளால்"
+
+#: main_16.cpp:179
+msgid "(160 seconds) and moves to go is set to 40 for that time period,"
+msgstr "(160 வினாடிகள்) மற்றும் அந்த காலத்திற்கு நகர்த்த வேண்டிய நேரம் 40 ஆக அமைக்கப்பட்டுள்ளது,"
+
+#: main_16.cpp:181
+msgid "it will calculate the time available for its next move as \t160 / 40 = 4 seconds"
+msgstr "அது அடுத்த நகர்வுக்குக் கிடைக்கும் நேரத்தை \t160 / 40 = 4 வினாடிகள் எனக் கணக்கிடும்."
+
+#: main_16.cpp:183
+msgid "and spend roughly that amount of time \ton its next move."
+msgstr "மேலும் அதன் அடுத்த நகர்வில் தோராயமாக அந்த அளவு நேரத்தை செலவிடுங்கள்."
+
+#: main_16.cpp:185
+msgid "So the engine will play progressively faster as its time ticks away."
+msgstr "எனவே நேரம் செல்லச் செல்ல இயந்திரம் படிப்படியாக வேகமாக இயங்கும்."
+
+#: main_16.cpp:187
+msgid "I have set different numbers for various time periods to even out the time usage."
+msgstr "நேர பயன்பாட்டை சமன் செய்ய, பல்வேறு காலகட்டங்களுக்கு வெவ்வேறு எண்களை அமைத்துள்ளேன்."
+
+#: main_16.cpp:189
+msgid "Although I find it best to set a higher number for the last minute,"
+msgstr "கடைசி நிமிடத்திற்கு அதிக எண்ணை அமைப்பது சிறந்தது என்று நான் கருதினாலும்,"
+
+#: main_16.cpp:191
+msgid "so that the engine does not lose on time."
+msgstr "இதனால் இயந்திரம் சரியான நேரத்தில் தோல்வியடையாது."
+
+#: main_16.cpp:193
+msgid "Speeding up the engine, either by raising these < Moves to go > values,"
+msgstr "இந்த <நகர்வுகள்> செல்ல > மதிப்புகளை உயர்த்துவதன் மூலம் இயந்திரத்தை வேகப்படுத்துதல்,"
+
+#: main_16.cpp:195
+msgid "or by reducing the overall time it has for the game, is another way"
+msgstr "அல்லது விளையாட்டுக்கான ஒட்டுமொத்த நேரத்தைக் குறைப்பதன் மூலம், மற்றொரு வழி"
+
+#: main_16.cpp:197
+msgid "of weakening the engine."
+msgstr "இயந்திரத்தை பலவீனப்படுத்துதல்."
+
+#: main_16.cpp:199
+msgid "With the Cyclone Xtreme engine, loading a random personality will also"
+msgstr "சைக்ளோன் எக்ஸ்ட்ரீம் எஞ்சினுடன், ஒரு சீரற்ற ஆளுமையை ஏற்றுவதும்"
+
+#: main_16.cpp:201
+msgid "usually weaken the engine."
+msgstr "பொதுவாக இயந்திரத்தை பலவீனப்படுத்துகிறது."
+
+#: main_16.cpp:203
+msgid "Armed with all of these options, you should be able to adjust"
+msgstr "இந்த அனைத்து விருப்பங்களுடனும் ஆயுதம் ஏந்தி, நீங்கள் சரிசெய்ய முடியும்"
+
+#: main_16.cpp:205
+msgid "all of these engines to a playing strength that suits you,"
+msgstr "இந்த அனைத்து இயந்திரங்களையும் உங்களுக்கு ஏற்ற விளையாடும் வலிமைக்கு,"
+
+#: main_16.cpp:207
+msgid "although it may take a fair amount of experimentation to achieve this."
+msgstr "இதை அடைய நியாயமான அளவு பரிசோதனை தேவைப்படலாம் என்றாலும்."
