@@ -1,0 +1,410 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-11-10 16:09+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_16.cpp:3
+msgid "UCI limit strength"
+msgstr "UCI határerősség"
+
+#: main_16.cpp:5 main_16.cpp:38
+msgid "Chess engine UCI limit strength help"
+msgstr "Sakkmotor UCI erősségi korlát segítség"
+
+#: main_16.cpp:7
+msgid "Select Cyclone Xtreme engine personality"
+msgstr "Válasszon Cyclone Xtreme motorvezérlőt"
+
+#: main_16.cpp:9
+msgid "Reset engine file"
+msgstr "Motorfájl visszaállítása"
+
+#: main_16.cpp:11
+msgid "Create random personality file"
+msgstr "Véletlenszerű személyiségfájl létrehozása"
+
+#: main_16.cpp:13
+msgid "Create Cyclone Xtreme .cfg personality file"
+msgstr "Cyclone Xtreme .cfg személyiségfájl létrehozása"
+
+#: main_16.cpp:15
+msgid "Cyclone Xtreme engine options"
+msgstr "Cyclone Xtreme motor opciók"
+
+#: main_16.cpp:18
+msgid "Reset the Cyclone Xtreme engine configuration file to the default values"
+msgstr "Állítsa vissza a Cyclone Xtreme motor konfigurációs fájlját az alapértelmezett értékekre"
+
+#: main_16.cpp:20
+msgid "Create a random personality file for the Cyclone Xtreme engine"
+msgstr "Hozz létre egy véletlenszerű személyiségfájlt a Cyclone Xtreme motorhoz"
+
+#: main_16.cpp:22
+msgid "Select the default < cyclone.cfg > personality file"
+msgstr "Válassza ki az alapértelmezett < cyclone.cfg > személyiségfájlt"
+
+#: main_16.cpp:23
+msgid "Hold down the shift key to clear the input box"
+msgstr "Tartsa lenyomva a Shift billentyűt a beviteli mező törléséhez"
+
+#: main_16.cpp:25
+msgid "was reset to the default values"
+msgstr "vissza lett állítva az alapértelmezett értékekre"
+
+#: main_16.cpp:27
+msgid "Error resetting"
+msgstr "Hiba az alaphelyzetbe állításkor"
+
+#: main_16.cpp:29
+msgid "Random engine configuration file"
+msgstr "Véletlenszerű motorkonfigurációs fájl"
+
+#: main_16.cpp:30
+msgid "created"
+msgstr "létrehozva"
+
+#: main_16.cpp:32
+msgid "Error creating random engine configuration file"
+msgstr "Hiba történt a véletlenszerű motorkonfigurációs fájl létrehozásakor"
+
+#: main_16.cpp:34
+msgid "Help for Cyclone Xtreme engine"
+msgstr "Segítség a Cyclone Xtreme motorhoz"
+
+#: main_16.cpp:36
+msgid "UCI Limit strength"
+msgstr "UCI határerősség"
+
+#: main_16.cpp:41
+msgid "The Cyclone Xtreme engine which was written by Norman Schmidt"
+msgstr "A Cyclone Xtreme motor, amelyet Norman Schmidt írt"
+
+#: main_16.cpp:43
+msgid "is a Fruit derivative."
+msgstr "gyümölcsből származó."
+
+#: main_16.cpp:45
+msgid "It has a huge number of parameters that can be used to tune the engine."
+msgstr "Hatalmas számú paraméterrel rendelkezik, amelyekkel a motor hangolható."
+
+#: main_16.cpp:47
+msgid "There is also a feature for creating random parameter files for the engine."
+msgstr "Van egy funkció véletlenszerű paraméterfájlok létrehozására a motorhoz is."
+
+#: main_16.cpp:50
+msgid "I have made ten random parameter files, which I have called < Personalities >"
+msgstr "Tíz véletlenszerű paraméterfájlt hoztam létre, amelyeket <Személyiségek>-nek neveztem el."
+
+#: main_16.cpp:52
+msgid "They are named < Person_1.cfg > up to < Person_10.cfg > and should be stored"
+msgstr "< Person_1.cfg > - < Person_10.cfg > néven vannak elnevezve, és tárolni kell őket."
+
+#: main_16.cpp:54
+msgid "in a < Personalities > directory located in the same directory as the engine."
+msgstr "egy < Personalities > könyvtárban, amely a motorral megegyező könyvtárban található."
+
+#: main_16.cpp:57
+msgid "These personalities can be made if you run the engine from the command prompt"
+msgstr "Ezek a személyiségek létrehozhatók, ha a motort a parancssorból futtatjuk."
+
+#: main_16.cpp:59
+msgid "but it is much simpler to make them using the options in Nimzo_3d."
+msgstr "de sokkal egyszerűbb a Nimzo_3d beállításaival elkészíteni őket."
+
+#: main_16.cpp:62
+msgid "Options available in the dialog box -"
+msgstr "A párbeszédpanelen elérhető beállítások -"
+
+#: main_16.cpp:65
+msgid "Select Cyclone Xtreme personality file  -  opens a Windows Explorer window"
+msgstr "Válassza a Cyclone Xtreme személyiségfájlt - megnyit egy Windows Intéző ablakot"
+
+#: main_16.cpp:67
+msgid "which you can use to select the personality file for the engine."
+msgstr "amellyel kiválaszthatod a motor személyiségfájlját."
+
+#: main_16.cpp:70
+msgid "Reset Engine  -  Reset the Cyclone Xtreme engine personality file"
+msgstr "Reset Engine - A Cyclone Xtreme motor személyiségfájljának visszaállítása"
+
+#: main_16.cpp:72
+msgid "to the default values."
+msgstr "az alapértelmezett értékekre."
+
+#: main_16.cpp:75
+msgid "Create random personality file  -  opens a Windows Explorer window"
+msgstr "Véletlenszerű személyiségfájl létrehozása - megnyit egy Windows Intéző ablakot"
+
+#: main_16.cpp:77
+msgid "which you can use to select the random personality file for the engine."
+msgstr "amellyel kiválaszthatod a motorhoz tartozó véletlenszerű személyiségfájlt."
+
+#: main_16.cpp:79
+msgid "When you click on < Open > the file will be created."
+msgstr "Amikor a <Megnyitás> gombra kattint, a fájl létrejön."
+
+#: main_16.cpp:82
+msgid "When a personality is selected, the default personality file < cyclone.cfg >"
+msgstr "Amikor kiválasztunk egy személyiséget, az alapértelmezett személyiségfájl a < cyclone.cfg > lesz."
+
+#: main_16.cpp:84
+msgid "which is in the same directory as the engine, has its values over-written"
+msgstr "amely ugyanabban a könyvtárban van, mint a motor, az értékei felül vannak írva"
+
+#: main_16.cpp:86
+msgid "with the ones contained in the file that you select."
+msgstr "a kiválasztott fájlban találhatókkal."
+
+#: main_16.cpp:89
+msgid "There is a copy of the original version of < cyclone.cfg >"
+msgstr "Létezik a < cyclone.cfg > eredeti verziójának egy másolata."
+
+#: main_16.cpp:91
+msgid "in the < Personalities > directory and when you choose < Reset engine >"
+msgstr "a < Personalities > könyvtárban, és amikor a < Reset engine > lehetőséget választja"
+
+#: main_16.cpp:93
+msgid "it is copied over the < cyclone.cfg > in the engine directory."
+msgstr "átmásolódik a motor könyvtárában található < cyclone.cfg > fájlba."
+
+#: main_16.cpp:95
+msgid "The engine has a repository on GitHub at -"
+msgstr "A motornak van egy repositoryja a GitHubon a következő címen: -"
+
+#: main_16.cpp:97
+msgid "When < UCI_LimitStrength > is enabled, the engine uses the < UCI_Elo > value"
+msgstr "Amikor az < UCI_LimitStrength > engedélyezve van, a motor az < UCI_Elo > értéket használja."
+
+#: main_16.cpp:99
+msgid "to adjust its playing strength. Engines use different algorithms to achieve this,"
+msgstr "hogy beállítsa a játék erősségét. A motorok különböző algoritmusokat használnak ennek eléréséhez,"
+
+#: main_16.cpp:101
+msgid "such as reducing the search depth, limiting the number of positions examined,"
+msgstr "például a keresési mélység csökkentése, a vizsgált pozíciók számának korlátozása,"
+
+#: main_16.cpp:103
+msgid "or adding some randomness to the evaluation function."
+msgstr "vagy némi véletlenszerűség hozzáadása a kiértékelő függvényhez."
+
+#: main_16.cpp:105
+msgid "The actual Elo rating achieved by the engine is often an estimate,"
+msgstr "A motor által elért tényleges Elo-besorolás gyakran becslés,"
+
+#: main_16.cpp:107
+msgid "as it's difficult to calibrate precisely."
+msgstr "mivel nehéz pontosan kalibrálni."
+
+#: main_16.cpp:109
+msgid "You can use this feature to play an engine at a level comparable to your own"
+msgstr "Ezzel a funkcióval a sajátodhoz hasonló szinten játszhatsz egy motort."
+
+#: main_16.cpp:111
+msgid "or to test different engine strengths, even if the exact Elo isn't perfect."
+msgstr "vagy különböző motorerősségek tesztelésére, még akkor is, ha a pontos Elo nem tökéletes."
+
+#: main_16.cpp:113
+msgid "I have added the < UCI_LimitStrength > option to four engines -"
+msgstr "Hozzáadtam az < UCI_LimitStrength > opciót négy motorhoz -"
+
+#: main_16.cpp:115
+msgid "Gambit Fruit, Toga II, Cyclone Xtreme and Firenzina."
+msgstr "Gambit Fruit, Toga II, Cyclone Xtreme és Firenzina."
+
+#: main_16.cpp:117
+msgid "Apart from setting the Elo rating, the playing strength"
+msgstr "Az Elo-érték beállításán kívül a játék erőssége is"
+
+#: main_16.cpp:119
+msgid "of all of these engines can be further adjusted with other options."
+msgstr "Mindezen motorok teljesítménye további opciókkal is beállítható."
+
+#: main_16.cpp:121
+msgid "The method that I have used is based on the code of Ryan Benitez"
+msgstr "Az általam használt módszer Ryan Benitez kódján alapul."
+
+#: main_16.cpp:123
+msgid "in the Gambit Fruit engine.  He wrote a delay loop governed by the"
+msgstr "a Gambit Fruit motorban. Írt egy késleltető ciklust, amelyet a"
+
+#: main_16.cpp:125
+msgid "number of nodes (positions) per second that the engine analyses."
+msgstr "A motor által elemzett csomópontok (pozíciók) száma másodpercenként."
+
+#: main_16.cpp:127
+msgid "I mapped an Elo rating to a nodes per second value using the following"
+msgstr "Az Elo-besorolást egy csomópontok másodpercenkénti értékéhez rendeltem a következőképpen:"
+
+#: main_16.cpp:129
+msgid "algorithm devised by Ferdinand Mosca"
+msgstr "Ferdinand Mosca által kidolgozott algoritmus"
+
+#: main_16.cpp:131
+msgid "nodes_per_second ="
+msgstr "csompontok_másodpercenként ="
+
+#: main_16.cpp:133
+msgid "I made the addition adjustment in the original formula into a variable"
+msgstr "Az eredeti képletben lévő összeadási korrekciót egy változóba hajtottam végre."
+
+#: main_16.cpp:135
+msgid "< nps_elo_adjustment > in order to fine tune the conversion formula."
+msgstr "< nps_elo_adjustment > a konverziós képlet finomhangolásához."
+
+#: main_16.cpp:137
+msgid "This can be set by the user in engine parameters."
+msgstr "Ezt a felhasználó a motor paramétereiben állíthatja be."
+
+#: main_16.cpp:139
+msgid "Increase this value to make the engine stronger,"
+msgstr "Növelje ezt az értéket a motor erősebbé tételéhez,"
+
+#: main_16.cpp:141
+msgid "decrease it to make the engine weaker."
+msgstr "csökkentse, hogy a motor gyengébb legyen."
+
+#: main_16.cpp:143
+msgid "There is also a < Variety > parameter that can be adjusted."
+msgstr "Van egy < Variety > paraméter is, amely beállítható."
+
+#: main_16.cpp:145
+msgid "My intention for this option was that the engine would play a more varied game."
+msgstr "Az volt a szándékom ezzel a lehetőséggel, hogy a motor változatosabb játékot mutasson."
+
+#: main_16.cpp:147
+msgid "Then I realised that it could be combined with an < Allowed deficit > option"
+msgstr "Aztán rájöttem, hogy ezt kombinálni lehetne egy < Megengedett hiány > opcióval."
+
+#: main_16.cpp:149
+msgid "to adjust the engine playing strength further."
+msgstr "a motor játékerősségének további beállításához."
+
+#: main_16.cpp:151
+msgid "Lines that are weaker than the < Allowed deficit(centi-pawns) >"
+msgstr "A < Megengedett hiány (százgyalogok) >-nál gyengébb vonalak"
+
+#: main_16.cpp:153
+msgid "when compared to the best move found, are excluded when a move is selected."
+msgstr "a legjobb megtalált lépéshez képest kizárásra kerülnek egy lépés kiválasztásakor."
+
+#: main_16.cpp:155
+msgid "The move that will be played is chosen at random from the remaining moves."
+msgstr "A lejátszandó lépést véletlenszerűen választják ki a fennmaradó lépések közül."
+
+#: main_16.cpp:157
+msgid "So raising the value of < Variety > and < Allowed deficit > weakens the engine."
+msgstr "Tehát a < Variety > és az < Allowed deficit > értékének emelése gyengíti a motort."
+
+#: main_16.cpp:159
+msgid "Therefore, if you want the engine to sometimes blunder a rook,"
+msgstr "Ezért, ha azt szeretné, hogy a motor néha elrontson egy bástyát,"
+
+#: main_16.cpp:161
+msgid "the upper limit of < Allowed deficit > should be set to 600"
+msgstr "a <Megengedett hiány> felső határát 600-ra kell állítani"
+
+#: main_16.cpp:163
+msgid "To occasionally blunder a knight or bishop, it should be set to 350"
+msgstr "Ha alkalmanként hibázni akarsz egy huszárt vagy futót, 350-re kell állítani."
+
+#: main_16.cpp:165
+msgid "for a pawn it should be about 125."
+msgstr "egy gyalog esetében körülbelül 125-nek kell lennie."
+
+#: main_16.cpp:167
+msgid "You can use the < Variety > option just to vary the play if you set"
+msgstr "A < Variety> opcióval egyszerűen változtathatod a lejátszási módot, ha beállítod"
+
+#: main_16.cpp:169
+msgid "the < Allowed deficit > to a low value, say 25 centi-pawns."
+msgstr "a < Megengedett hiányt > alacsony értékre, mondjuk 25 centi-gyalogra."
+
+#: main_16.cpp:171
+msgid "However, even this will still weaken the engine somewhat because the engine"
+msgstr "Azonban még ez is némileg gyengíti a motort, mert a motor"
+
+#: main_16.cpp:173
+msgid "will use the < MultiPV > method of searching, which is slower than normal."
+msgstr "a < MultiPV > keresési módszert fogja használni, ami lassabb a szokásosnál."
+
+#: main_16.cpp:175
+msgid "< Moves to go > is the number of moves that the engine is required to play"
+msgstr "< Hátralévő lépések > a motor által lejátszandó lépések száma."
+
+#: main_16.cpp:177
+msgid "in whatever time it has remaining.  So if it has 2 minutes, 40 seconds left"
+msgstr "a fennmaradó időben. Tehát, ha 2 perc 40 másodperc van hátra"
+
+#: main_16.cpp:179
+msgid "(160 seconds) and moves to go is set to 40 for that time period,"
+msgstr "(160 másodperc) és a hátralévő lépések száma 40-re van állítva erre az időszakra,"
+
+#: main_16.cpp:181
+msgid "it will calculate the time available for its next move as \t160 / 40 = 4 seconds"
+msgstr "a következő lépéshez rendelkezésre álló időt a következőképpen fogja kiszámítani: \t160 / 40 = 4 másodperc"
+
+#: main_16.cpp:183
+msgid "and spend roughly that amount of time \ton its next move."
+msgstr "és nagyjából ennyi időt tölt a következő lépésével."
+
+#: main_16.cpp:185
+msgid "So the engine will play progressively faster as its time ticks away."
+msgstr "Így a motor fokozatosan gyorsabban fog járni, ahogy telik az idő."
+
+#: main_16.cpp:187
+msgid "I have set different numbers for various time periods to even out the time usage."
+msgstr "Különböző számokat állítottam be a különböző időszakokhoz, hogy kiegyenlítsem az időfelhasználást."
+
+#: main_16.cpp:189
+msgid "Although I find it best to set a higher number for the last minute,"
+msgstr "Bár úgy látom, hogy a legjobb, ha az utolsó pillanatra magasabb számot állítok be,"
+
+#: main_16.cpp:191
+msgid "so that the engine does not lose on time."
+msgstr "hogy a motor ne veszítsen időben."
+
+#: main_16.cpp:193
+msgid "Speeding up the engine, either by raising these < Moves to go > values,"
+msgstr "A motor felgyorsítása, akár ezen < Mozgásterv > értékek emelésével,"
+
+#: main_16.cpp:195
+msgid "or by reducing the overall time it has for the game, is another way"
+msgstr "vagy a játékra rendelkezésre álló idő csökkentésével, ez egy másik módja"
+
+#: main_16.cpp:197
+msgid "of weakening the engine."
+msgstr "a motor gyengítésétől."
+
+#: main_16.cpp:199
+msgid "With the Cyclone Xtreme engine, loading a random personality will also"
+msgstr "A Cyclone Xtreme motorral egy véletlenszerű személyiség betöltése is..."
+
+#: main_16.cpp:201
+msgid "usually weaken the engine."
+msgstr "általában gyengítik a motort."
+
+#: main_16.cpp:203
+msgid "Armed with all of these options, you should be able to adjust"
+msgstr "Mindezen lehetőségek birtokában képesnek kell lennie arra, hogy beállítsa"
+
+#: main_16.cpp:205
+msgid "all of these engines to a playing strength that suits you,"
+msgstr "mindezeket a motorokat egy olyan játékerősségre állítja, ami neked megfelel,"
+
+#: main_16.cpp:207
+msgid "although it may take a fair amount of experimentation to achieve this."
+msgstr "bár ennek eléréséhez elég sok kísérletezésre lehet szükség."
