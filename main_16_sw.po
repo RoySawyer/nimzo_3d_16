@@ -1,0 +1,410 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-11-10 16:09+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_16.cpp:3
+msgid "UCI limit strength"
+msgstr "Nguvu ya kikomo ya UCI"
+
+#: main_16.cpp:5 main_16.cpp:38
+msgid "Chess engine UCI limit strength help"
+msgstr "Usaidizi wa nguvu wa kikomo cha injini ya Chess UCI"
+
+#: main_16.cpp:7
+msgid "Select Cyclone Xtreme engine personality"
+msgstr "Chagua tabia ya injini ya Cyclone Xtreme"
+
+#: main_16.cpp:9
+msgid "Reset engine file"
+msgstr "Weka upya faili ya injini"
+
+#: main_16.cpp:11
+msgid "Create random personality file"
+msgstr "Unda faili ya mtu binafsi bila mpangilio"
+
+#: main_16.cpp:13
+msgid "Create Cyclone Xtreme .cfg personality file"
+msgstr "Unda faili ya kibinafsi ya Cyclone Xtreme .cfg"
+
+#: main_16.cpp:15
+msgid "Cyclone Xtreme engine options"
+msgstr "Chaguzi za injini ya Cyclone Xtreme"
+
+#: main_16.cpp:18
+msgid "Reset the Cyclone Xtreme engine configuration file to the default values"
+msgstr "Weka upya faili ya usanidi wa injini ya Cyclone Xtreme kwa maadili chaguo-msingi"
+
+#: main_16.cpp:20
+msgid "Create a random personality file for the Cyclone Xtreme engine"
+msgstr "Unda faili isiyo ya kawaida ya injini ya Cyclone Xtreme"
+
+#: main_16.cpp:22
+msgid "Select the default < cyclone.cfg > personality file"
+msgstr "Chagua faili chaguomsingi ya < cyclone.cfg > haiba"
+
+#: main_16.cpp:23
+msgid "Hold down the shift key to clear the input box"
+msgstr "Shikilia kitufe cha shift ili kufuta kisanduku cha ingizo"
+
+#: main_16.cpp:25
+msgid "was reset to the default values"
+msgstr "iliwekwa upya kwa maadili chaguo-msingi"
+
+#: main_16.cpp:27
+msgid "Error resetting"
+msgstr "Hitilafu ya kuweka upya"
+
+#: main_16.cpp:29
+msgid "Random engine configuration file"
+msgstr "Faili ya usanidi wa injini bila mpangilio"
+
+#: main_16.cpp:30
+msgid "created"
+msgstr "kuundwa"
+
+#: main_16.cpp:32
+msgid "Error creating random engine configuration file"
+msgstr "Hitilafu katika kuunda faili ya usanidi wa injini bila mpangilio"
+
+#: main_16.cpp:34
+msgid "Help for Cyclone Xtreme engine"
+msgstr "Msaada kwa injini ya Cyclone Xtreme"
+
+#: main_16.cpp:36
+msgid "UCI Limit strength"
+msgstr "Nguvu ya Kikomo cha UCI"
+
+#: main_16.cpp:41
+msgid "The Cyclone Xtreme engine which was written by Norman Schmidt"
+msgstr "Injini ya Cyclone Xtreme ambayo iliandikwa na Norman Schmidt"
+
+#: main_16.cpp:43
+msgid "is a Fruit derivative."
+msgstr "ni derivative ya Matunda."
+
+#: main_16.cpp:45
+msgid "It has a huge number of parameters that can be used to tune the engine."
+msgstr "Inayo idadi kubwa ya vigezo ambavyo vinaweza kutumika kurekebisha injini."
+
+#: main_16.cpp:47
+msgid "There is also a feature for creating random parameter files for the engine."
+msgstr "Pia kuna kipengele cha kuunda faili za parameta bila mpangilio kwa injini."
+
+#: main_16.cpp:50
+msgid "I have made ten random parameter files, which I have called < Personalities >"
+msgstr "Nimetengeneza faili kumi za parameta bila mpangilio, ambazo nimeziita < Personalities >"
+
+#: main_16.cpp:52
+msgid "They are named < Person_1.cfg > up to < Person_10.cfg > and should be stored"
+msgstr "Yamepewa majina < Person_1.cfg > hadi < Person_10.cfg > na yanapaswa kuhifadhiwa"
+
+#: main_16.cpp:54
+msgid "in a < Personalities > directory located in the same directory as the engine."
+msgstr "katika < Personalities > saraka iliyo katika saraka sawa na injini."
+
+#: main_16.cpp:57
+msgid "These personalities can be made if you run the engine from the command prompt"
+msgstr "Haiba hizi zinaweza kufanywa ikiwa utaendesha injini kutoka kwa haraka ya amri"
+
+#: main_16.cpp:59
+msgid "but it is much simpler to make them using the options in Nimzo_3d."
+msgstr "lakini ni rahisi zaidi kuwafanya kutumia chaguzi katika Nimzo_3d."
+
+#: main_16.cpp:62
+msgid "Options available in the dialog box -"
+msgstr "Chaguzi zinazopatikana kwenye kisanduku cha mazungumzo -"
+
+#: main_16.cpp:65
+msgid "Select Cyclone Xtreme personality file  -  opens a Windows Explorer window"
+msgstr "Chagua faili ya kibinafsi ya Cyclone Xtreme - hufungua dirisha la Windows Explorer"
+
+#: main_16.cpp:67
+msgid "which you can use to select the personality file for the engine."
+msgstr "ambayo unaweza kutumia kuchagua faili ya utu kwa injini."
+
+#: main_16.cpp:70
+msgid "Reset Engine  -  Reset the Cyclone Xtreme engine personality file"
+msgstr "Weka Upya Injini - Weka upya faili ya haiba ya injini ya Cyclone Xtreme"
+
+#: main_16.cpp:72
+msgid "to the default values."
+msgstr "kwa maadili chaguo-msingi."
+
+#: main_16.cpp:75
+msgid "Create random personality file  -  opens a Windows Explorer window"
+msgstr "Unda faili ya mtu binafsi - kufungua dirisha la Windows Explorer"
+
+#: main_16.cpp:77
+msgid "which you can use to select the random personality file for the engine."
+msgstr "ambayo unaweza kutumia kuchagua faili ya mtu binafsi bila mpangilio kwa injini."
+
+#: main_16.cpp:79
+msgid "When you click on < Open > the file will be created."
+msgstr "Unapobofya < Fungua > faili itaundwa."
+
+#: main_16.cpp:82
+msgid "When a personality is selected, the default personality file < cyclone.cfg >"
+msgstr "Mtu anapochaguliwa, faili ya mtu binafsi < cyclone.cfg >"
+
+#: main_16.cpp:84
+msgid "which is in the same directory as the engine, has its values over-written"
+msgstr "ambayo iko kwenye saraka sawa na injini, maadili yake yameandikwa zaidi"
+
+#: main_16.cpp:86
+msgid "with the ones contained in the file that you select."
+msgstr "na zile zilizomo kwenye faili uliyochagua."
+
+#: main_16.cpp:89
+msgid "There is a copy of the original version of < cyclone.cfg >"
+msgstr "Kuna nakala ya toleo asili la < cyclone.cfg >"
+
+#: main_16.cpp:91
+msgid "in the < Personalities > directory and when you choose < Reset engine >"
+msgstr "katika < Personalities > directory na unapochagua < Rudisha injini >"
+
+#: main_16.cpp:93
+msgid "it is copied over the < cyclone.cfg > in the engine directory."
+msgstr "imenakiliwa juu ya < cyclone.cfg > katika saraka ya injini."
+
+#: main_16.cpp:95
+msgid "The engine has a repository on GitHub at -"
+msgstr "Injini ina hazina kwenye GitHub kwa -"
+
+#: main_16.cpp:97
+msgid "When < UCI_LimitStrength > is enabled, the engine uses the < UCI_Elo > value"
+msgstr "Wakati < UCI_LimitStrength > imewashwa, injini hutumia thamani ya < UCI_Elo >"
+
+#: main_16.cpp:99
+msgid "to adjust its playing strength. Engines use different algorithms to achieve this,"
+msgstr "kurekebisha uwezo wake wa kucheza. Injini hutumia algorithms tofauti kufanikisha hili,"
+
+#: main_16.cpp:101
+msgid "such as reducing the search depth, limiting the number of positions examined,"
+msgstr "kama vile kupunguza kina cha utafutaji, kupunguza idadi ya nafasi zilizochunguzwa,"
+
+#: main_16.cpp:103
+msgid "or adding some randomness to the evaluation function."
+msgstr "au kuongeza nasibu kwa kipengele cha kukokotoa tathmini."
+
+#: main_16.cpp:105
+msgid "The actual Elo rating achieved by the engine is often an estimate,"
+msgstr "Ukadiriaji halisi wa Elo unaopatikana na injini mara nyingi ni makadirio,"
+
+#: main_16.cpp:107
+msgid "as it's difficult to calibrate precisely."
+msgstr "kwani ni ngumu kusawazisha kwa usahihi."
+
+#: main_16.cpp:109
+msgid "You can use this feature to play an engine at a level comparable to your own"
+msgstr "Unaweza kutumia kipengele hiki kucheza injini kwa kiwango kinacholingana na chako"
+
+#: main_16.cpp:111
+msgid "or to test different engine strengths, even if the exact Elo isn't perfect."
+msgstr "au kujaribu nguvu tofauti za injini, hata kama Elo si kamili."
+
+#: main_16.cpp:113
+msgid "I have added the < UCI_LimitStrength > option to four engines -"
+msgstr "Nimeongeza chaguo la < UCI_LimitStrength > kwa injini nne -"
+
+#: main_16.cpp:115
+msgid "Gambit Fruit, Toga II, Cyclone Xtreme and Firenzina."
+msgstr "Matunda ya Gambit, Toga II, Cyclone Xtreme na Firenzina."
+
+#: main_16.cpp:117
+msgid "Apart from setting the Elo rating, the playing strength"
+msgstr "Kando na kuweka ukadiriaji wa Elo, nguvu ya kucheza"
+
+#: main_16.cpp:119
+msgid "of all of these engines can be further adjusted with other options."
+msgstr "ya injini hizi zote zinaweza kurekebishwa zaidi na chaguzi zingine."
+
+#: main_16.cpp:121
+msgid "The method that I have used is based on the code of Ryan Benitez"
+msgstr "Njia ambayo nimetumia inategemea nambari ya Ryan Benitez"
+
+#: main_16.cpp:123
+msgid "in the Gambit Fruit engine.  He wrote a delay loop governed by the"
+msgstr "kwenye injini ya Matunda ya Gambit.  Aliandika kitanzi cha kuchelewa kinachosimamiwa na"
+
+#: main_16.cpp:125
+msgid "number of nodes (positions) per second that the engine analyses."
+msgstr "idadi ya nodi (nafasi) kwa sekunde ambayo injini inachambua."
+
+#: main_16.cpp:127
+msgid "I mapped an Elo rating to a nodes per second value using the following"
+msgstr "Nilipanga ukadiriaji wa Elo kwa nodi kwa kila sekunde kwa kutumia ifuatayo"
+
+#: main_16.cpp:129
+msgid "algorithm devised by Ferdinand Mosca"
+msgstr "algorithm iliyoundwa na Ferdinand Mosca"
+
+#: main_16.cpp:131
+msgid "nodes_per_second ="
+msgstr "nodi_kwa_sekunde ="
+
+#: main_16.cpp:133
+msgid "I made the addition adjustment in the original formula into a variable"
+msgstr "Nilifanya marekebisho ya nyongeza katika fomula asili kuwa kigezo"
+
+#: main_16.cpp:135
+msgid "< nps_elo_adjustment > in order to fine tune the conversion formula."
+msgstr "< nps_elo_adjustment > ili kuboresha fomula ya ubadilishaji."
+
+#: main_16.cpp:137
+msgid "This can be set by the user in engine parameters."
+msgstr "Hii inaweza kuwekwa na mtumiaji katika vigezo vya injini."
+
+#: main_16.cpp:139
+msgid "Increase this value to make the engine stronger,"
+msgstr "Ongeza thamani hii ili kufanya injini iwe na nguvu,"
+
+#: main_16.cpp:141
+msgid "decrease it to make the engine weaker."
+msgstr "punguza ili kufanya injini kuwa dhaifu."
+
+#: main_16.cpp:143
+msgid "There is also a < Variety > parameter that can be adjusted."
+msgstr "Pia kuna < Variety > parameter ambayo inaweza kurekebishwa."
+
+#: main_16.cpp:145
+msgid "My intention for this option was that the engine would play a more varied game."
+msgstr "Kusudi langu kwa chaguo hili lilikuwa kwamba injini ingecheza mchezo tofauti zaidi."
+
+#: main_16.cpp:147
+msgid "Then I realised that it could be combined with an < Allowed deficit > option"
+msgstr "Kisha nikagundua kuwa inaweza kuunganishwa na chaguo la < Kuruhusiwa nakisi > chaguo"
+
+#: main_16.cpp:149
+msgid "to adjust the engine playing strength further."
+msgstr "kurekebisha nguvu ya kucheza injini zaidi."
+
+#: main_16.cpp:151
+msgid "Lines that are weaker than the < Allowed deficit(centi-pawns) >"
+msgstr "Mistari ambayo ni dhaifu kuliko < Inaruhusiwa deficit(centi-pawns) >"
+
+#: main_16.cpp:153
+msgid "when compared to the best move found, are excluded when a move is selected."
+msgstr "inapolinganishwa na hoja bora zaidi iliyopatikana, haijumuishwi wakati hoja imechaguliwa."
+
+#: main_16.cpp:155
+msgid "The move that will be played is chosen at random from the remaining moves."
+msgstr "Hoja ambayo itachezwa huchaguliwa kwa nasibu kutoka kwa hatua zilizobaki."
+
+#: main_16.cpp:157
+msgid "So raising the value of < Variety > and < Allowed deficit > weakens the engine."
+msgstr "Kwa hivyo kuongeza thamani ya < Variety > na < Allowed deficit > hudhoofisha injini."
+
+#: main_16.cpp:159
+msgid "Therefore, if you want the engine to sometimes blunder a rook,"
+msgstr "Kwa hivyo, ikiwa unataka injini wakati mwingine kupotosha rook,"
+
+#: main_16.cpp:161
+msgid "the upper limit of < Allowed deficit > should be set to 600"
+msgstr "kikomo cha juu cha < Upungufu unaoruhusiwa > kinapaswa kuwekwa kuwa 600"
+
+#: main_16.cpp:163
+msgid "To occasionally blunder a knight or bishop, it should be set to 350"
+msgstr "Ili kumkosea shujaa au askofu mara kwa mara, inapaswa kuwekwa kuwa 350"
+
+#: main_16.cpp:165
+msgid "for a pawn it should be about 125."
+msgstr "kwa pawn inapaswa kuwa kama 125."
+
+#: main_16.cpp:167
+msgid "You can use the < Variety > option just to vary the play if you set"
+msgstr "Unaweza kutumia chaguo la < Variety > ili kubadilisha uchezaji ikiwa utaweka"
+
+#: main_16.cpp:169
+msgid "the < Allowed deficit > to a low value, say 25 centi-pawns."
+msgstr "< Upungufu unaoruhusiwa > kwa thamani ya chini, sema 25 centi-pawns."
+
+#: main_16.cpp:171
+msgid "However, even this will still weaken the engine somewhat because the engine"
+msgstr "Walakini, hata hii bado itadhoofisha injini kwa sababu ya injini"
+
+#: main_16.cpp:173
+msgid "will use the < MultiPV > method of searching, which is slower than normal."
+msgstr "itatumia < MultiPV > njia ya kutafuta, ambayo ni polepole kuliko kawaida."
+
+#: main_16.cpp:175
+msgid "< Moves to go > is the number of moves that the engine is required to play"
+msgstr "<Moves to go > ni idadi ya hatua ambazo injini inahitajika kucheza"
+
+#: main_16.cpp:177
+msgid "in whatever time it has remaining.  So if it has 2 minutes, 40 seconds left"
+msgstr "katika muda wowote uliosalia.  Kwa hivyo ikiwa ina dakika 2, sekunde 40 zimesalia"
+
+#: main_16.cpp:179
+msgid "(160 seconds) and moves to go is set to 40 for that time period,"
+msgstr "(sekunde 160) na hatua za kwenda zimewekwa kuwa 40 kwa muda huo,"
+
+#: main_16.cpp:181
+msgid "it will calculate the time available for its next move as \t160 / 40 = 4 seconds"
+msgstr "itahesabu muda unaopatikana kwa hoja yake inayofuata kama \t160 / 40 = sekunde 4"
+
+#: main_16.cpp:183
+msgid "and spend roughly that amount of time \ton its next move."
+msgstr "na kutumia takriban kiasi hicho cha wakati \ton hatua yake inayofuata."
+
+#: main_16.cpp:185
+msgid "So the engine will play progressively faster as its time ticks away."
+msgstr "Kwa hivyo injini itacheza hatua kwa hatua kwa kasi zaidi kadiri muda unavyosonga."
+
+#: main_16.cpp:187
+msgid "I have set different numbers for various time periods to even out the time usage."
+msgstr "Nimeweka nambari tofauti kwa vipindi tofauti vya wakati ili kusawazisha utumiaji wa wakati."
+
+#: main_16.cpp:189
+msgid "Although I find it best to set a higher number for the last minute,"
+msgstr "Ingawa naona ni bora kuweka nambari ya juu zaidi kwa dakika ya mwisho,"
+
+#: main_16.cpp:191
+msgid "so that the engine does not lose on time."
+msgstr "ili injini isipoteze kwa wakati."
+
+#: main_16.cpp:193
+msgid "Speeding up the engine, either by raising these < Moves to go > values,"
+msgstr "Kuongeza kasi ya injini, ama kwa kuinua hizi <Moves to go> maadili,"
+
+#: main_16.cpp:195
+msgid "or by reducing the overall time it has for the game, is another way"
+msgstr "au kwa kupunguza muda wa jumla ulio nao kwa mchezo, ni njia nyingine"
+
+#: main_16.cpp:197
+msgid "of weakening the engine."
+msgstr "ya kudhoofisha injini."
+
+#: main_16.cpp:199
+msgid "With the Cyclone Xtreme engine, loading a random personality will also"
+msgstr "Na injini ya Cyclone Xtreme, kupakia mtu bila mpangilio pia"
+
+#: main_16.cpp:201
+msgid "usually weaken the engine."
+msgstr "kawaida hudhoofisha injini."
+
+#: main_16.cpp:203
+msgid "Armed with all of these options, you should be able to adjust"
+msgstr "Ukiwa na chaguzi hizi zote, unapaswa kuwa na uwezo wa kurekebisha"
+
+#: main_16.cpp:205
+msgid "all of these engines to a playing strength that suits you,"
+msgstr "injini hizi zote kwa nguvu ya kucheza inayokufaa,"
+
+#: main_16.cpp:207
+msgid "although it may take a fair amount of experimentation to achieve this."
+msgstr "ingawa inaweza kuchukua kiasi cha kutosha cha majaribio ili kufikia hili."
