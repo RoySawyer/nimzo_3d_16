@@ -1,0 +1,410 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-11-10 16:09+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_16.cpp:3
+msgid "UCI limit strength"
+msgstr "Όριο ισχύος UCI"
+
+#: main_16.cpp:5 main_16.cpp:38
+msgid "Chess engine UCI limit strength help"
+msgstr "Βοήθεια για το όριο δύναμης UCI της μηχανής σκακιού"
+
+#: main_16.cpp:7
+msgid "Select Cyclone Xtreme engine personality"
+msgstr "Επιλέξτε την προσωπικότητα του κινητήρα Cyclone Xtreme"
+
+#: main_16.cpp:9
+msgid "Reset engine file"
+msgstr "Επαναφορά αρχείου μηχανής"
+
+#: main_16.cpp:11
+msgid "Create random personality file"
+msgstr "Δημιουργήστε τυχαίο αρχείο προσωπικότητας"
+
+#: main_16.cpp:13
+msgid "Create Cyclone Xtreme .cfg personality file"
+msgstr "Δημιουργήστε ένα αρχείο προσωπικότητας Cyclone Xtreme .cfg"
+
+#: main_16.cpp:15
+msgid "Cyclone Xtreme engine options"
+msgstr "Επιλογές κινητήρα Cyclone Xtreme"
+
+#: main_16.cpp:18
+msgid "Reset the Cyclone Xtreme engine configuration file to the default values"
+msgstr "Επαναφέρετε το αρχείο διαμόρφωσης του κινητήρα Cyclone Xtreme στις προεπιλεγμένες τιμές"
+
+#: main_16.cpp:20
+msgid "Create a random personality file for the Cyclone Xtreme engine"
+msgstr "Δημιουργήστε ένα τυχαίο αρχείο προσωπικότητας για τη μηχανή Cyclone Xtreme"
+
+#: main_16.cpp:22
+msgid "Select the default < cyclone.cfg > personality file"
+msgstr "Επιλέξτε το προεπιλεγμένο αρχείο προσωπικότητας < cyclone.cfg >"
+
+#: main_16.cpp:23
+msgid "Hold down the shift key to clear the input box"
+msgstr "Κρατήστε πατημένο το πλήκτρο Shift για να καθαρίσετε το πλαίσιο εισαγωγής"
+
+#: main_16.cpp:25
+msgid "was reset to the default values"
+msgstr "έγινε επαναφορά στις προεπιλεγμένες τιμές"
+
+#: main_16.cpp:27
+msgid "Error resetting"
+msgstr "Σφάλμα κατά την επαναφορά"
+
+#: main_16.cpp:29
+msgid "Random engine configuration file"
+msgstr "Τυχαίο αρχείο διαμόρφωσης μηχανής"
+
+#: main_16.cpp:30
+msgid "created"
+msgstr "δημιουργήθηκε"
+
+#: main_16.cpp:32
+msgid "Error creating random engine configuration file"
+msgstr "Σφάλμα κατά τη δημιουργία τυχαίου αρχείου διαμόρφωσης μηχανής"
+
+#: main_16.cpp:34
+msgid "Help for Cyclone Xtreme engine"
+msgstr "Βοήθεια για τον κινητήρα Cyclone Xtreme"
+
+#: main_16.cpp:36
+msgid "UCI Limit strength"
+msgstr "Ισχύς ορίου UCI"
+
+#: main_16.cpp:41
+msgid "The Cyclone Xtreme engine which was written by Norman Schmidt"
+msgstr "Η μηχανή Cyclone Xtreme που γράφτηκε από τον Norman Schmidt"
+
+#: main_16.cpp:43
+msgid "is a Fruit derivative."
+msgstr "είναι παράγωγο φρούτων."
+
+#: main_16.cpp:45
+msgid "It has a huge number of parameters that can be used to tune the engine."
+msgstr "Έχει έναν τεράστιο αριθμό παραμέτρων που μπορούν να χρησιμοποιηθούν για τη ρύθμιση του κινητήρα."
+
+#: main_16.cpp:47
+msgid "There is also a feature for creating random parameter files for the engine."
+msgstr "Υπάρχει επίσης μια δυνατότητα για τη δημιουργία τυχαίων αρχείων παραμέτρων για τη μηχανή."
+
+#: main_16.cpp:50
+msgid "I have made ten random parameter files, which I have called < Personalities >"
+msgstr "Έχω δημιουργήσει δέκα αρχεία τυχαίων παραμέτρων, τα οποία έχω ονομάσει <Προσωπικότητες>"
+
+#: main_16.cpp:52
+msgid "They are named < Person_1.cfg > up to < Person_10.cfg > and should be stored"
+msgstr "Ονομάζονται <Person_1.cfg> έως <Person_10.cfg> και θα πρέπει να αποθηκεύονται"
+
+#: main_16.cpp:54
+msgid "in a < Personalities > directory located in the same directory as the engine."
+msgstr "σε έναν κατάλογο <Personalities > που βρίσκεται στον ίδιο κατάλογο με τη μηχανή."
+
+#: main_16.cpp:57
+msgid "These personalities can be made if you run the engine from the command prompt"
+msgstr "Αυτές οι προσωπικότητες μπορούν να δημιουργηθούν αν εκτελέσετε τη μηχανή από τη γραμμή εντολών"
+
+#: main_16.cpp:59
+msgid "but it is much simpler to make them using the options in Nimzo_3d."
+msgstr "αλλά είναι πολύ πιο απλό να τα φτιάξετε χρησιμοποιώντας τις επιλογές στο Nimzo_3d."
+
+#: main_16.cpp:62
+msgid "Options available in the dialog box -"
+msgstr "Διαθέσιμες επιλογές στο παράθυρο διαλόγου -"
+
+#: main_16.cpp:65
+msgid "Select Cyclone Xtreme personality file  -  opens a Windows Explorer window"
+msgstr "Επιλογή αρχείου προσωπικότητας Cyclone Xtreme - ανοίγει ένα παράθυρο της Εξερεύνησης των Windows"
+
+#: main_16.cpp:67
+msgid "which you can use to select the personality file for the engine."
+msgstr "το οποίο μπορείτε να χρησιμοποιήσετε για να επιλέξετε το αρχείο προσωπικότητας για τη μηχανή."
+
+#: main_16.cpp:70
+msgid "Reset Engine  -  Reset the Cyclone Xtreme engine personality file"
+msgstr "Επαναφορά Μηχανής - Επαναφορά του αρχείου προσωπικότητας του κινητήρα Cyclone Xtreme"
+
+#: main_16.cpp:72
+msgid "to the default values."
+msgstr "στις προεπιλεγμένες τιμές."
+
+#: main_16.cpp:75
+msgid "Create random personality file  -  opens a Windows Explorer window"
+msgstr "Δημιουργία αρχείου τυχαίας προσωπικότητας - ανοίγει ένα παράθυρο της Εξερεύνησης των Windows"
+
+#: main_16.cpp:77
+msgid "which you can use to select the random personality file for the engine."
+msgstr "το οποίο μπορείτε να χρησιμοποιήσετε για να επιλέξετε το τυχαίο αρχείο προσωπικότητας για τη μηχανή."
+
+#: main_16.cpp:79
+msgid "When you click on < Open > the file will be created."
+msgstr "Όταν κάνετε κλικ στο <Άνοιγμα>, το αρχείο θα δημιουργηθεί."
+
+#: main_16.cpp:82
+msgid "When a personality is selected, the default personality file < cyclone.cfg >"
+msgstr "Όταν επιλέγεται μια προσωπικότητα, το προεπιλεγμένο αρχείο προσωπικότητας < cyclone.cfg >"
+
+#: main_16.cpp:84
+msgid "which is in the same directory as the engine, has its values over-written"
+msgstr "το οποίο βρίσκεται στον ίδιο κατάλογο με τη μηχανή, οι τιμές του αντικαθίστανται"
+
+#: main_16.cpp:86
+msgid "with the ones contained in the file that you select."
+msgstr "με αυτά που περιέχονται στο αρχείο που επιλέγετε."
+
+#: main_16.cpp:89
+msgid "There is a copy of the original version of < cyclone.cfg >"
+msgstr "Υπάρχει ένα αντίγραφο της αρχικής έκδοσης του <cyclone.cfg >"
+
+#: main_16.cpp:91
+msgid "in the < Personalities > directory and when you choose < Reset engine >"
+msgstr "στον κατάλογο < Προσωπικότητες > και όταν επιλέξετε < Επαναφορά μηχανής >"
+
+#: main_16.cpp:93
+msgid "it is copied over the < cyclone.cfg > in the engine directory."
+msgstr "αντιγράφεται στο <cyclone.cfg> στον κατάλογο του μηχανισμού."
+
+#: main_16.cpp:95
+msgid "The engine has a repository on GitHub at -"
+msgstr "Η μηχανή έχει ένα αποθετήριο στο GitHub στη διεύθυνση -"
+
+#: main_16.cpp:97
+msgid "When < UCI_LimitStrength > is enabled, the engine uses the < UCI_Elo > value"
+msgstr "Όταν είναι ενεργοποιημένο το < UCI_LimitStrength >, ο μηχανισμός χρησιμοποιεί την τιμή < UCI_Elo >"
+
+#: main_16.cpp:99
+msgid "to adjust its playing strength. Engines use different algorithms to achieve this,"
+msgstr "για να προσαρμόσει την ισχύ αναπαραγωγής του. Οι μηχανές χρησιμοποιούν διαφορετικούς αλγόριθμους για να το πετύχουν αυτό,"
+
+#: main_16.cpp:101
+msgid "such as reducing the search depth, limiting the number of positions examined,"
+msgstr "όπως η μείωση του βάθους αναζήτησης, ο περιορισμός του αριθμού των θέσεων που εξετάζονται,"
+
+#: main_16.cpp:103
+msgid "or adding some randomness to the evaluation function."
+msgstr "ή προσθέτοντας κάποια τυχαιότητα στη συνάρτηση αξιολόγησης."
+
+#: main_16.cpp:105
+msgid "The actual Elo rating achieved by the engine is often an estimate,"
+msgstr "Η πραγματική βαθμολογία Elo που επιτυγχάνεται από τον κινητήρα είναι συχνά μια εκτίμηση,"
+
+#: main_16.cpp:107
+msgid "as it's difficult to calibrate precisely."
+msgstr "καθώς είναι δύσκολο να βαθμονομηθεί με ακρίβεια."
+
+#: main_16.cpp:109
+msgid "You can use this feature to play an engine at a level comparable to your own"
+msgstr "Μπορείτε να χρησιμοποιήσετε αυτήν τη λειτουργία για να παίξετε μια μηχανή σε επίπεδο συγκρίσιμο με το δικό σας"
+
+#: main_16.cpp:111
+msgid "or to test different engine strengths, even if the exact Elo isn't perfect."
+msgstr "ή για να δοκιμάσετε διαφορετικές δυνάμεις κινητήρα, ακόμα κι αν το ακριβές Elo δεν είναι τέλειο."
+
+#: main_16.cpp:113
+msgid "I have added the < UCI_LimitStrength > option to four engines -"
+msgstr "Έχω προσθέσει την επιλογή <UCI_LimitStrength> σε τέσσερις μηχανές -"
+
+#: main_16.cpp:115
+msgid "Gambit Fruit, Toga II, Cyclone Xtreme and Firenzina."
+msgstr "Φρούτο Gambit, Toga II, Κυκλώνας Xtreme και Φλωρεντία."
+
+#: main_16.cpp:117
+msgid "Apart from setting the Elo rating, the playing strength"
+msgstr "Εκτός από τον καθορισμό της βαθμολογίας Elo, η δύναμη παιχνιδιού"
+
+#: main_16.cpp:119
+msgid "of all of these engines can be further adjusted with other options."
+msgstr "όλων αυτών των κινητήρων μπορούν να ρυθμιστούν περαιτέρω με άλλες επιλογές."
+
+#: main_16.cpp:121
+msgid "The method that I have used is based on the code of Ryan Benitez"
+msgstr "Η μέθοδος που χρησιμοποίησα βασίζεται στον κώδικα του Ryan Benitez"
+
+#: main_16.cpp:123
+msgid "in the Gambit Fruit engine.  He wrote a delay loop governed by the"
+msgstr "στη μηχανή Gambit Fruit. Έγραψε έναν βρόχο καθυστέρησης που διέπεται από το"
+
+#: main_16.cpp:125
+msgid "number of nodes (positions) per second that the engine analyses."
+msgstr "αριθμός κόμβων (θέσεων) ανά δευτερόλεπτο που αναλύει η μηχανή."
+
+#: main_16.cpp:127
+msgid "I mapped an Elo rating to a nodes per second value using the following"
+msgstr "Αντιστοίχισα μια βαθμολογία Elo σε μια τιμή κόμβων ανά δευτερόλεπτο χρησιμοποιώντας τα εξής"
+
+#: main_16.cpp:129
+msgid "algorithm devised by Ferdinand Mosca"
+msgstr "αλγόριθμος που επινοήθηκε από τον Ferdinand Mosca"
+
+#: main_16.cpp:131
+msgid "nodes_per_second ="
+msgstr "κόμβοι_ανά_δευτερόλεπτο ="
+
+#: main_16.cpp:133
+msgid "I made the addition adjustment in the original formula into a variable"
+msgstr "Έκανα την προσαρμογή πρόσθεσης στον αρχικό τύπο σε μια μεταβλητή"
+
+#: main_16.cpp:135
+msgid "< nps_elo_adjustment > in order to fine tune the conversion formula."
+msgstr "<nps_elo_adjustment> για να βελτιώσετε τον τύπο μετατροπής."
+
+#: main_16.cpp:137
+msgid "This can be set by the user in engine parameters."
+msgstr "Αυτό μπορεί να ρυθμιστεί από τον χρήστη στις παραμέτρους του κινητήρα."
+
+#: main_16.cpp:139
+msgid "Increase this value to make the engine stronger,"
+msgstr "Αυξήστε αυτήν την τιμή για να κάνετε τον κινητήρα πιο ισχυρό,"
+
+#: main_16.cpp:141
+msgid "decrease it to make the engine weaker."
+msgstr "μειώστε το για να αποδυναμώσετε τον κινητήρα."
+
+#: main_16.cpp:143
+msgid "There is also a < Variety > parameter that can be adjusted."
+msgstr "Υπάρχει επίσης μια παράμετρος <Ποικιλία> που μπορεί να ρυθμιστεί."
+
+#: main_16.cpp:145
+msgid "My intention for this option was that the engine would play a more varied game."
+msgstr "Η πρόθεσή μου με αυτήν την επιλογή ήταν ότι η μηχανή θα έπαιζε ένα πιο ποικίλο παιχνίδι."
+
+#: main_16.cpp:147
+msgid "Then I realised that it could be combined with an < Allowed deficit > option"
+msgstr "Τότε συνειδητοποίησα ότι θα μπορούσε να συνδυαστεί με μια επιλογή <Επιτρεπόμενο έλλειμμα>"
+
+#: main_16.cpp:149
+msgid "to adjust the engine playing strength further."
+msgstr "για να ρυθμίσετε περαιτέρω την ισχύ του κινητήρα."
+
+#: main_16.cpp:151
+msgid "Lines that are weaker than the < Allowed deficit(centi-pawns) >"
+msgstr "Γραμμές που είναι πιο αδύναμες από το < Επιτρεπόμενο έλλειμμα (centi-pawns) >"
+
+#: main_16.cpp:153
+msgid "when compared to the best move found, are excluded when a move is selected."
+msgstr "σε σύγκριση με την καλύτερη κίνηση που βρέθηκε, εξαιρούνται όταν επιλέγεται μια κίνηση."
+
+#: main_16.cpp:155
+msgid "The move that will be played is chosen at random from the remaining moves."
+msgstr "Η κίνηση που θα παιχτεί επιλέγεται τυχαία από τις υπόλοιπες κινήσεις."
+
+#: main_16.cpp:157
+msgid "So raising the value of < Variety > and < Allowed deficit > weakens the engine."
+msgstr "Έτσι, η αύξηση της τιμής <Ποικιλία> και <Επιτρεπόμενο έλλειμμα> αποδυναμώνει τη μηχανή."
+
+#: main_16.cpp:159
+msgid "Therefore, if you want the engine to sometimes blunder a rook,"
+msgstr "Επομένως, αν θέλετε ο κινητήρας να κάνει μερικές φορές λάθη σε έναν πύργο,"
+
+#: main_16.cpp:161
+msgid "the upper limit of < Allowed deficit > should be set to 600"
+msgstr "το ανώτατο όριο του <Επιτρεπόμενο έλλειμμα> θα πρέπει να οριστεί σε 600"
+
+#: main_16.cpp:163
+msgid "To occasionally blunder a knight or bishop, it should be set to 350"
+msgstr "Για να κάνετε περιστασιακά λάθος σε έναν ιππότη ή επίσκοπο, θα πρέπει να οριστεί στο 350."
+
+#: main_16.cpp:165
+msgid "for a pawn it should be about 125."
+msgstr "για ένα πιόνι θα πρέπει να είναι περίπου 125."
+
+#: main_16.cpp:167
+msgid "You can use the < Variety > option just to vary the play if you set"
+msgstr "Μπορείτε να χρησιμοποιήσετε την επιλογή <Ποικιλία> απλώς για να μεταβάλλετε την αναπαραγωγή, εάν ορίσετε"
+
+#: main_16.cpp:169
+msgid "the < Allowed deficit > to a low value, say 25 centi-pawns."
+msgstr "το <Επιτρεπόμενο έλλειμμα> σε μια χαμηλή τιμή, ας πούμε 25 σεντς-πιόνια."
+
+#: main_16.cpp:171
+msgid "However, even this will still weaken the engine somewhat because the engine"
+msgstr "Ωστόσο, ακόμη και αυτό θα εξασθενήσει κάπως τον κινητήρα επειδή ο κινητήρας"
+
+#: main_16.cpp:173
+msgid "will use the < MultiPV > method of searching, which is slower than normal."
+msgstr "θα χρησιμοποιήσει τη μέθοδο αναζήτησης < MultiPV >, η οποία είναι πιο αργή από το κανονικό."
+
+#: main_16.cpp:175
+msgid "< Moves to go > is the number of moves that the engine is required to play"
+msgstr "< Κινήσεις προς έναρξη > είναι ο αριθμός των κινήσεων που πρέπει να αναπαράγει η μηχανή"
+
+#: main_16.cpp:177
+msgid "in whatever time it has remaining.  So if it has 2 minutes, 40 seconds left"
+msgstr "σε όποιο χρόνο του απομένει. Έτσι, αν του απομένουν 2 λεπτά, 40 δευτερόλεπτα"
+
+#: main_16.cpp:179
+msgid "(160 seconds) and moves to go is set to 40 for that time period,"
+msgstr "(160 δευτερόλεπτα) και οι κινήσεις που απομένουν έχουν οριστεί σε 40 για αυτήν την χρονική περίοδο,"
+
+#: main_16.cpp:181
+msgid "it will calculate the time available for its next move as \t160 / 40 = 4 seconds"
+msgstr "θα υπολογίσει τον διαθέσιμο χρόνο για την επόμενη κίνησή του ως \t160 / 40 = 4 δευτερόλεπτα"
+
+#: main_16.cpp:183
+msgid "and spend roughly that amount of time \ton its next move."
+msgstr "και να αφιερώσει περίπου αυτόν τον χρόνο στην επόμενη κίνησή του."
+
+#: main_16.cpp:185
+msgid "So the engine will play progressively faster as its time ticks away."
+msgstr "Έτσι, ο κινητήρας θα παίζει προοδευτικά πιο γρήγορα καθώς ο χρόνος του περνάει."
+
+#: main_16.cpp:187
+msgid "I have set different numbers for various time periods to even out the time usage."
+msgstr "Έχω ορίσει διαφορετικούς αριθμούς για διάφορες χρονικές περιόδους για να εξισορροπήσω τη χρήση του χρόνου."
+
+#: main_16.cpp:189
+msgid "Although I find it best to set a higher number for the last minute,"
+msgstr "Αν και θεωρώ καλύτερο να ορίζω μεγαλύτερο αριθμό για την τελευταία στιγμή,"
+
+#: main_16.cpp:191
+msgid "so that the engine does not lose on time."
+msgstr "έτσι ώστε ο κινητήρας να μην χάνει χρόνο."
+
+#: main_16.cpp:193
+msgid "Speeding up the engine, either by raising these < Moves to go > values,"
+msgstr "Επιτάχυνση του κινητήρα, είτε αυξάνοντας αυτές τις τιμές <Κινήσεις για να ξεκινήσει>,"
+
+#: main_16.cpp:195
+msgid "or by reducing the overall time it has for the game, is another way"
+msgstr "ή μειώνοντας τον συνολικό χρόνο που έχει για το παιχνίδι, είναι ένας άλλος τρόπος"
+
+#: main_16.cpp:197
+msgid "of weakening the engine."
+msgstr "αποδυνάμωσης του κινητήρα."
+
+#: main_16.cpp:199
+msgid "With the Cyclone Xtreme engine, loading a random personality will also"
+msgstr "Με τη μηχανή Cyclone Xtreme, η φόρτωση μιας τυχαίας προσωπικότητας θα"
+
+#: main_16.cpp:201
+msgid "usually weaken the engine."
+msgstr "συνήθως αποδυναμώνουν τον κινητήρα."
+
+#: main_16.cpp:203
+msgid "Armed with all of these options, you should be able to adjust"
+msgstr "Οπλισμένοι με όλες αυτές τις επιλογές, θα πρέπει να μπορείτε να προσαρμόσετε"
+
+#: main_16.cpp:205
+msgid "all of these engines to a playing strength that suits you,"
+msgstr "όλες αυτές τις μηχανές σε μια ισχύ παιχνιδιού που σας ταιριάζει,"
+
+#: main_16.cpp:207
+msgid "although it may take a fair amount of experimentation to achieve this."
+msgstr "αν και μπορεί να χρειαστεί αρκετός πειραματισμός για να επιτευχθεί αυτό."
