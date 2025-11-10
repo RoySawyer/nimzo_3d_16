@@ -1,0 +1,410 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-11-10 16:09+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_16.cpp:3
+msgid "UCI limit strength"
+msgstr "חוזק גבולי של UCI"
+
+#: main_16.cpp:5 main_16.cpp:38
+msgid "Chess engine UCI limit strength help"
+msgstr "עזרה במגבלת חוזק של מנוע שחמט UCI"
+
+#: main_16.cpp:7
+msgid "Select Cyclone Xtreme engine personality"
+msgstr "בחר את אופי המנוע של Cyclone Xtreme"
+
+#: main_16.cpp:9
+msgid "Reset engine file"
+msgstr "איפוס קובץ המנוע"
+
+#: main_16.cpp:11
+msgid "Create random personality file"
+msgstr "צור קובץ אישיות אקראי"
+
+#: main_16.cpp:13
+msgid "Create Cyclone Xtreme .cfg personality file"
+msgstr "צור קובץ אישיות .cfg של Cyclone Xtreme"
+
+#: main_16.cpp:15
+msgid "Cyclone Xtreme engine options"
+msgstr "אפשרויות מנוע Cyclone Xtreme"
+
+#: main_16.cpp:18
+msgid "Reset the Cyclone Xtreme engine configuration file to the default values"
+msgstr "איפוס קובץ התצורה של מנוע Cyclone Xtreme לערכי ברירת המחדל"
+
+#: main_16.cpp:20
+msgid "Create a random personality file for the Cyclone Xtreme engine"
+msgstr "צור קובץ אישיות אקראי עבור מנוע Cyclone Xtreme"
+
+#: main_16.cpp:22
+msgid "Select the default < cyclone.cfg > personality file"
+msgstr "בחר את קובץ האישיות <cyclone.cfg> המוגדר כברירת מחדל"
+
+#: main_16.cpp:23
+msgid "Hold down the shift key to clear the input box"
+msgstr "החזק את מקש Shift לחוץ כדי לנקות את תיבת הקלט"
+
+#: main_16.cpp:25
+msgid "was reset to the default values"
+msgstr "אופס לערכי ברירת המחדל"
+
+#: main_16.cpp:27
+msgid "Error resetting"
+msgstr "שגיאה באיפוס"
+
+#: main_16.cpp:29
+msgid "Random engine configuration file"
+msgstr "קובץ תצורת מנוע אקראי"
+
+#: main_16.cpp:30
+msgid "created"
+msgstr "נוצר"
+
+#: main_16.cpp:32
+msgid "Error creating random engine configuration file"
+msgstr "שגיאה ביצירת קובץ תצורת מנוע אקראי"
+
+#: main_16.cpp:34
+msgid "Help for Cyclone Xtreme engine"
+msgstr "עזרה למנוע Cyclone Xtreme"
+
+#: main_16.cpp:36
+msgid "UCI Limit strength"
+msgstr "חוזק גבול UCI"
+
+#: main_16.cpp:41
+msgid "The Cyclone Xtreme engine which was written by Norman Schmidt"
+msgstr "מנוע Cyclone Xtreme שנכתב על ידי נורמן שמידט"
+
+#: main_16.cpp:43
+msgid "is a Fruit derivative."
+msgstr "הוא נגזרת של פרי."
+
+#: main_16.cpp:45
+msgid "It has a huge number of parameters that can be used to tune the engine."
+msgstr "יש לו מספר עצום של פרמטרים שניתן להשתמש בהם כדי לכוונן את המנוע."
+
+#: main_16.cpp:47
+msgid "There is also a feature for creating random parameter files for the engine."
+msgstr "ישנה גם תכונה ליצירת קבצי פרמטרים אקראיים עבור המנוע."
+
+#: main_16.cpp:50
+msgid "I have made ten random parameter files, which I have called < Personalities >"
+msgstr "יצרתי עשרה קבצי פרמטרים אקראיים, שקראתי להם < Personalities >"
+
+#: main_16.cpp:52
+msgid "They are named < Person_1.cfg > up to < Person_10.cfg > and should be stored"
+msgstr "הם נקראים < Person_1.cfg > עד < Person_10.cfg > ויש לאחסן אותם"
+
+#: main_16.cpp:54
+msgid "in a < Personalities > directory located in the same directory as the engine."
+msgstr "בספרייה < Personalities > הממוקמת באותה ספרייה כמו המנוע."
+
+#: main_16.cpp:57
+msgid "These personalities can be made if you run the engine from the command prompt"
+msgstr "ניתן ליצור את האישיויות הללו אם מפעילים את המנוע משורת הפקודה"
+
+#: main_16.cpp:59
+msgid "but it is much simpler to make them using the options in Nimzo_3d."
+msgstr "אבל הרבה יותר פשוט ליצור אותם באמצעות האפשרויות ב-Nimzo_3d."
+
+#: main_16.cpp:62
+msgid "Options available in the dialog box -"
+msgstr "אפשרויות זמינות בתיבת הדו-שיח -"
+
+#: main_16.cpp:65
+msgid "Select Cyclone Xtreme personality file  -  opens a Windows Explorer window"
+msgstr "בחירת קובץ אישיות Cyclone Xtreme - פותחת חלון סייר Windows"
+
+#: main_16.cpp:67
+msgid "which you can use to select the personality file for the engine."
+msgstr "שבו ניתן להשתמש כדי לבחור את קובץ האישיות עבור המנוע."
+
+#: main_16.cpp:70
+msgid "Reset Engine  -  Reset the Cyclone Xtreme engine personality file"
+msgstr "איפוס מנוע - איפוס קובץ האישיות של מנוע Cyclone Xtreme"
+
+#: main_16.cpp:72
+msgid "to the default values."
+msgstr "לערכי ברירת המחדל."
+
+#: main_16.cpp:75
+msgid "Create random personality file  -  opens a Windows Explorer window"
+msgstr "צור קובץ אישיות אקראי - פותח חלון סייר Windows"
+
+#: main_16.cpp:77
+msgid "which you can use to select the random personality file for the engine."
+msgstr "שבו ניתן להשתמש כדי לבחור את קובץ האישיות האקראי עבור המנוע."
+
+#: main_16.cpp:79
+msgid "When you click on < Open > the file will be created."
+msgstr "כאשר תלחצו על <פתח> הקובץ ייווצר."
+
+#: main_16.cpp:82
+msgid "When a personality is selected, the default personality file < cyclone.cfg >"
+msgstr "כאשר נבחרת אישיות, קובץ האישיות המוגדר כברירת מחדל < cyclone.cfg >"
+
+#: main_16.cpp:84
+msgid "which is in the same directory as the engine, has its values over-written"
+msgstr "אשר נמצא באותה ספרייה כמו המנוע, ערכיו מוחלפים"
+
+#: main_16.cpp:86
+msgid "with the ones contained in the file that you select."
+msgstr "עם אלה הכלולים בקובץ שבחרת."
+
+#: main_16.cpp:89
+msgid "There is a copy of the original version of < cyclone.cfg >"
+msgstr "יש עותק של הגרסה המקורית של <cyclone.cfg>"
+
+#: main_16.cpp:91
+msgid "in the < Personalities > directory and when you choose < Reset engine >"
+msgstr "בספריית < Personalities > וכאשר תבחרו < Reset engine >"
+
+#: main_16.cpp:93
+msgid "it is copied over the < cyclone.cfg > in the engine directory."
+msgstr "הוא מועתק דרך <cyclone.cfg> בתיקיית המנוע."
+
+#: main_16.cpp:95
+msgid "The engine has a repository on GitHub at -"
+msgstr "למנוע יש מאגר ב-GitHub בכתובת -"
+
+#: main_16.cpp:97
+msgid "When < UCI_LimitStrength > is enabled, the engine uses the < UCI_Elo > value"
+msgstr "כאשר <UCI_LimitStrength> מופעל, המנוע משתמש בערך <UCI_Elo>"
+
+#: main_16.cpp:99
+msgid "to adjust its playing strength. Engines use different algorithms to achieve this,"
+msgstr "כדי להתאים את עוצמת הנגינה שלו. מנועים משתמשים באלגוריתמים שונים כדי להשיג זאת,"
+
+#: main_16.cpp:101
+msgid "such as reducing the search depth, limiting the number of positions examined,"
+msgstr "כגון צמצום עומק החיפוש, הגבלת מספר המיקומים הנבדקים,"
+
+#: main_16.cpp:103
+msgid "or adding some randomness to the evaluation function."
+msgstr "או הוספת אקראיות מסוימת לפונקציית ההערכה."
+
+#: main_16.cpp:105
+msgid "The actual Elo rating achieved by the engine is often an estimate,"
+msgstr "דירוג ה-Elo בפועל שמושג על ידי המנוע הוא לעתים קרובות הערכה,"
+
+#: main_16.cpp:107
+msgid "as it's difficult to calibrate precisely."
+msgstr "מכיוון שקשה לכייל במדויק."
+
+#: main_16.cpp:109
+msgid "You can use this feature to play an engine at a level comparable to your own"
+msgstr "ניתן להשתמש בתכונה זו כדי לנגן מנוע ברמה דומה לשלך"
+
+#: main_16.cpp:111
+msgid "or to test different engine strengths, even if the exact Elo isn't perfect."
+msgstr "או לבחון עוצמות מנוע שונות, גם אם ה-Elo המדויק אינו מושלם."
+
+#: main_16.cpp:113
+msgid "I have added the < UCI_LimitStrength > option to four engines -"
+msgstr "הוספתי את האפשרות <UCI_LimitStrength> לארבעה מנועים -"
+
+#: main_16.cpp:115
+msgid "Gambit Fruit, Toga II, Cyclone Xtreme and Firenzina."
+msgstr "גמביט פרוט, טוגה 2, ציקלון אקסטרים ופירנצינה."
+
+#: main_16.cpp:117
+msgid "Apart from setting the Elo rating, the playing strength"
+msgstr "מלבד קביעת דירוג ה-Elo, עוצמת הנגינה"
+
+#: main_16.cpp:119
+msgid "of all of these engines can be further adjusted with other options."
+msgstr "של כל המנועים הללו ניתן לכוונן עוד יותר באמצעות אפשרויות נוספות."
+
+#: main_16.cpp:121
+msgid "The method that I have used is based on the code of Ryan Benitez"
+msgstr "השיטה בה השתמשתי מבוססת על הקוד של ריאן בניטז"
+
+#: main_16.cpp:123
+msgid "in the Gambit Fruit engine.  He wrote a delay loop governed by the"
+msgstr "במנוע גמביט פרי. הוא כתב לולאת השהייה הנשלטת על ידי"
+
+#: main_16.cpp:125
+msgid "number of nodes (positions) per second that the engine analyses."
+msgstr "מספר הצמתים (מיקומים) לשנייה שהמנוע מנתח."
+
+#: main_16.cpp:127
+msgid "I mapped an Elo rating to a nodes per second value using the following"
+msgstr "מיפיתי דירוג Elo לערך של צמתים לשנייה באמצעות הפונקציה הבאה."
+
+#: main_16.cpp:129
+msgid "algorithm devised by Ferdinand Mosca"
+msgstr "אלגוריתם שפותח על ידי פרדיננד מוסקה"
+
+#: main_16.cpp:131
+msgid "nodes_per_second ="
+msgstr "צמתים_לשנייה ="
+
+#: main_16.cpp:133
+msgid "I made the addition adjustment in the original formula into a variable"
+msgstr "ביצעתי את התאמת החיבור בנוסחה המקורית למשתנה"
+
+#: main_16.cpp:135
+msgid "< nps_elo_adjustment > in order to fine tune the conversion formula."
+msgstr "< nps_elo_adjustment > על מנת לכוונן את נוסחת ההמרה."
+
+#: main_16.cpp:137
+msgid "This can be set by the user in engine parameters."
+msgstr "ניתן להגדיר זאת על ידי המשתמש בפרמטרי המנוע."
+
+#: main_16.cpp:139
+msgid "Increase this value to make the engine stronger,"
+msgstr "הגדל ערך זה כדי לחזק את המנוע,"
+
+#: main_16.cpp:141
+msgid "decrease it to make the engine weaker."
+msgstr "להקטין אותו כדי להחליש את המנוע."
+
+#: main_16.cpp:143
+msgid "There is also a < Variety > parameter that can be adjusted."
+msgstr "ישנו גם פרמטר <Variety> שניתן לכוונן."
+
+#: main_16.cpp:145
+msgid "My intention for this option was that the engine would play a more varied game."
+msgstr "הכוונה שלי באפשרות הזו הייתה שהמנוע ישחק משחק מגוון יותר."
+
+#: main_16.cpp:147
+msgid "Then I realised that it could be combined with an < Allowed deficit > option"
+msgstr "ואז הבנתי שאפשר לשלב את זה עם אפשרות < גירעון מותר >"
+
+#: main_16.cpp:149
+msgid "to adjust the engine playing strength further."
+msgstr "כדי להתאים עוד יותר את עוצמת נגינת המנוע."
+
+#: main_16.cpp:151
+msgid "Lines that are weaker than the < Allowed deficit(centi-pawns) >"
+msgstr "קווים חלשים יותר מ-<הגירעון המותר (סנטי-פיונים)>"
+
+#: main_16.cpp:153
+msgid "when compared to the best move found, are excluded when a move is selected."
+msgstr "בהשוואה למהלך הטוב ביותר שנמצא, אינם נכללים כאשר נבחר מהלך."
+
+#: main_16.cpp:155
+msgid "The move that will be played is chosen at random from the remaining moves."
+msgstr "המהלך שיבוצע נבחר באופן אקראי מבין המהלכים הנותרים."
+
+#: main_16.cpp:157
+msgid "So raising the value of < Variety > and < Allowed deficit > weakens the engine."
+msgstr "לכן העלאת הערך של <Variety> ו-<Allowed deficit> מחלישה את המנוע."
+
+#: main_16.cpp:159
+msgid "Therefore, if you want the engine to sometimes blunder a rook,"
+msgstr "לכן, אם אתם רוצים שהמנוע לפעמים יגרום לטעות בנהג,"
+
+#: main_16.cpp:161
+msgid "the upper limit of < Allowed deficit > should be set to 600"
+msgstr "יש לקבוע את הגבול העליון של <גירעון מותר> ל-600"
+
+#: main_16.cpp:163
+msgid "To occasionally blunder a knight or bishop, it should be set to 350"
+msgstr "כדי לטעות מדי פעם עם אביר או רוכב, יש להגדיר אותו ל-350"
+
+#: main_16.cpp:165
+msgid "for a pawn it should be about 125."
+msgstr "עבור חייל זה צריך להיות בערך 125."
+
+#: main_16.cpp:167
+msgid "You can use the < Variety > option just to vary the play if you set"
+msgstr "ניתן להשתמש באפשרות <Variety> רק כדי לשנות את המנגינה אם הגדרתם"
+
+#: main_16.cpp:169
+msgid "the < Allowed deficit > to a low value, say 25 centi-pawns."
+msgstr "ה- <גירעון המותר> לערך נמוך, נניח 25 סנט-פיונים."
+
+#: main_16.cpp:171
+msgid "However, even this will still weaken the engine somewhat because the engine"
+msgstr "עם זאת, אפילו זה עדיין יחליש את המנוע במידה מסוימת מכיוון שהמנוע"
+
+#: main_16.cpp:173
+msgid "will use the < MultiPV > method of searching, which is slower than normal."
+msgstr "ישתמש בשיטת החיפוש <MultiPV>, שהיא איטית מהרגיל."
+
+#: main_16.cpp:175
+msgid "< Moves to go > is the number of moves that the engine is required to play"
+msgstr "<Moves to go> הוא מספר המהלכים שהמנוע נדרש לבצע"
+
+#: main_16.cpp:177
+msgid "in whatever time it has remaining.  So if it has 2 minutes, 40 seconds left"
+msgstr "בכל זמן שנותר לו. אז אם נותרו לו 2 דקות ו-40 שניות"
+
+#: main_16.cpp:179
+msgid "(160 seconds) and moves to go is set to 40 for that time period,"
+msgstr "(160 שניות) והמהלכים שנשארו מוגדרים ל-40 עבור פרק זמן זה,"
+
+#: main_16.cpp:181
+msgid "it will calculate the time available for its next move as \t160 / 40 = 4 seconds"
+msgstr "הוא יחשב את הזמן הזמין לצעד הבא שלו כ-\t160 / 40 = 4 שניות"
+
+#: main_16.cpp:183
+msgid "and spend roughly that amount of time \ton its next move."
+msgstr "ולהשקיע בערך את כמות הזמן הזו בצעד הבא שלו."
+
+#: main_16.cpp:185
+msgid "So the engine will play progressively faster as its time ticks away."
+msgstr "אז המנוע יפעל מהר יותר ויותר ככל שהזמן שלו מתקתק."
+
+#: main_16.cpp:187
+msgid "I have set different numbers for various time periods to even out the time usage."
+msgstr "הגדרתי מספרים שונים לתקופות זמן שונות כדי לאזן את ניצול הזמן."
+
+#: main_16.cpp:189
+msgid "Although I find it best to set a higher number for the last minute,"
+msgstr "למרות שאני מוצא שעדיף לקבוע מספר גבוה יותר לרגע האחרון,"
+
+#: main_16.cpp:191
+msgid "so that the engine does not lose on time."
+msgstr "כדי שהמנוע לא יאבד זמן."
+
+#: main_16.cpp:193
+msgid "Speeding up the engine, either by raising these < Moves to go > values,"
+msgstr "האצת המנוע, בין אם על ידי העלאת ערכי <Moves to go>,"
+
+#: main_16.cpp:195
+msgid "or by reducing the overall time it has for the game, is another way"
+msgstr "או על ידי צמצום הזמן הכולל שיש למשחק, זוהי דרך נוספת"
+
+#: main_16.cpp:197
+msgid "of weakening the engine."
+msgstr "של היחלשות המנוע."
+
+#: main_16.cpp:199
+msgid "With the Cyclone Xtreme engine, loading a random personality will also"
+msgstr "עם מנוע Cyclone Xtreme, טעינת אישיות אקראית גם תעשה זאת."
+
+#: main_16.cpp:201
+msgid "usually weaken the engine."
+msgstr "בדרך כלל מחלישים את המנוע."
+
+#: main_16.cpp:203
+msgid "Armed with all of these options, you should be able to adjust"
+msgstr "מצוידים בכל האפשרויות הללו, אתה אמור להיות מסוגל להתאים"
+
+#: main_16.cpp:205
+msgid "all of these engines to a playing strength that suits you,"
+msgstr "כל המנועים האלה לעוצמת נגינה שמתאימה לך,"
+
+#: main_16.cpp:207
+msgid "although it may take a fair amount of experimentation to achieve this."
+msgstr "למרות שייתכן שיידרש לא מעט ניסויים כדי להשיג זאת."
