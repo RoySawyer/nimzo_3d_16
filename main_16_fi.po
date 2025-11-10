@@ -1,0 +1,410 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-11-10 16:09+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_16.cpp:3
+msgid "UCI limit strength"
+msgstr "UCI:n rajalujuus"
+
+#: main_16.cpp:5 main_16.cpp:38
+msgid "Chess engine UCI limit strength help"
+msgstr "Shakkimoottorin UCI-rajoitusvoimakkuusapu"
+
+#: main_16.cpp:7
+msgid "Select Cyclone Xtreme engine personality"
+msgstr "Valitse Cyclone Xtreme -moottorin persoonallisuus"
+
+#: main_16.cpp:9
+msgid "Reset engine file"
+msgstr "Palauta moottoritiedosto"
+
+#: main_16.cpp:11
+msgid "Create random personality file"
+msgstr "Luo satunnainen persoonallisuustiedosto"
+
+#: main_16.cpp:13
+msgid "Create Cyclone Xtreme .cfg personality file"
+msgstr "Luo Cyclone Xtreme .cfg -persoonallisuustiedosto"
+
+#: main_16.cpp:15
+msgid "Cyclone Xtreme engine options"
+msgstr "Cyclone Xtreme -moottorivaihtoehdot"
+
+#: main_16.cpp:18
+msgid "Reset the Cyclone Xtreme engine configuration file to the default values"
+msgstr "Palauta Cyclone Xtreme -moottorin määritystiedosto oletusarvoihin"
+
+#: main_16.cpp:20
+msgid "Create a random personality file for the Cyclone Xtreme engine"
+msgstr "Luo satunnainen persoonallisuustiedosto Cyclone Xtreme -pelimoottorille"
+
+#: main_16.cpp:22
+msgid "Select the default < cyclone.cfg > personality file"
+msgstr "Valitse oletusarvoinen < cyclone.cfg > -ohjelmatiedosto"
+
+#: main_16.cpp:23
+msgid "Hold down the shift key to clear the input box"
+msgstr "Pidä vaihtonäppäintä painettuna tyhjentääksesi syöttökentän"
+
+#: main_16.cpp:25
+msgid "was reset to the default values"
+msgstr "palautettiin oletusarvoihin"
+
+#: main_16.cpp:27
+msgid "Error resetting"
+msgstr "Virhe nollauksessa"
+
+#: main_16.cpp:29
+msgid "Random engine configuration file"
+msgstr "Satunnainen moottorin määritystiedosto"
+
+#: main_16.cpp:30
+msgid "created"
+msgstr "luotu"
+
+#: main_16.cpp:32
+msgid "Error creating random engine configuration file"
+msgstr "Virhe luotaessa satunnaista moottorin määritystiedostoa"
+
+#: main_16.cpp:34
+msgid "Help for Cyclone Xtreme engine"
+msgstr "Apua Cyclone Xtreme -moottoriin"
+
+#: main_16.cpp:36
+msgid "UCI Limit strength"
+msgstr "UCI-raja-lujuus"
+
+#: main_16.cpp:41
+msgid "The Cyclone Xtreme engine which was written by Norman Schmidt"
+msgstr "Norman Schmidtin kirjoittama Cyclone Xtreme -pelimoottori"
+
+#: main_16.cpp:43
+msgid "is a Fruit derivative."
+msgstr "on hedelmäjohdannainen."
+
+#: main_16.cpp:45
+msgid "It has a huge number of parameters that can be used to tune the engine."
+msgstr "Siinä on valtava määrä parametreja, joita voidaan käyttää moottorin virittämiseen."
+
+#: main_16.cpp:47
+msgid "There is also a feature for creating random parameter files for the engine."
+msgstr "Moottorille on myös ominaisuus satunnaisten parametritiedostojen luomiseen."
+
+#: main_16.cpp:50
+msgid "I have made ten random parameter files, which I have called < Personalities >"
+msgstr "Olen tehnyt kymmenen satunnaisparametritiedostoa, joille olen antanut nimeksi <Personaliteetit>"
+
+#: main_16.cpp:52
+msgid "They are named < Person_1.cfg > up to < Person_10.cfg > and should be stored"
+msgstr "Ne on nimetty < Person_1.cfg > - < Person_10.cfg > -muotoon, ja ne tulisi tallentaa."
+
+#: main_16.cpp:54
+msgid "in a < Personalities > directory located in the same directory as the engine."
+msgstr "<Personalities>-hakemistossa, joka sijaitsee samassa hakemistossa kuin hakukone."
+
+#: main_16.cpp:57
+msgid "These personalities can be made if you run the engine from the command prompt"
+msgstr "Nämä persoonallisuudet voidaan luoda, jos suoritat moottorin komentokehotteesta."
+
+#: main_16.cpp:59
+msgid "but it is much simpler to make them using the options in Nimzo_3d."
+msgstr "mutta niiden tekeminen Nimzo_3d:n asetuksilla on paljon yksinkertaisempaa."
+
+#: main_16.cpp:62
+msgid "Options available in the dialog box -"
+msgstr "Valintaikkunassa käytettävissä olevat asetukset -"
+
+#: main_16.cpp:65
+msgid "Select Cyclone Xtreme personality file  -  opens a Windows Explorer window"
+msgstr "Valitse Cyclone Xtreme -persoonallisuustiedosto - avaa Windowsin Resurssienhallinta-ikkunan"
+
+#: main_16.cpp:67
+msgid "which you can use to select the personality file for the engine."
+msgstr "jota voit käyttää moottorin persoonallisuustiedoston valitsemiseen."
+
+#: main_16.cpp:70
+msgid "Reset Engine  -  Reset the Cyclone Xtreme engine personality file"
+msgstr "Nollaa moottori - Nollaa Cyclone Xtreme -moottorin persoonallisuustiedosto"
+
+#: main_16.cpp:72
+msgid "to the default values."
+msgstr "oletusarvoihin."
+
+#: main_16.cpp:75
+msgid "Create random personality file  -  opens a Windows Explorer window"
+msgstr "Luo satunnainen persoonallisuustiedosto - avaa Windowsin Resurssienhallinta-ikkunan"
+
+#: main_16.cpp:77
+msgid "which you can use to select the random personality file for the engine."
+msgstr "jota voit käyttää moottorin satunnaisen persoonallisuustiedoston valitsemiseen."
+
+#: main_16.cpp:79
+msgid "When you click on < Open > the file will be created."
+msgstr "Kun napsautat <Avaa>, tiedosto luodaan."
+
+#: main_16.cpp:82
+msgid "When a personality is selected, the default personality file < cyclone.cfg >"
+msgstr "Kun persoonallisuus valitaan, oletusarvoinen persoonallisuustiedosto < cyclone.cfg >"
+
+#: main_16.cpp:84
+msgid "which is in the same directory as the engine, has its values over-written"
+msgstr "joka on samassa hakemistossa kuin moottori, sen arvot korvataan"
+
+#: main_16.cpp:86
+msgid "with the ones contained in the file that you select."
+msgstr "valitsemassasi tiedostossa olevien kanssa."
+
+#: main_16.cpp:89
+msgid "There is a copy of the original version of < cyclone.cfg >"
+msgstr "Alkuperäisestä <cyclone.cfg>-tiedostosta on olemassa kopio."
+
+#: main_16.cpp:91
+msgid "in the < Personalities > directory and when you choose < Reset engine >"
+msgstr "<Personalities>-hakemistossa ja kun valitset <Nollaa moottori >"
+
+#: main_16.cpp:93
+msgid "it is copied over the < cyclone.cfg > in the engine directory."
+msgstr "se kopioidaan moottorihakemiston <cyclone.cfg>-tiedoston päälle."
+
+#: main_16.cpp:95
+msgid "The engine has a repository on GitHub at -"
+msgstr "Moottorilla on GitHubissa oma arkistonsa osoitteessa -"
+
+#: main_16.cpp:97
+msgid "When < UCI_LimitStrength > is enabled, the engine uses the < UCI_Elo > value"
+msgstr "Kun <UCI_LimitStrength> on käytössä, moottori käyttää <UCI_Elo>-arvoa."
+
+#: main_16.cpp:99
+msgid "to adjust its playing strength. Engines use different algorithms to achieve this,"
+msgstr "säätääkseen soittovoimakkuuttaan. Moottorit käyttävät tähän erilaisia ​​algoritmeja,"
+
+#: main_16.cpp:101
+msgid "such as reducing the search depth, limiting the number of positions examined,"
+msgstr "kuten hakusyvyyden pienentäminen, tutkittavien sijaintien määrän rajoittaminen,"
+
+#: main_16.cpp:103
+msgid "or adding some randomness to the evaluation function."
+msgstr "tai lisäämällä arviointifunktioon satunnaisuutta."
+
+#: main_16.cpp:105
+msgid "The actual Elo rating achieved by the engine is often an estimate,"
+msgstr "Moottorin saavuttama todellinen Elo-luokitus on usein arvio,"
+
+#: main_16.cpp:107
+msgid "as it's difficult to calibrate precisely."
+msgstr "koska sitä on vaikea kalibroida tarkasti."
+
+#: main_16.cpp:109
+msgid "You can use this feature to play an engine at a level comparable to your own"
+msgstr "Voit käyttää tätä ominaisuutta pelataksesi pelimoottoria omaasi vastaavalla tasolla."
+
+#: main_16.cpp:111
+msgid "or to test different engine strengths, even if the exact Elo isn't perfect."
+msgstr "tai testata eri moottorin voimakkuuksia, vaikka tarkka Elo ei olisikaan täydellinen."
+
+#: main_16.cpp:113
+msgid "I have added the < UCI_LimitStrength > option to four engines -"
+msgstr "Olen lisännyt <UCI_LimitStrength>-vaihtoehdon neljään moottoriin -"
+
+#: main_16.cpp:115
+msgid "Gambit Fruit, Toga II, Cyclone Xtreme and Firenzina."
+msgstr "Gambit Fruit, Toga II, Cyclone Xtreme ja Firenzina."
+
+#: main_16.cpp:117
+msgid "Apart from setting the Elo rating, the playing strength"
+msgstr "Elo-luokituksen asettamisen lisäksi pelivoimakkuus"
+
+#: main_16.cpp:119
+msgid "of all of these engines can be further adjusted with other options."
+msgstr "Kaikkia näitä moottoreita voidaan säätää edelleen muilla lisävarusteilla."
+
+#: main_16.cpp:121
+msgid "The method that I have used is based on the code of Ryan Benitez"
+msgstr "Käyttämäni menetelmä perustuu Ryan Benitezin koodiin."
+
+#: main_16.cpp:123
+msgid "in the Gambit Fruit engine.  He wrote a delay loop governed by the"
+msgstr "Gambit Fruit -moottorissa. Hän kirjoitti viivesilmukan, jota ohjasi"
+
+#: main_16.cpp:125
+msgid "number of nodes (positions) per second that the engine analyses."
+msgstr "moottorin analysoimien solmujen (positioiden) määrä sekunnissa."
+
+#: main_16.cpp:127
+msgid "I mapped an Elo rating to a nodes per second value using the following"
+msgstr "Kartoitin Elo-luokituksen solmujen sekuntiarvoon käyttämällä seuraavaa"
+
+#: main_16.cpp:129
+msgid "algorithm devised by Ferdinand Mosca"
+msgstr "Ferdinand Moscan kehittämä algoritmi"
+
+#: main_16.cpp:131
+msgid "nodes_per_second ="
+msgstr "solmuja_sekunnissa ="
+
+#: main_16.cpp:133
+msgid "I made the addition adjustment in the original formula into a variable"
+msgstr "Tein alkuperäisen kaavan yhteenlaskukorjauksen muuttujaan"
+
+#: main_16.cpp:135
+msgid "< nps_elo_adjustment > in order to fine tune the conversion formula."
+msgstr "< nps_elo_adjustment > muunnoskaavan hienosäätöä varten."
+
+#: main_16.cpp:137
+msgid "This can be set by the user in engine parameters."
+msgstr "Käyttäjä voi asettaa tämän moottorin parametreissa."
+
+#: main_16.cpp:139
+msgid "Increase this value to make the engine stronger,"
+msgstr "Suurenna tätä arvoa, jos haluat moottorin olevan tehokkaampi,"
+
+#: main_16.cpp:141
+msgid "decrease it to make the engine weaker."
+msgstr "pienennä sitä, jotta moottori heikkenee."
+
+#: main_16.cpp:143
+msgid "There is also a < Variety > parameter that can be adjusted."
+msgstr "Myös <Variety>-parametria voidaan säätää."
+
+#: main_16.cpp:145
+msgid "My intention for this option was that the engine would play a more varied game."
+msgstr "Tarkoitukseni tällä vaihtoehdolla oli, että moottori pelaisi monipuolisemmin."
+
+#: main_16.cpp:147
+msgid "Then I realised that it could be combined with an < Allowed deficit > option"
+msgstr "Sitten tajusin, että sen voisi yhdistää < Sallittu alijäämä > -vaihtoehtoon"
+
+#: main_16.cpp:149
+msgid "to adjust the engine playing strength further."
+msgstr "säätääksesi moottorin soittovoimakkuutta lisää."
+
+#: main_16.cpp:151
+msgid "Lines that are weaker than the < Allowed deficit(centi-pawns) >"
+msgstr "Linjat, jotka ovat heikompia kuin < Sallittu alijäämä (senttisotilaat) >"
+
+#: main_16.cpp:153
+msgid "when compared to the best move found, are excluded when a move is selected."
+msgstr "verrattuna parhaaseen löydettyyn siirtoon, suljetaan pois siirtoa valittaessa."
+
+#: main_16.cpp:155
+msgid "The move that will be played is chosen at random from the remaining moves."
+msgstr "Pelattava siirto valitaan satunnaisesti jäljellä olevista siirroista."
+
+#: main_16.cpp:157
+msgid "So raising the value of < Variety > and < Allowed deficit > weakens the engine."
+msgstr "Joten <Variety>- ja <Allowed deficit> -arvojen nostaminen heikentää moottoria."
+
+#: main_16.cpp:159
+msgid "Therefore, if you want the engine to sometimes blunder a rook,"
+msgstr "Siksi, jos haluat moottorin joskus tekevän virheen tornissa,"
+
+#: main_16.cpp:161
+msgid "the upper limit of < Allowed deficit > should be set to 600"
+msgstr "Sallitun alijäämän ylärajaksi tulisi asettaa 600"
+
+#: main_16.cpp:163
+msgid "To occasionally blunder a knight or bishop, it should be set to 350"
+msgstr "Jos haluat satunnaisesti tehdä virheen ratsun tai lähetin kanssa, se tulisi asettaa arvoon 350."
+
+#: main_16.cpp:165
+msgid "for a pawn it should be about 125."
+msgstr "Sotilaalla sen pitäisi olla noin 125."
+
+#: main_16.cpp:167
+msgid "You can use the < Variety > option just to vary the play if you set"
+msgstr "Voit käyttää <Variety>-vaihtoehtoa vain pelin vaihteluun, jos asetat"
+
+#: main_16.cpp:169
+msgid "the < Allowed deficit > to a low value, say 25 centi-pawns."
+msgstr "< Sallittu alijäämä > pieneksi, esimerkiksi 25 senttisotilaaksi."
+
+#: main_16.cpp:171
+msgid "However, even this will still weaken the engine somewhat because the engine"
+msgstr "Tämäkin kuitenkin heikentää moottoria jonkin verran, koska moottori"
+
+#: main_16.cpp:173
+msgid "will use the < MultiPV > method of searching, which is slower than normal."
+msgstr "käyttää <MultiPV>-hakumenetelmää, joka on normaalia hitaampi."
+
+#: main_16.cpp:175
+msgid "< Moves to go > is the number of moves that the engine is required to play"
+msgstr "< Jäljellä olevat siirrot > on siirtojen määrä, joka moottorilta vaaditaan suoritettavaksi"
+
+#: main_16.cpp:177
+msgid "in whatever time it has remaining.  So if it has 2 minutes, 40 seconds left"
+msgstr "niin kauan kuin sillä on jäljellä. Joten jos sillä on 2 minuuttia ja 40 sekuntia jäljellä"
+
+#: main_16.cpp:179
+msgid "(160 seconds) and moves to go is set to 40 for that time period,"
+msgstr "(160 sekuntia) ja jäljellä olevien siirtojen määräksi on asetettu 40 kyseiselle ajanjaksolle,"
+
+#: main_16.cpp:181
+msgid "it will calculate the time available for its next move as \t160 / 40 = 4 seconds"
+msgstr "se laskee seuraavaan siirtoonsa käytettävissä olevan ajan seuraavasti: 160 / 40 = 4 sekuntia"
+
+#: main_16.cpp:183
+msgid "and spend roughly that amount of time \ton its next move."
+msgstr "ja käyttää suunnilleen saman verran aikaa seuraavaan siirtoonsa."
+
+#: main_16.cpp:185
+msgid "So the engine will play progressively faster as its time ticks away."
+msgstr "Joten moottori käy asteittain nopeammin ajan kuluessa."
+
+#: main_16.cpp:187
+msgid "I have set different numbers for various time periods to even out the time usage."
+msgstr "Olen asettanut eri numerot eri aikaväleille tasoittaakseni ajankäyttöä."
+
+#: main_16.cpp:189
+msgid "Although I find it best to set a higher number for the last minute,"
+msgstr "Vaikka mielestäni on parasta asettaa suurempi numero viime hetkellä,"
+
+#: main_16.cpp:191
+msgid "so that the engine does not lose on time."
+msgstr "jotta moottori ei menetä tehoaan ajoissa."
+
+#: main_16.cpp:193
+msgid "Speeding up the engine, either by raising these < Moves to go > values,"
+msgstr "Moottorin nopeuttaminen joko nostamalla näitä < Liikkuu eteenpäin > -arvoja,"
+
+#: main_16.cpp:195
+msgid "or by reducing the overall time it has for the game, is another way"
+msgstr "tai vähentämällä pelin kokonaisaikaa, on toinen tapa"
+
+#: main_16.cpp:197
+msgid "of weakening the engine."
+msgstr "moottorin heikentämisestä."
+
+#: main_16.cpp:199
+msgid "With the Cyclone Xtreme engine, loading a random personality will also"
+msgstr "Cyclone Xtreme -pelimoottorin ansiosta satunnaisen persoonallisuuden lataaminen myös..."
+
+#: main_16.cpp:201
+msgid "usually weaken the engine."
+msgstr "yleensä heikentävät moottoria."
+
+#: main_16.cpp:203
+msgid "Armed with all of these options, you should be able to adjust"
+msgstr "Kaikkien näiden vaihtoehtojen avulla sinun pitäisi pystyä säätämään"
+
+#: main_16.cpp:205
+msgid "all of these engines to a playing strength that suits you,"
+msgstr "kaikki nämä moottorit sinulle sopivaan soittovoimakkuuteen,"
+
+#: main_16.cpp:207
+msgid "although it may take a fair amount of experimentation to achieve this."
+msgstr "vaikka tämän saavuttaminen saattaa vaatia melkoisesti kokeilua."
